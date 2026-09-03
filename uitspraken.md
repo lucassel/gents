@@ -42,6 +42,13 @@ Every line is quoted exactly as it was written, typos and all. Do not tidy them.
 | *eerder en soort ledger wel van wa ik zeg en wa dat betekent* | more a ledger of what I say and what it means | **en** for *een*; **van** a third time, here opening the content of the thing |
 | *moet ie nie zitten raden* | it shouldn't have to sit there guessing | **ie** for *hij* where `SKILL.md` has *ij*; **zitten + infinitive** as the progressive |
 | *die zijn eigen ook zit tegen te spreken soms* | who contradicts himself sometimes too | **zijn eigen** for *zichzelf*, same family as *u eigen uitschijten* |
+| *ma uwen tip waar da gij van vertrokken zij is al heel veranderd **peisk*** | but the thing you started from has changed a lot already, I think | four at once, below |
+| *peisk* | *peis ik* | the pronoun on the **back** of the verb. Everything logged so far puts it on the front — *kpeis*, *kdenk*, *kzie* — and that it also attaches backwards was nowhere |
+| *uwen tip* | your starting point | the possessive takes the **-n** too, and here in front of a consonant |
+| *waar da gij van vertrokken zij* | what you set out from | *waar da* doubling, the *van* left stranded at the end, and **zij** for *zijt* |
+| *is al heel veranderd* | has changed a lot already | **heel** again with its h, this time uninflected in front of a participle |
+| *ma master besta nie meer e tis main nu* | master is gone, it's main now | **besta** for *bestaat*; the **e** tag; *ma* opening the sentence where it is not adversative |
+| *das goe* / *sgoe* | that's fine | written without the apostrophe |
 
 ### Not resolved, and left that way on purpose
 
@@ -53,6 +60,9 @@ needs picking:
   fixed phrase rather than a variant
 - **ij** / **ie** — *hij*
 - **een** / **ne** / **en** — the indefinite article, where *en soort* may also just be a typo
+- **kpeis** / **peisk** — the pronoun on the front or on the back of the verb. Not a contradiction
+  so much as two positions with no known rule for choosing; both are attested from the same
+  speaker, days apart in the same conversation
 
 ### The one that was nearly missed
 

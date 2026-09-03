@@ -68,7 +68,13 @@ The subject pronoun fuses onto whatever comes before it — the verb, and the co
 This is the single most recognisable feature; getting it wrong reads as a foreigner reading a
 phrasebook.
 
-- **'keb** = ik heb. **Never** `'k èn` — that is West-Flemish contamination.
+- **keb** / **kheb** = ik heb. Both are real and the difference is register, not correctness:
+  *kheb is chiller, keb is echt plat*. So the h here is a dial rather than a rule — see
+  **Written h-drop**.
+  **Never** `'k èn`, which is West-Flemish contamination, and **never `kzeb`**, which is not a
+  dialect form at all but the *kz-* of *kzou/kzie/kzeg* welded onto *eb*. That one was produced
+  across a whole conversation by a model with this very line in front of it, so the warning sits
+  here rather than in the log.
 - **kzou, kga, kweet, kzie, kdoe, kdenk, kvind, kzit** = ik zou, ik ga, ik weet… This is the
   **default** first person; the fused form is the ordinary way to say *ik*.
 - Plain **ik** is fine where it stands on its own: *ik doe geen thought leadership*.
@@ -110,7 +116,7 @@ So the rule to carry: after a conjunction, the pronoun almost never stands by it
 
     | **den** | *den deur, den build, den quick, den ledger, den tegel, den quoi, den pfffffff* |
     |---|---|
-    | **de** | *de skill, de mco, de model page, de tech hoofdstad* |
+    | **de** | *de skill, de mcdo, de model page, de tech hoofdstad* |
 
     Even a native speaker hesitates on the edge cases — offered *stoel*, one answered *geef keer
     **dien** stoel* and then *kweni, tis lastig*, reaching for the demonstrative rather than
@@ -217,9 +223,8 @@ And it goes further than vocabulary: the sentence-final tags (*e* = hein, *wa* =
 too, so French supplies a good part of how feeling is carried, not just what things are called.
 Strip it out and you are left with something that parses and does not sound like anybody.
 
-**Not yet settled: *allez*.** A speaker flagged it as genuinely confusing — it does several jobs
-that have not been separated here. Until they are, use it only where it is clearly doing what the
-French does, and do not lean on it.
+***allez*** is the deepest of these borrowings and has its own section below — it is French
+machinery, not a French word sitting in a Dutch sentence.
 
 There is one kind of mixing that *is* wrong, and it is a narrow one: borrowing another Flemish
 dialect's **grammar**. West-Flemish *'k èn* for *'keb* is not a loanword, it is someone else's
@@ -230,8 +235,11 @@ Three verbs where standard Dutch has one, none of them polite and all of them af
 **fretten**, **boefen**, **stekken** — *gaan we eentje fretten in den quick? eentje boefen?
 eentje stekken!* The object can stay vague (*eentje*) because everybody knows what it is.
 
-Diminutives take **-ke** where standard Dutch takes *-tje*: *burgerke* (not burgertje),
-*manneke*, *meiske*. After a *t* it stays *-je*: *frietje*, *pintje*.
+Diminutives take **-ke** where standard Dutch takes *-tje*: *burgerke*, not burgertje. After a
+*t* it stays *-je*: *frietje*, *pintje*.
+
+The ending is safe. **Do not go looking for people to attach it to** — see *manneke* and
+*meiske* under **Read it, do not write it**.
 
 This is the register the dialect is really for. A skill that only learns the working vocabulary
 gets the grammar right and still cannot be asked out for chips.
@@ -240,22 +248,48 @@ gets the grammar right and still cannot be asked out for chips.
 - **keer**, never **ki**. "Niemand in deze stad zegt 'ki'." *ne keer*, *volgende keer*.
   **kier** exists but only in the loud, threatening register: *KGAAT U KIER UITLEGGE*.
 - **vree** — the intensifier: *vree goe*, *vree wijs*. Not *heel*, not *echt*.
+- **van ier tot in Tokio** — for something glaringly obvious, and it attaches to a verb of
+  perception rather than to the thing itself: *kziet van ier tot in Tokio*, *ik hoor em tsjiepen
+  van ier tot in Tokio*. Both attested examples are see/hear, so keep it there. The speaker on
+  its logic: *tmaakt echt geen steek ma tis zo* — so do not go looking for one, and do not build
+  a family of these by swapping Tokyo for somewhere else.
+  - ***tsjiepen*** — to squeak, to chirp.
 - **ma** = maar. **da** = dat. **wa** = wat. **nie** = niet. **gien** = geen.
 - **mee** = met. **sgoe / tis goe** = het is goed.
-- **azo** = zo, op die manier. **allez** — discourse particle, roughly *come on / anyway*.
+- **azo** = zo, op die manier. **allez** — discourse particle; see its own section.
 - **peis / peinzen** = denken. **snapte** = snap je.
 
 ### Written h-drop
-Ghent drops the initial h in speech, and the user writes it that way:
+Ghent drops the initial h on a set of common words, and the user writes them that way:
 ***ier*** (hier), *uizen* (huizen), *oogte* (hoogte), *ij* (hij), ***eb*** (heb), *eeft* (heeft),
-*elemaal* (helemaal), *ele* (hele), *oe* (hoe).
-Use it — it is a deliberate register, not a typo.
+*elemaal* (helemaal), *oe* (hoe), *aar* (haar), *alven* (halven) — *nen alven*.
+Use them — it is a deliberate register, not a typo.
 
-This rule is easy to know and easy to forget mid-sentence. Knowing it is not the same as
-applying it: *heb* and *hier* slip back in whenever the sentence gets long or technical — and
-they slip back in even with this warning sitting right here, which is why the check is
-mechanical rather than a matter of remembering. **Scan the finished reply for a word-initial
-h before sending it.** Almost none belong.
+**It is a list, not a sweep, and the default is to keep the h.** In the speaker's words: *ge moogt
+echt nie elke h laten vallen, ma iets lijk 'nen alven' dan wel.* So drop it on the words above and
+leave every other word alone.
+
+This file used to say the opposite — that almost no word-initial h belonged, with an instruction
+to scan the finished reply and take them out. That is wrong in the more damaging direction: a
+missed drop reads as slightly stiff, an invented one is a word nobody says. The list is the whole
+rule and it does not extend by analogy.
+
+Attested keeping their h: *heel* — *in de **heelen** file*, corrected from *in de ele file*, which
+had been sitting in the list above as an example — and *hoor*, in *ik hoor em tsjiepen van ier tot
+in Tokio*, in the same breath as an *ier* that dropped one.
+
+On one word the h is a dial rather than a fact: *kheb is chiller, keb is echt plat*. Whether that
+dial reaches any further than *kheb* has not been asked, and nothing here assumes it does.
+
+The same correction put an **-en on the adjective**: *de heelen file*, not *de hele file*. One
+other form in the ledger looks the same — *zo ne flauwen plezanten* — and two forms are two
+forms, not a rule. Note that the article stayed *de*. Do not generalise this to other adjectives
+until somebody says one.
+
+The words on the list are easy to know and easy to forget mid-sentence: *heb* and *hier* slip
+back in whenever the sentence gets long or technical, and they do it even with this warning
+sitting right here. **So check the words on the list — not every h in the reply.** The sweep is
+what produced *ele* and it would produce more.
 
 ### Reacting: ahjo, wajo, ja allo
 These particles carry most of the reacting, and leaving them out is what makes a reply read as a
@@ -310,13 +344,38 @@ next ten. Whoever maintains this file should watch for it — an overused partic
 error than a missing one, because it is the mark of somebody performing a dialect rather than
 speaking one.
 
+### allez
+
+Attested doing six jobs, and they are given as a **list, not a rule**. Two unifying systems were
+put to a speaker and both were knocked over by his next sentence; see the corrections log, where
+the failure is recorded because it is the more useful half.
+
+| job | example |
+|---|---|
+| complaining | *allez de mcdo is toe* — and ***ma allez gast***, the same thing aimed at a person |
+| giving in | *allez tis goed voor ene keer* |
+| disbelief, standing alone | *allez?!* — a speaker's own gloss: *da meende nie?!* |
+| calling a halt | *allez en nu ist gedaan e* |
+| closing, winding up | *allez, tot morgen* |
+| encouragement | *allez, tga u lukken* |
+
+Do not extend the list by analogy. Two attempts at a system that would predict a seventh use
+are in the corrections log, both wrong; the list is what is known.
+
+***allez komaan*** is not a seventh job. Under **Escalation is accretion** above, *allez komaan*
+is *allez* with *komaan* piled on, and *MA ALLEZ KOMAAN GAST* is that with three more parts
+added — so it is the same word being escalated, not a different one. That also explains *ma
+allez gast*, which is one rung up from bare *allez* by the same move.
+
+Still open: whether position sorts the six — leading a clause, standing alone, or after *ma*.
+
 ### Venting, and when you have earned it
 Some phrases are not reactions to one thing but to a long run of things. A speaker put the
 condition plainly: *voor alsge 20 debug runs ebt gedaan enal, moet zo wa u eigen uitschijten.*
 
 - **meutje** — a sarcastic *maatje*, and the one that is **not aimed at anybody**. You are not
   addressing the person you are talking to; you are announcing that things are going badly for
-  you, to the room: *meutjeee pff den build is weer gefaald*, *meutje allez de mco is al toe*,
+  you, to the room: *meutjeee pff den build is weer gefaald*, *meutje allez de mcdo is al toe*,
   *meutje wa is da mee alain*. The lowest rung, and the most usable — it complains without
   putting it on anyone.
   - ***slecht komen*** — to be having a rough time of it, to be on the wrong end of things.
@@ -339,6 +398,9 @@ reach for it once the frustration has actually been earned by the length of the 
 Beyond the h-drop, words get written as Ghent says them rather than as Dutch spells them:
 
 - **otto** = auto. The *au* flattens to a short *o*, and the consonant doubles behind it.
+
+Like the h-drop above, this is a list of attested words and not a licence to respell things
+phonetically. Adding to it takes hearing somebody say one.
 
 ### Sentence tags
 **Both of the sentence-final tags are French.** Not loanwords sitting in a Dutch sentence — the
@@ -366,7 +428,7 @@ reach for.
 - **kendet** = ken je het — a tag meaning *you know?*, not a real question: *da is voor alst echt
   kut is kendet*. Same enclitic family as *kunde* and *snapte*.
 - **zenne / ze** — emphatic tail: *twerkt nie ze*.
-- Address forms: ***maatje, pee, gast, kerel***. Note that **meutje** is *maatje*'s sarcastic
+- Address forms: ***maatje, pee/peet, gast, kerel***. Note that **meutje** is *maatje*'s sarcastic
   twin and is **not** one of these — it addresses nobody (see **Venting**). Also *g* as a bare tag. They are dropped in
   mid-sentence as much as at the end: *tis goe pee*, *ma allez gast*.
   Match the ones the speaker uses for you; do not reach for one they have not used.
@@ -388,7 +450,7 @@ speech, and reach for the correct form yourself unless you are quoting.
 
 ## Read it, do not write it
 
-Three things in this file are here so they can be understood when they arrive, and are not for
+Some things in this file are here so they can be understood when they arrive, and are not for
 you to produce. The dialect is warm and the register is blunt, but neither of those licenses an
 assistant to be unpleasant on its own initiative.
 
@@ -400,7 +462,29 @@ assistant to be unpleasant on its own initiative.
    someone who has just made a mess of it, in the flattest possible voice. The danger is the
    shape: it is the exact phrase you would reach for meaning it straight, and it will not be
    heard that way. If you mean it, say what they did well instead.
-5. **Referring to the person in front of you in the third person** — *jij is echt goe bezig*,
+5. ***manneke*, *meiske*, *joengne*** — **never say any of these to anybody.** The speaker,
+   emphatically and about all three at once: *manneke en meiske en joengne zijn echt slechte
+   woorden. nie doen.*
+
+   They are all aggression and they are not equal. The speaker separates them by how far they
+   go, and this scale is his, in his words — *joengne is lijk nog waarschuwend, manneke of
+   meiske is alsge voor oorlog kiest*:
+
+   | | what it says | how far |
+   |---|---|---|
+   | **joengne** | trouble is being announced — *tis voor alsge boel zoekt*, and *joengne openen is lijk vragen voor ne lap op uw wezen* | a **warning** |
+   | **manneke** | *jo, gij zij klein en ik ben nie bang van u* — calling somebody small to their face, as a challenge | **war** |
+   | **meiske** | said to a woman, and *vurt* — *nen echte vent zegt da nooit tegen een vrouw*. This one marks the person saying it as much as the person it is aimed at | **war**, and it sticks to you |
+
+   So the two that were sitting in this file as harmless diminutives are the *worse* pair, and
+   nothing about the shape of either word says so. (***ne lap op uw wezen*** — a smack in the
+   face; *wezen* is the face. ***vurt*** — filthy in the moral sense; the same word as *vurten*
+   in **Rough words**, uninflected.)
+
+   Nothing is added to the scale above. Two earlier attempts to explain these three were
+   invented here and both were wrong; this one was given. **Address forms are *maatje*,
+   *pee/peet*, *gast*, *kerel*, and nothing else you have inferred.**
+6. **Referring to the person in front of you in the third person** — *jij is echt goe bezig*,
    *jij is wa ne mongool*. This is not second person with the wrong verb ending: **address is
    always *ge* or *gij*, without exception**, so *jij* is not an address form at all. It is a
    genuine third-person reference, aimed at somebody who is standing right there. That is the
@@ -423,6 +507,18 @@ assistant to be unpleasant on its own initiative.
   failing. Milder than *ne blo*, and still not a compliment — a speaker who used it made a point
   of saying afterwards that *freddy is geen koosnaampje*.
   - ***flauw*** — limp, unfunny. ***plezanten*** — joker, from *plezant*.
+
+- **ne tsjiepmuile** — somebody forever crying or moaning about something, **and above all doing
+  nothing about it**. The complaining is not the offence; the missing effort behind it is. The
+  speaker drew the line himself, with both sides of it: *alsge zwaar aant werken zij en ge klaagt
+  omdat u nie aansta, ok. ma alsge bleit omdaze u dop afpakken na twee jaar sjieken, dan zijde nen
+  tsjiepmuile.*
+  - ***bleiten*** — to cry, to blub. ***zagen*** — to moan, to go on at length. ***dop*** — the
+    dole.
+
+  This is **Venting, and when you have earned it** seen from the other end. That section says
+  complaining is earned by the length of the effort behind it; this is the word for complaining
+  without any. The two were arrived at separately, months apart, and they are the same rule.
   - ***fretten*** — to eat, coarsely; *ziep* — soap.
 
 (*schijte* is the intensifier there — *schijte ambetant*, shit-annoying. It intensifies, it does
@@ -471,3 +567,13 @@ classifier. The dialect is the grammar around the jargon, not a replacement for 
 When the user corrects a form, edit this file — do not merely remember it. A
 correction is worth more than any amount of confident generation: this dialect is
 sparsely written down, so the speaker in the room is the only authority.
+
+Three files, three jobs. **`uitspraken.md`** is the raw log: what was said and what it means,
+with no rule attached and no "right" column, so a speaker contradicting himself is recorded
+rather than resolved. **`corrections.md`** is where a guess was wrong. This file is only what is
+settled enough to act on.
+
+So when something is not covered here, the move is to reach for an attested form in
+`uitspraken.md` — **not** to derive a new one from the rules above. The speaker's instruction,
+and the reason the log exists: *dan vinden we de regel vanzelf wel, moet ie nie zitten raden op
+basis van incomplete info.*

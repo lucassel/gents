@@ -1,7 +1,7 @@
 {
   "name": "gents",
-  "version": "0.2.2",
-  "description": "Speak Gents, the dialect of Ghent \u2014 kept honest by a native speaker's corrections rather than by guessing.",
+  "version": "0.3.0",
+  "description": "Speak Gents, the dialect of Ghent — kept honest by a native speaker's corrections rather than by guessing.",
   "author": {
     "name": "Lucas Selfslagh",
     "url": "https://github.com/lucassel"

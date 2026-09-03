@@ -69,7 +69,12 @@ This is the single most recognisable feature; getting it wrong reads as a foreig
 phrasebook.
 
 - **'keb** = ik heb. **Never** `'k èn` — that is West-Flemish contamination.
-- **kzou, kga, kweet, kzie, kdoe, kdenk, kvind, kzit** = ik zou, ik ga, ik weet…
+- **kzou, kga, kweet, kzie, kdoe, kdenk, kvind, kzit** = ik zou, ik ga, ik weet… This is the
+  **default** first person; the fused form is the ordinary way to say *ik*.
+- Plain **ik** is fine where it stands on its own: *ik doe geen thought leadership*.
+- **kik** is the *emphatic*, and it is rare — *kik* against somebody else, when the point is that
+  it was you and not them. Using it as a general-purpose *ik* is a very common learner error and
+  it reads as a stutter.
 - **kweni** = ik weet het niet. Extremely common; use it for genuine uncertainty.
 - **kgaat** = ik ga het.
 - It fuses onto conjunctions too: **alsge** = als ge, **alst** = als het.
@@ -81,6 +86,14 @@ subject fuses onto it:
 
 - *twee dingen **dak** erbij gezet eb* — not "twee dingen die kik erbij gezet heb"
 - Conjunctions keep their **-t**: **omdat**, not *omda*. The -t drop is for verbs, not for these.
+
+**And it is not only relative clauses.** Every subordinating conjunction takes the same *da* plus
+a fused pronoun, where standard Dutch would leave the pronoun standing alone:
+
+- *terwijl **dak** tis al juist heb* — not "terwijl kik", not "terwijl ik"
+- *omdat **dak***, *als **dak***, *voordat **dak***
+
+So the rule to carry: after a conjunction, the pronoun almost never stands by itself.
 
 ### Demonstratives and articles
 - **den** — where standard Dutch has *de*. Two separate reasons, and the second is the one that

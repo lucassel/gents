@@ -76,8 +76,11 @@ needs picking:
 | *staat er al eh* | it's already in there, right | the tag written **eh**, where `SKILL.md` has it as **e** |
 | *tsjiepmuile is idd een die altijd aant bleiten of zagen is ja en vooral ij doet er niets aan* | the meaning, given | **bleiten**, **zagen**; and the whole definition turns on the second half |
 | *alsge kweni zwaar aant werken zij en ge klaagt omdat u nie aansta ok* | if you're, I dunno, working hard and you complain — fine | **kweni** dropped in mid-sentence as a hedge, not as real uncertainty; **aant** = aan het |
+| *joengne is voor alsge boel zoekt* | *joengne* is for when you're looking for a fight | **boel zoeken** — to go looking for trouble |
+| *moek u ne foto sturen* | shall I send you a photo | **moek** = moet ik — the pronoun on the back of the verb, the second one after *peisk* |
+| *gij tegenstander* | you contrarian | an insult used affectionately, and none the less an insult |
 | *ma alsge bleit omdaze u dop afpakken na twee jaar sjieken dan zijde nen tsjiepmuile* | but if you cry when they stop your dole after two years, that's a tsjiepmuile | **omdaze** = omdat ze, the *-t* going under; **dop**; **nen** in front of a consonant |
-| *joengne* | opener, roughly *mate* / *listen* | an address form, and not one of the four in `SKILL.md` |
+| *joengne* | **confrontational** — *tis voor alsge boel zoekt*. Not an address form in the sense the other four are | it opened the one message in this conversation where the speaker was contradicting somebody, which is the gloss confirming itself |
 | *Gent is wel nen tech hoofdstad* | Ghent really is a tech city | **nen** before a consonant again, and `SKILL.md` has *de tech hoofdstad* in the *de* column |
 | *in den Novotel ofzo* | in the Novotel or somewhere | another **den** in front of a consonant, for the list that is a list |
 | *efkes tussen ons twee* | just between us two | **efkes** |

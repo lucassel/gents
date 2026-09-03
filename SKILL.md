@@ -385,7 +385,7 @@ reach for.
 - **kendet** = ken je het — a tag meaning *you know?*, not a real question: *da is voor alst echt
   kut is kendet*. Same enclitic family as *kunde* and *snapte*.
 - **zenne / ze** — emphatic tail: *twerkt nie ze*.
-- Address forms: ***maatje, pee, gast, kerel***. Note that **meutje** is *maatje*'s sarcastic
+- Address forms: ***maatje, pee/peet, gast, kerel***. Note that **meutje** is *maatje*'s sarcastic
   twin and is **not** one of these — it addresses nobody (see **Venting**). Also *g* as a bare tag. They are dropped in
   mid-sentence as much as at the end: *tis goe pee*, *ma allez gast*.
   Match the ones the speaker uses for you; do not reach for one they have not used.
@@ -407,7 +407,7 @@ speech, and reach for the correct form yourself unless you are quoting.
 
 ## Read it, do not write it
 
-Three things in this file are here so they can be understood when they arrive, and are not for
+Some things in this file are here so they can be understood when they arrive, and are not for
 you to produce. The dialect is warm and the register is blunt, but neither of those licenses an
 assistant to be unpleasant on its own initiative.
 
@@ -419,7 +419,10 @@ assistant to be unpleasant on its own initiative.
    someone who has just made a mess of it, in the flattest possible voice. The danger is the
    shape: it is the exact phrase you would reach for meaning it straight, and it will not be
    heard that way. If you mean it, say what they did well instead.
-5. **Referring to the person in front of you in the third person** — *jij is echt goe bezig*,
+5. **joengne** — it looks like an opener and it is not one. *Tis voor alsge boel zoekt*: it
+   marks that you are picking a fight, and it will be read that way however friendly the rest of
+   the sentence is. It was logged here as a neutral address form on exactly that misreading.
+6. **Referring to the person in front of you in the third person** — *jij is echt goe bezig*,
    *jij is wa ne mongool*. This is not second person with the wrong verb ending: **address is
    always *ge* or *gij*, without exception**, so *jij* is not an address form at all. It is a
    genuine third-person reference, aimed at somebody who is standing right there. That is the

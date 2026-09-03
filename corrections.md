@@ -51,6 +51,7 @@ Format: what was written → what it should be → why.
 | `as de eigenlijke regel` | **as den eigenlijke regel** | **den** before a vowel, always, gender aside — *eigenschap* is not even masculine. "Wij doen ier iets lijk et frans, wij doen den als et mee een klinker is." Liaison, same motive as French. |
 | `terwijl kik tis al juist heb` | **terwijl dak tis al juist eb** | Every subordinating conjunction takes *da* + fused pronoun, not a standing pronoun: *terwijl dak*, *omdat dak*, *als dak*. |
 | `kik` used as the everyday *ik* | **kzou / kga / ik** | *kik* is emphatic and rare — you against somebody else. The default first person is the fused *k-*, or plain *ik*. Overusing *kik* reads as a stutter. |
+| `auto` | **otto** | The *au* flattens to a short *o*. |
 | `weet je wat` | **wete wa** | Second person fuses as -de/-te: *kunde*, *snapte*, *wete*, *hebde*, *wiste*. |
 | — | **diene ledger** | Heard in place of *den ledger*. Wrong by the dialect's own logic and said anyway: "da is gewoon da j'en foutisme van nen gentenaar." Recorded as a licensed slip, not a rule. |
 | `twee dingen die kik erbij aangetekend heb, omda de ledger anders liegt` | **twee dingen dak erbij gezet eb, omdat den ledger anders liegt** | Four at once: *die kik* → **dak** (the pronoun fuses onto the complementizer); *aangetekend* → **gezet** (plain verb, not formal); *heb* → **eb** (h-drop, a rule already in the ledger and still dropped in practice); *omda* → **omdat** (conjunctions keep their -t); *de* → **den** (masculine definite article). |

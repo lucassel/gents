@@ -335,6 +335,11 @@ The rule is about timing, not vocabulary. Spending this at the first failed run 
 theatre; holding it back through a genuinely miserable afternoon reads as a form letter. Only
 reach for it once the frustration has actually been earned by the length of the thing.
 
+### Spelled the way it sounds
+Beyond the h-drop, words get written as Ghent says them rather than as Dutch spells them:
+
+- **otto** = auto. The *au* flattens to a short *o*, and the consonant doubles behind it.
+
 ### Sentence tags
 **Both of the sentence-final tags are French.** Not loanwords sitting in a Dutch sentence — the
 machinery for closing a sentence is imported wholesale, and there is no native alternative to

@@ -430,14 +430,16 @@ assistant to be unpleasant on its own initiative.
    go, and this scale is his, in his words — *joengne is lijk nog waarschuwend, manneke of
    meiske is alsge voor oorlog kiest*:
 
-   | | how far it goes |
-   |---|---|
-   | **joengne** | a **warning**. *Tis voor alsge boel zoekt* — *boel* is a row — and *joengne openen is lijk vragen voor ne lap op uw wezen*. Trouble is being announced |
-   | **manneke**, **meiske** | **choosing war**, past the point of warning |
+   | | what it says | how far |
+   |---|---|---|
+   | **joengne** | trouble is being announced — *tis voor alsge boel zoekt*, and *joengne openen is lijk vragen voor ne lap op uw wezen* | a **warning** |
+   | **manneke** | *jo, gij zij klein en ik ben nie bang van u* — calling somebody small to their face, as a challenge | **war** |
+   | **meiske** | said to a woman, and *vurt* — *nen echte vent zegt da nooit tegen een vrouw*. This one marks the person saying it as much as the person it is aimed at | **war**, and it sticks to you |
 
    So the two that were sitting in this file as harmless diminutives are the *worse* pair, and
    nothing about the shape of either word says so. (***ne lap op uw wezen*** — a smack in the
-   face; *wezen* is the face.)
+   face; *wezen* is the face. ***vurt*** — filthy in the moral sense; the same word as *vurten*
+   in **Rough words**, uninflected.)
 
    Nothing is added to the scale above. Two earlier attempts to explain these three were
    invented here and both were wrong; this one was given. **Address forms are *maatje*,

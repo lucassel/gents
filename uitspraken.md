@@ -64,9 +64,10 @@ needs picking:
   fixed phrase rather than a variant
 - **ij** / **ie** — *hij*
 - **een** / **ne** / **en** — the indefinite article, where *en soort* may also just be a typo
-- **ne** / **nen** — *nen tsjiepmuile*, where *t* is a consonant and the stated rule gives *ne*.
-  The same shape as *den deur*: the liaison explains a lot of the determiner system and evidently
-  not all of it
+- **ne** / **nen** — *nen tsjiepmuile* and *nen tech hoofdstad*, both with a consonant behind
+  them where the stated rule gives *ne*. Twice within a few minutes, and the same shape as *den
+  deur*: the liaison explains a lot of the determiner system and evidently not all of it. Three
+  more like this and it is the rule that is wrong, not the examples
 - **kpeis** / **peisk** — the pronoun on the front or on the back of the verb. Not a contradiction
   so much as two positions with no known rule for choosing; both are attested from the same
   speaker, days apart in the same conversation
@@ -76,6 +77,12 @@ needs picking:
 | *tsjiepmuile is idd een die altijd aant bleiten of zagen is ja en vooral ij doet er niets aan* | the meaning, given | **bleiten**, **zagen**; and the whole definition turns on the second half |
 | *alsge kweni zwaar aant werken zij en ge klaagt omdat u nie aansta ok* | if you're, I dunno, working hard and you complain — fine | **kweni** dropped in mid-sentence as a hedge, not as real uncertainty; **aant** = aan het |
 | *ma alsge bleit omdaze u dop afpakken na twee jaar sjieken dan zijde nen tsjiepmuile* | but if you cry when they stop your dole after two years, that's a tsjiepmuile | **omdaze** = omdat ze, the *-t* going under; **dop**; **nen** in front of a consonant |
+| *joengne* | opener, roughly *mate* / *listen* | an address form, and not one of the four in `SKILL.md` |
+| *Gent is wel nen tech hoofdstad* | Ghent really is a tech city | **nen** before a consonant again, and `SKILL.md` has *de tech hoofdstad* in the *de* column |
+| *in den Novotel ofzo* | in the Novotel or somewhere | another **den** in front of a consonant, for the list that is a list |
+| *efkes tussen ons twee* | just between us two | **efkes** |
+| *da loopt ier vol me niet gentenaars* | the place is filling up with people not from Ghent | **me** for *met*, third time |
+| *as wij ulderen Claude beetje chill laten spreken isda toch geniaal peet* | if we let their Claude speak a bit loose, that's brilliant | **ulderen** = their; **peet** used naturally, which settles it as a live variant of *pee* rather than a slip |
 
 ### -muile
 

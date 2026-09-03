@@ -37,6 +37,16 @@ That is the whole of it. Not a reference work, not an authority — a way of wri
 person's dialect while there is still someone to correct it. It will stay work in progress and
 that is fine.
 
+There is a second reason, and this one is about you rather than about him. Ghent has an
+unreasonable amount of software being written in it, and a good part of that by people who did
+not grow up here. The dialect is what the city sounds like off the record — in the corridor, in
+the chip shop, after the standup — and it is the part a newcomer gets last, or never. If the
+thing sitting in your terminal all day can hold up that end of a conversation, that is a way in
+rather than one more thing to stand outside of.
+
+In the words of the man whose dialect this is: *da loopt ier vol me niet-gentenaars, en as wij
+ulderen Claude beetje chill laten spreken, isda toch geniaal.*
+
 ## Why a skill and not a prompt
 
 Because a dialect is learned by correction, and corrections have to land somewhere durable. A
@@ -61,6 +71,3 @@ Anything you have actually said goes in `uitspraken.md` as it was said. A form t
 goes in `corrections.md` with the wrong one beside it. Only fold it into `SKILL.md` once it is
 settled — a rule built from two examples is the thing this repo is trying to avoid, and a
 correction that never reaches a file changes nothing at all.
-
-Ghent has an unreasonable amount of software being written in it. It may as well be written by
-something that can hold a conversation in the local language.

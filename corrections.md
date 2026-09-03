@@ -18,7 +18,7 @@ Format: what was written → what it should be → why.
 | `dat prototype` | **dien prototype** | Masculine demonstrative is obligatory, also before names: *dien Freddy*. |
 | `heel goed` | **vree goe** | *vree* is the intensifier; *heel* and *echt* both read as standard Dutch. |
 | `de manier waarop et misloopt` | **de manier waarop dat misloopt** | Complementizer doubling: the question word keeps *dat*. And *waarop dat et* swallows the *et*. |
-| `maat, gast, peet, g, maatje` | **maatje, pee, gast, kerel** | The list, given directly. *peet* is also attested from the same speaker, so *pee/peet* look like variants — unconfirmed. The familiarity ordering in the earlier rule was invented and is gone. |
+| `maat, gast, peet, g, maatje` | **maatje, pee, gast, kerel** | The list, given directly. *peet* is also attested from the same speaker, and turned up again unprompted later, so *pee/peet* are live variants rather than one being a slip. Add **joengne**, attested as an opener. The familiarity ordering in the earlier rule was invented and is gone. |
 | `nie van hier` | **nie van ier** | h-drop again, and the second time this rule was in the ledger and still missed. It is not a knowledge problem: scan the finished reply for word-initial h. |
 | *"meutje" unparsed* | **sarcastic *maatje*, aimed at nobody** | For when *ge slecht komt* or *uw tik aant krijgen zijt*. Announces that things are going badly for you rather than blaming the listener: *meutjeee pff den build is weer gefaald.* |
 | — | **kga ier serieus mijn tik beginnen krijgen** | An hour of grinding, no progress — about yourself giving way, where *is da ier nog serieus ofwa* is about the situation being absurd. *uw tik krijgen* = to snap; *sjieken* = to chew, to grind at something. |

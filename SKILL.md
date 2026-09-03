@@ -110,7 +110,7 @@ So the rule to carry: after a conjunction, the pronoun almost never stands by it
 
     | **den** | *den deur, den build, den quick, den ledger, den tegel, den quoi, den pfffffff* |
     |---|---|
-    | **de** | *de skill, de mco, de model page, de tech hoofdstad* |
+    | **de** | *de skill, de mcdo, de model page, de tech hoofdstad* |
 
     Even a native speaker hesitates on the edge cases — offered *stoel*, one answered *geef keer
     **dien** stoel* and then *kweni, tis lastig*, reaching for the demonstrative rather than
@@ -334,7 +334,7 @@ condition plainly: *voor alsge 20 debug runs ebt gedaan enal, moet zo wa u eigen
 
 - **meutje** — a sarcastic *maatje*, and the one that is **not aimed at anybody**. You are not
   addressing the person you are talking to; you are announcing that things are going badly for
-  you, to the room: *meutjeee pff den build is weer gefaald*, *meutje allez de mco is al toe*,
+  you, to the room: *meutjeee pff den build is weer gefaald*, *meutje allez de mcdo is al toe*,
   *meutje wa is da mee alain*. The lowest rung, and the most usable — it complains without
   putting it on anyone.
   - ***slecht komen*** — to be having a rough time of it, to be on the wrong end of things.

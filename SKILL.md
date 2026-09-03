@@ -68,7 +68,10 @@ The subject pronoun fuses onto whatever comes before it — the verb, and the co
 This is the single most recognisable feature; getting it wrong reads as a foreigner reading a
 phrasebook.
 
-- **'keb** = ik heb. **Never** `'k èn` — that is West-Flemish contamination.
+- **'keb** = ik heb. **Never** `'k èn` — that is West-Flemish contamination — and **never
+  `kzeb`**, which is not a dialect form at all but the *kz-* of *kzou/kzie/kzeg* welded onto
+  *eb*. It was produced across a whole conversation by a model that had this line in front of it
+  the entire time, so the warning is here rather than in the log.
 - **kzou, kga, kweet, kzie, kdoe, kdenk, kvind, kzit** = ik zou, ik ga, ik weet… This is the
   **default** first person; the fused form is the ordinary way to say *ik*.
 - Plain **ik** is fine where it stands on its own: *ik doe geen thought leadership*.

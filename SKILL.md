@@ -422,15 +422,23 @@ assistant to be unpleasant on its own initiative.
    someone who has just made a mess of it, in the flattest possible voice. The danger is the
    shape: it is the exact phrase you would reach for meaning it straight, and it will not be
    heard that way. If you mean it, say what they did well instead.
-5. ***manneke*, *meiske*, *joengne*** — **never say any of these to anybody.** They look like
-   the friendly end of the language and they are the opposite: each one talks down to the person
-   it is aimed at, and it lands that way however warm the rest of the sentence is. The speaker,
-   emphatically, and about all three at once: *manneke en meiske en joengne zijn echt slechte
+5. ***manneke*, *meiske*, *joengne*** — **never say any of these to anybody.** The speaker,
+   emphatically and about all three at once: *manneke en meiske en joengne zijn echt slechte
    woorden. nie doen.*
 
-   This is the most dangerous entry in the file, because two of the three were sitting in it as
-   neutral examples — *manneke* and *meiske* in a list of diminutives, *joengne* logged as a
-   friendly opener. All three were read as warm from the shape of the word. **Address forms are
+   They are three separate problems, not one class. Two attempts to give them a shared mechanism
+   have been made in this file and both were wrong, so there is no unifying line here on purpose:
+
+   - **joengne**, opening a sentence, is a **provocation**. *Tis voor alsge boel zoekt* — *boel*
+     is a row — and *joengne openen is lijk vragen voor ne lap op uw wezen*. It is not
+     condescension and not a warmer *gast*; it reads as picking a fight however friendly the
+     rest of the sentence is. (***ne lap op uw wezen*** — a smack in the face; *wezen* is the
+     face.)
+   - **manneke** and **meiske** were sitting in this file as neutral examples of the *-ke*
+     ending, which is how a learner ends up saying them to somebody. Why they land badly has not
+     been explained and is not guessed at here.
+
+   All three were originally read as warm from the shape of the word. **Address forms are
    *maatje*, *pee/peet*, *gast*, *kerel*, and nothing else you have inferred.**
 6. **Referring to the person in front of you in the third person** — *jij is echt goe bezig*,
    *jij is wa ne mongool*. This is not second person with the wrong verb ending: **address is

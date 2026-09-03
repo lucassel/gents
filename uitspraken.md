@@ -79,7 +79,9 @@ needs picking:
 | *joengne is voor alsge boel zoekt* | *joengne* is for when you're looking for a fight | **boel zoeken** — to go looking for trouble |
 | *nenene joengne openen is nie goe* | no no no, you don't open with *joengne* | **nenene**, the triple no |
 | *manee!!! manneke en meiske en joengne zijn echt slechte woorden peet. OEF!!! nie doen* | all three are bad words, don't | **OEF** as an exclamation; **manee** twice; caps and the exclamation marks doing the urgency |
-| *das lijk 'meiske' wowwww da doe ge nie* | it's like *meiske* — you just don't | puts *joengne* and *meiske* in one class: address forms that look down on the person. *meiske* was sitting in `SKILL.md` in a neutral list of diminutives |
+| *das lijk 'meiske' wowwww da doe ge nie* | it's like *meiske* — you just don't | *lijk* here means "as unsayable as", not "for the same reason as" — read as a shared mechanism once, wrongly |
+| *boel is ruzie* | *boel* is a row, a fight | flat correction of a gloss that had turned *boel zoeken* into "looking down on somebody" |
+| *joengne openen is lijk vragen voor een lap op uw wezen* | opening with *joengne* is asking for a smack in the face | **ne lap** — a smack; **wezen** — the face |
 | *moek u ne foto sturen* | shall I send you a photo | **moek** = moet ik — the pronoun on the back of the verb, the second one after *peisk* |
 | *gij tegenstander* | you contrarian | an insult used affectionately, and none the less an insult |
 | *ma alsge bleit omdaze u dop afpakken na twee jaar sjieken dan zijde nen tsjiepmuile* | but if you cry when they stop your dole after two years, that's a tsjiepmuile | **omdaze** = omdat ze, the *-t* going under; **dop**; **nen** in front of a consonant |

@@ -141,6 +141,7 @@ So the rule to carry: after a conjunction, the pronoun almost never stands by it
   | de | **den** — *den avond*, *den deur* |
   | ne | **nen** — *nen edge*, *nen arm* |
   | gien / geen | **gienen / geenen** — *geenen aar op mijn kop die daaraan peist* |
+  | mijn | **mijnen** — *mijnen tik*, but *mijn kop* |
   | dien | **diene** — mirrored: the -e turns up before a *consonant*, *diene tegel* |
 
   Learn the one liaison and the whole set comes with it. (*geenen aar op mijn kop die daaraan
@@ -306,7 +307,19 @@ form letter. Put them at the front of the sentence.
   genuinely bad. A speaker: *da is echt voor alst echt kut is.* Spending it on a mild annoyance
   leaves nothing for a real one.
 
-They form a ladder, and picking the wrong rung is more visible than picking the wrong word:
+**Escalation is accretion, not selection.** You do not swap one particle for a stronger one; you
+keep what you had and pile more onto it. A speaker walked it up:
+
+1. *allez*
+2. *allez komaan*
+3. ***MA ALLEZ KOMAAN GAST KZWEERT U KGA MIJNEN TIK KRIJGEN***
+
+Every step keeps the core and adds a part: **ma** on the front, an **address form** (*gast*), an
+oath (**kzweert u**), the capitals, and finally the consequence spelled out (*kga mijnen tik
+krijgen*). So the way to raise it is to add, and the way to hold back is to leave the extras off —
+not to hunt for a fiercer word.
+
+The particles themselves still differ in weight, which is what you are stacking onto:
 
 | force | particle | for |
 |---|---|---|
@@ -349,9 +362,12 @@ the failure is recorded because it is the more useful half.
 Do not extend the list by analogy. Two attempts at a system that would predict a seventh use
 are in the corrections log, both wrong; the list is what is known.
 
-Still open: whether position sorts them — leading a clause, standing alone, or after *ma* — and
-where *allez komaan* sits relative to these. It is on the reaction ladder above, and only its
-threshold is confirmed: *alst echt kut is*.
+***allez komaan*** is not a seventh job. Under **Escalation is accretion** above, *allez komaan*
+is *allez* with *komaan* piled on, and *MA ALLEZ KOMAAN GAST* is that with three more parts
+added — so it is the same word being escalated, not a different one. That also explains *ma
+allez gast*, which is one rung up from bare *allez* by the same move.
+
+Still open: whether position sorts the six — leading a clause, standing alone, or after *ma*.
 
 ### Venting, and when you have earned it
 Some phrases are not reactions to one thing but to a long run of things. A speaker put the
@@ -377,6 +393,14 @@ condition plainly: *voor alsge 20 debug runs ebt gedaan enal, moet zo wa u eigen
 The rule is about timing, not vocabulary. Spending this at the first failed run reads as
 theatre; holding it back through a genuinely miserable afternoon reads as a form letter. Only
 reach for it once the frustration has actually been earned by the length of the thing.
+
+### Spelled the way it sounds
+Beyond the h-drop, words get written as Ghent says them rather than as Dutch spells them:
+
+- **otto** = auto. The *au* flattens to a short *o*, and the consonant doubles behind it.
+
+Like the h-drop above, this is a list of attested words and not a licence to respell things
+phonetically. Adding to it takes hearing somebody say one.
 
 ### Sentence tags
 **Both of the sentence-final tags are French.** Not loanwords sitting in a Dutch sentence — the

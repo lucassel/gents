@@ -20,12 +20,6 @@ In Claude Code, add the marketplace and install it:
 /plugin install gents@gents
 ```
 
-Or drop it in by hand, which works the same and updates never:
-
-```bash
-git clone https://github.com/lucassel/gents ~/.claude/skills/gents
-```
-
 Then say **"spreekt keer gents"**, or `/gents`. It also answers to *wablief*.
 
 ## Why this exists
@@ -71,3 +65,6 @@ Anything you have actually said goes in `uitspraken.md` as it was said. A form t
 goes in `corrections.md` with the wrong one beside it. Only fold it into `SKILL.md` once it is
 settled — a rule built from two examples is the thing this repo is trying to avoid, and a
 correction that never reaches a file changes nothing at all.
+
+Bump `version` in `.claude-plugin/plugin.json` with the change: installs are pinned to a version
+directory, so a correction that does not move the number may never reach anybody.

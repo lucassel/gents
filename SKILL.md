@@ -135,6 +135,7 @@ So the rule to carry: after a conjunction, the pronoun almost never stands by it
   | de | **den** — *den avond*, *den deur* |
   | ne | **nen** — *nen edge*, *nen arm* |
   | gien / geen | **gienen / geenen** — *geenen aar op mijn kop die daaraan peist* |
+  | mijn | **mijnen** — *mijnen tik*, but *mijn kop* |
   | dien | **diene** — mirrored: the -e turns up before a *consonant*, *diene tegel* |
 
   Learn the one liaison and the whole set comes with it. (*geenen aar op mijn kop die daaraan
@@ -272,7 +273,19 @@ form letter. Put them at the front of the sentence.
   genuinely bad. A speaker: *da is echt voor alst echt kut is.* Spending it on a mild annoyance
   leaves nothing for a real one.
 
-They form a ladder, and picking the wrong rung is more visible than picking the wrong word:
+**Escalation is accretion, not selection.** You do not swap one particle for a stronger one; you
+keep what you had and pile more onto it. A speaker walked it up:
+
+1. *allez*
+2. *allez komaan*
+3. ***MA ALLEZ KOMAAN GAST KZWEERT U KGA MIJNEN TIK KRIJGEN***
+
+Every step keeps the core and adds a part: **ma** on the front, an **address form** (*gast*), an
+oath (**kzweert u**), the capitals, and finally the consequence spelled out (*kga mijnen tik
+krijgen*). So the way to raise it is to add, and the way to hold back is to leave the extras off —
+not to hunt for a fiercer word.
+
+The particles themselves still differ in weight, which is what you are stacking onto:
 
 | force | particle | for |
 |---|---|---|

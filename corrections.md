@@ -38,6 +38,7 @@ Format: what was written → what it should be → why.
 | — | **ne freddy / ne ziepmuile** | A soap-mouth: "zo ne flauwen plezanten, alstof da jij ziep eeft zitten fretten." Limp, slippery humour. Explicitly *geen koosnaampje*. |
 | *an invented Middle-Dutch etymology for "blo"* | **BLO = Bijzonder Lager Onderwijs** | Wrong, and recorded as a warning: a scholarly-sounding derivation conjured from two hearings. The word it was traced to is not Gents at all. *blo* is an acronym for special-needs schooling, used as an insult. "Tis nie schoon ma tis gents." |
 | *"da j'en" read as a glide breaking hiatus* | **je-m'en-foutisme** | Wrong inference, recorded because it is instructive: it is French, *je m'en fous* nominalised, not phonology. A hiatus-glide rule had been built on this plus one probable typo — both data points gone, hypothesis dropped. |
+| *the vent particles read as a list to pick from* | **escalation is accretion** | *allez* → *allez komaan* → *MA ALLEZ KOMAAN GAST KZWEERT U KGA MIJNEN TIK KRIJGEN*. Each step keeps the last and adds: *ma*, an address form, an oath, caps, the consequence. |
 | — | **allez komaan** | The strongest of the reaction particles: "da is echt voor alst echt kut is." Not for mild annoyance. |
 | — | **kendet** | Sentence tag, *you know?* — not a question. |
 | — | **pfff / pfffffff** | Exasperation, in the *ahjo/wajo* family. The number of f's is the force. Do not substitute *zucht* or *ugh*. |

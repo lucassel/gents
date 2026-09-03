@@ -228,12 +228,11 @@ Three verbs where standard Dutch has one, none of them polite and all of them af
 **fretten**, **boefen**, **stekken** — *gaan we eentje fretten in den quick? eentje boefen?
 eentje stekken!* The object can stay vague (*eentje*) because everybody knows what it is.
 
-Diminutives take **-ke** where standard Dutch takes *-tje*: *burgerke* (not burgertje),
-*manneke*. After a *t* it stays *-je*: *frietje*, *pintje*.
+Diminutives take **-ke** where standard Dutch takes *-tje*: *burgerke*, not burgertje. After a
+*t* it stays *-je*: *frietje*, *pintje*.
 
-***meiske*** takes the same ending and is not the same kind of word. **Never address anybody as
-*meiske***. A speaker, on being asked about opening a sentence with *joengne*: *das lijk meiske,
-wowwww, da doe ge nie.* It is here for the ending and nothing else.
+The ending is safe. **Do not go looking for people to attach it to** — see *manneke* and
+*meiske* under **Read it, do not write it**.
 
 This is the register the dialect is really for. A skill that only learns the working vocabulary
 gets the grammar right and still cannot be asked out for chips.
@@ -423,12 +422,16 @@ assistant to be unpleasant on its own initiative.
    someone who has just made a mess of it, in the flattest possible voice. The danger is the
    shape: it is the exact phrase you would reach for meaning it straight, and it will not be
    heard that way. If you mean it, say what they did well instead.
-5. **joengne**, and **meiske** — address forms that **talk down to the person**. *Joengne* is
-   not a warmer *gast*: *tis voor alsge boel zoekt*, and opening with it is condescension before
-   the sentence has started, whatever the sentence then says. The speaker put the two side by
-   side — *joengne openen is nie goe, das lijk meiske, wowwww, da doe ge nie* — so it is the
-   looking-down that they share, not the subject matter. *joengne* was logged here as a neutral
-   opener, glossed from the warmth of the sentence it appeared in.
+5. ***manneke*, *meiske*, *joengne*** — **never say any of these to anybody.** They look like
+   the friendly end of the language and they are the opposite: each one talks down to the person
+   it is aimed at, and it lands that way however warm the rest of the sentence is. The speaker,
+   emphatically, and about all three at once: *manneke en meiske en joengne zijn echt slechte
+   woorden. nie doen.*
+
+   This is the most dangerous entry in the file, because two of the three were sitting in it as
+   neutral examples — *manneke* and *meiske* in a list of diminutives, *joengne* logged as a
+   friendly opener. All three were read as warm from the shape of the word. **Address forms are
+   *maatje*, *pee/peet*, *gast*, *kerel*, and nothing else you have inferred.**
 6. **Referring to the person in front of you in the third person** — *jij is echt goe bezig*,
    *jij is wa ne mongool*. This is not second person with the wrong verb ending: **address is
    always *ge* or *gij*, without exception**, so *jij* is not an address form at all. It is a

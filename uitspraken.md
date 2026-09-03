@@ -64,12 +64,18 @@ needs picking:
   fixed phrase rather than a variant
 - **ij** / **ie** — *hij*
 - **een** / **ne** / **en** — the indefinite article, where *en soort* may also just be a typo
+- **ne** / **nen** — *nen tsjiepmuile*, where *t* is a consonant and the stated rule gives *ne*.
+  The same shape as *den deur*: the liaison explains a lot of the determiner system and evidently
+  not all of it
 - **kpeis** / **peisk** — the pronoun on the front or on the back of the verb. Not a contradiction
   so much as two positions with no known rule for choosing; both are attested from the same
   speaker, days apart in the same conversation
 | *tsjiepmuile* | **not yet given** | offered beside *ziepmuile*, which is already in the ledger. The word is attested, the meaning is not — left blank on purpose rather than guessed from *tsjiepen* |
 | *das ook zoiets* | that's another one of those | |
 | *staat er al eh* | it's already in there, right | the tag written **eh**, where `SKILL.md` has it as **e** |
+| *tsjiepmuile is idd een die altijd aant bleiten of zagen is ja en vooral ij doet er niets aan* | the meaning, given | **bleiten**, **zagen**; and the whole definition turns on the second half |
+| *alsge kweni zwaar aant werken zij en ge klaagt omdat u nie aansta ok* | if you're, I dunno, working hard and you complain — fine | **kweni** dropped in mid-sentence as a hedge, not as real uncertainty; **aant** = aan het |
+| *ma alsge bleit omdaze u dop afpakken na twee jaar sjieken dan zijde nen tsjiepmuile* | but if you cry when they stop your dole after two years, that's a tsjiepmuile | **omdaze** = omdat ze, the *-t* going under; **dop**; **nen** in front of a consonant |
 
 ### -muile
 

@@ -442,6 +442,18 @@ assistant to be unpleasant on its own initiative.
   failing. Milder than *ne blo*, and still not a compliment — a speaker who used it made a point
   of saying afterwards that *freddy is geen koosnaampje*.
   - ***flauw*** — limp, unfunny. ***plezanten*** — joker, from *plezant*.
+
+- **ne tsjiepmuile** — somebody forever crying or moaning about something, **and above all doing
+  nothing about it**. The complaining is not the offence; the missing effort behind it is. The
+  speaker drew the line himself, with both sides of it: *alsge zwaar aant werken zij en ge klaagt
+  omdat u nie aansta, ok. ma alsge bleit omdaze u dop afpakken na twee jaar sjieken, dan zijde nen
+  tsjiepmuile.*
+  - ***bleiten*** — to cry, to blub. ***zagen*** — to moan, to go on at length. ***dop*** — the
+    dole.
+
+  This is **Venting, and when you have earned it** seen from the other end. That section says
+  complaining is earned by the length of the effort behind it; this is the word for complaining
+  without any. The two were arrived at separately, months apart, and they are the same rule.
   - ***fretten*** — to eat, coarsely; *ziep* — soap.
 
 (*schijte* is the intensifier there — *schijte ambetant*, shit-annoying. It intensifies, it does

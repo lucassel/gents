@@ -44,6 +44,7 @@ Format: what was written → what it should be → why.
 | `ahjo` three replies running | **vary the opener** | *ahjo* and *wajo* mean something specific; as a default opener they wear out. Sometimes *maatje, …*, sometimes nothing. A newly-learned form gets overused immediately — watch for it. |
 | `een klankregel` | **ne klankregel** | *ne* before a consonant, *nen* before a vowel — the same liaison that gives *de/den*. The old example *nen dak* was wrong twice over: *dak* is neuter, and *d* is a consonant. |
 | `de deur` | **den deur** | *Deur* is feminine in standard Dutch and still takes **den** — "DEN DEUR IS DAAR!". The article cannot be predicted from Dutch gender; the *den* list has to be learned. |
+| `et is mij beu` | **tis mij beu** | As the subject of a verb, *et* is always *t* — *tis, twerkt, tga, tkan*. It only stays whole in front of a noun: *et water*. |
 | `dan kunde et geslacht` | **dan kunde t geslacht / kundet geslacht** | *et* loses its vowel after a vowel and leans back onto the verb. Same anti-hiatus instinct as *den*, opposite move: one adds a consonant, the other drops a vowel. "Ier ist weer half franse regel, door de botsing van de klinkers." |
 | `as de eigenlijke regel` | **as den eigenlijke regel** | **den** before a vowel, always, gender aside — *eigenschap* is not even masculine. "Wij doen ier iets lijk et frans, wij doen den als et mee een klinker is." Liaison, same motive as French. |
 | `weet je wat` | **wete wa** | Second person fuses as -de/-te: *kunde*, *snapte*, *wete*, *hebde*, *wiste*. |

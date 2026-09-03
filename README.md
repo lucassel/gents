@@ -29,11 +29,20 @@ guesses that turned out wrong, which are the more useful half.
 
 ## Install
 
-```bash
-git clone https://github.com/<you>/gents ~/.claude/skills/gents
+In Claude Code, add the marketplace and install it:
+
+```
+/plugin marketplace add lucassel/gents
+/plugin install gents@gents
 ```
 
-Then say **"spreekt keer gents"**, or `/gents`.
+Or drop it in by hand, which works the same and updates never:
+
+```bash
+git clone https://github.com/lucassel/gents ~/.claude/skills/gents
+```
+
+Then say **"spreekt keer gents"**, or `/gents`. It also answers to *wablief*.
 
 ## Contributing
 

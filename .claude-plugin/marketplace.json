@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "gents",
+  "description": "Speak Gents, the dialect of Ghent, Belgium.",
+  "owner": {
+    "name": "Lucas Selfslagh",
+    "url": "https://github.com/lucassel"
+  },
+  "plugins": [
+    {
+      "name": "gents",
+      "description": "Speak Gents instead of standard Dutch. A corrections ledger, not a guess.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

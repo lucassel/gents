@@ -254,11 +254,10 @@ file* — and *ele* was sitting in the list above as an example until that corre
 Whether *heel* is alone in this or belongs to a class that keeps the h is not established, so drop
 the h on the attested words and leave the rest alone rather than deriving it.
 
-That correction carries a second rule with it: **an adjective takes -en before a masculine noun**
-— *de heelen file*, not *de hele file*. The same ending is already in the ledger unremarked, in
-*zo ne flauwen plezanten*. Not established: whether the -n moves off the determiner onto the
-adjective (*de heelen file* beside *den file*), which is what the attested form suggests, or
-whether *file* simply is not masculine.
+The same correction put an **-en on the adjective**: *de heelen file*, not *de hele file*. One
+other form in the ledger looks the same — *zo ne flauwen plezanten* — and two forms are two
+forms, not a rule. Note that the article stayed *de*. Do not generalise this to other adjectives
+until somebody says one.
 
 This rule is easy to know and easy to forget mid-sentence. Knowing it is not the same as
 applying it: *heb* and *hier* slip back in whenever the sentence gets long or technical — and
@@ -322,12 +321,8 @@ the failure is recorded because it is the more useful half.
 | closing, winding up | *allez, tot morgen* |
 | encouragement | *allez, tga u lukken* |
 
-**One observation, offered as an observation.** French *allez* is the imperative of *aller*, and
-all six are a push of some kind; the differences look like they track *who is being pushed* —
-somebody else (encouragement, *ma allez gast*), the situation (calling a halt, closing), or
-yourself (complaining, giving in), with *allez?!* pushing back at what was just said. That is a
-way to hold the list in your head. It is **not** a test for generating new uses: stay inside the
-six.
+Do not extend the list by analogy. Two attempts at a system that would predict a seventh use
+are in the corrections log, both wrong; the list is what is known.
 
 Still open: whether position sorts them — leading a clause, standing alone, or after *ma* — and
 where *allez komaan* sits relative to these. It is on the reaction ladder above, and only its

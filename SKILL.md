@@ -518,7 +518,8 @@ assistant to be unpleasant on its own initiative.
 
   This is **Venting, and when you have earned it** seen from the other end. That section says
   complaining is earned by the length of the effort behind it; this is the word for complaining
-  without any. The two were arrived at separately, months apart, and they are the same rule.
+  without any. The two were written down separately, neither referring to the other, and they
+  are the same rule.
   - ***fretten*** — to eat, coarsely; *ziep* — soap.
 
 (*schijte* is the intensifier there — *schijte ambetant*, shit-annoying. It intensifies, it does

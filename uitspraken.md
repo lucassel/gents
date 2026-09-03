@@ -103,6 +103,7 @@ in front, *-muile* behind. Two words is two words — the same caution as the ad
 so nothing is derived from it and no third one should be invented. What it means has not been
 said yet and is not filled in from *tsjiepen*.
 | *keb of kheb, kheb is chiller, keb is echt plat* | both are real; the h marks how broad you are being | not a correction — a **register dial**, and the first statement in the ledger that treats an h as a choice rather than a rule |
+| *ja ge moogt echt nie elke h laten vallen. ma iets lijk 'nen alven' dan wel* | you really must not drop every h — but one like *nen alven*, yes | the h-drop is a **list of words**, not a blanket rule. **alven** = halven; **nen** in front of a vowel, which the liaison rule does predict |
 
 ### The h that stayed
 
@@ -113,10 +114,13 @@ you to sweep for them mechanically. Then a third, and it came with a reason: *ke
 That makes the h on *kheb* a **register dial** — how broad you are being — rather than a
 property of the word.
 
-Which raises the obvious question and it has **not** been asked yet: are *heel* and *hoor* the
-same dial, or are they words that simply keep their h? Nothing has been changed on the strength
-of the guess. The rule in `SKILL.md` still reads as a near-blanket drop with a mechanical sweep,
-and it stays that way until somebody says.
+Then it was asked, and answered: *ge moogt echt nie elke h laten vallen, ma iets lijk 'nen
+alven' dan wel.* So the drop is a **list of words**, the default is to keep the h, and the
+mechanical sweep in `SKILL.md` — scan the reply, almost none belong — has been taken out. It was
+that sweep that produced *ele*.
+
+Still open: whether *kheb*'s dial reaches any further than *kheb*, and whether *heel* and *hoor*
+keep their h for that reason or simply because they are not on the list.
 
 ### The one that was nearly missed
 

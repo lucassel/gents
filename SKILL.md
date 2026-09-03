@@ -259,31 +259,36 @@ gets the grammar right and still cannot be asked out for chips.
 - **peis / peinzen** = denken. **snapte** = snap je.
 
 ### Written h-drop
-Ghent drops the initial h in speech, and the user writes it that way:
+Ghent drops the initial h on a set of common words, and the user writes them that way:
 ***ier*** (hier), *uizen* (huizen), *oogte* (hoogte), *ij* (hij), ***eb*** (heb), *eeft* (heeft),
-*elemaal* (helemaal), *oe* (hoe).
-Use it — it is a deliberate register, not a typo.
+*elemaal* (helemaal), *oe* (hoe), *aar* (haar), *alven* (halven) — *nen alven*.
+Use them — it is a deliberate register, not a typo.
 
-**It is not blind, though.** *heel* keeps its h: *in de **heelen** file*, corrected from *in de ele
-file* — and *ele* was sitting in the list above as an example until that correction arrived. So
-does *hoor*, in *ik hoor em tsjiepen van ier tot in Tokio*, in the same breath as an *ier* that
-dropped one.
+**It is a list, not a sweep, and the default is to keep the h.** In the speaker's words: *ge moogt
+echt nie elke h laten vallen, ma iets lijk 'nen alven' dan wel.* So drop it on the words above and
+leave every other word alone.
 
-And the h may not be a lexical question at all. On *keb* beside *kheb* the speaker said: *kheb is
-chiller, keb is echt plat* — which makes that h a **register dial**, not a property of the word.
-Whether the same dial explains *heel* and *hoor* has not been asked yet and is not assumed here.
-Until it is: drop the h on the attested words above, leave the rest alone, and do not derive.
+This file used to say the opposite — that almost no word-initial h belonged, with an instruction
+to scan the finished reply and take them out. That is wrong in the more damaging direction: a
+missed drop reads as slightly stiff, an invented one is a word nobody says. The list is the whole
+rule and it does not extend by analogy.
+
+Attested keeping their h: *heel* — *in de **heelen** file*, corrected from *in de ele file*, which
+had been sitting in the list above as an example — and *hoor*, in *ik hoor em tsjiepen van ier tot
+in Tokio*, in the same breath as an *ier* that dropped one.
+
+On one word the h is a dial rather than a fact: *kheb is chiller, keb is echt plat*. Whether that
+dial reaches any further than *kheb* has not been asked, and nothing here assumes it does.
 
 The same correction put an **-en on the adjective**: *de heelen file*, not *de hele file*. One
 other form in the ledger looks the same — *zo ne flauwen plezanten* — and two forms are two
 forms, not a rule. Note that the article stayed *de*. Do not generalise this to other adjectives
 until somebody says one.
 
-This rule is easy to know and easy to forget mid-sentence. Knowing it is not the same as
-applying it: *heb* and *hier* slip back in whenever the sentence gets long or technical — and
-they slip back in even with this warning sitting right here, which is why the check is
-mechanical rather than a matter of remembering. **Scan the finished reply for a word-initial
-h before sending it.** Almost none belong.
+The words on the list are easy to know and easy to forget mid-sentence: *heb* and *hier* slip
+back in whenever the sentence gets long or technical, and they do it even with this warning
+sitting right here. **So check the words on the list — not every h in the reply.** The sweep is
+what produced *ele* and it would produce more.
 
 ### Reacting: ahjo, wajo, ja allo
 These particles carry most of the reacting, and leaving them out is what makes a reply read as a

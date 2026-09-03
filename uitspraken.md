@@ -94,6 +94,9 @@ needs picking:
 | *efkes tussen ons twee* | just between us two | **efkes** |
 | *da loopt ier vol me niet gentenaars* | the place is filling up with people not from Ghent | **me** for *met*, third time |
 | *as wij ulderen Claude beetje chill laten spreken isda toch geniaal peet* | if we let their Claude speak a bit loose, that's brilliant | **ulderen** = their; **peet** used naturally, which settles it as a live variant of *pee* rather than a slip |
+| *maatje manee wa ne zever ook die corrections* | what a load of drivel those corrections are | **zever** — drivel, waffle |
+| *eens dage gecorrigeerd ebt moede niets meer bijhouden e* | once you've corrected it you don't need to keep a record | **eens dage** = eens dat ge; **moede** = moet ge |
+| *nu staat er iets over "mco" op main duts* | now there's a thing about *mco* on main, you numpty | **duts** — a hopeless case, said lightly |
 
 ### -muile
 

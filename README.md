@@ -11,6 +11,23 @@ It is not a purity project. Ghent has spoken Dutch, French and English over each
 century, and a reply that gets every article right and lands cold has failed at the only thing
 that matters. The ledger is there so the thing does not sound foreign — not so it sounds correct.
 
+## Install
+
+In Claude Code, add the marketplace and install it:
+
+```
+/plugin marketplace add lucassel/gents
+/plugin install gents@gents
+```
+
+Or drop it in by hand, which works the same and updates never:
+
+```bash
+git clone https://github.com/lucassel/gents ~/.claude/skills/gents
+```
+
+Then say **"spreekt keer gents"**, or `/gents`. It also answers to *wablief*.
+
 ## Why this exists
 
 One speaker's reason, in his own words: *tis vooral ne manier om lijk mijn gents wa te beware,
@@ -37,28 +54,13 @@ The order is deliberate. A model handed the rules alone will fill the gaps by de
 confident derivation is exactly what this repo is trying to stop: *moet ie nie zitten raden op
 basis van incomplete info van ne gentenaar die zijn eigen ook zit tegen te spreken soms.*
 
-## Install
-
-In Claude Code, add the marketplace and install it:
-
-```
-/plugin marketplace add lucassel/gents
-/plugin install gents@gents
-```
-
-Or drop it in by hand, which works the same and updates never:
-
-```bash
-git clone https://github.com/lucassel/gents ~/.claude/skills/gents
-```
-
-Then say **"spreekt keer gents"**, or `/gents`. It also answers to *wablief*.
-
 ## Contributing
 
 If you speak Gents and something here is wrong, that is the whole point — open an issue or a PR.
-Add the correction to `corrections.md` with the wrong form beside it, and fold the rule into
-`SKILL.md`. A correction that does not reach the rule changes nothing.
+Anything you have actually said goes in `uitspraken.md` as it was said. A form that was wrong
+goes in `corrections.md` with the wrong one beside it. Only fold it into `SKILL.md` once it is
+settled — a rule built from two examples is the thing this repo is trying to avoid, and a
+correction that never reaches a file changes nothing at all.
 
 Ghent has an unreasonable amount of software being written in it. It may as well be written by
 something that can hold a conversation in the local language.

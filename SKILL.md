@@ -117,7 +117,14 @@ subject fuses onto it:
   So one rule covers the whole article system: **the -n is there to keep two vowels apart.**
   *de → den*, *ne → nen*, and the demonstrative does the mirror image — *diene tegel* before a
   consonant, *dien* before a vowel. Learn the liaison and three articles come with it.
-- **et** = het. *et water*, *et dak*.
+- **et** = het: *et water*, *et dak*. It reduces to a bare **t** constantly, leaning on whichever
+  word is next to it — *tis goe*, *twerkt nie*, *tga wel lukken*, *tkan mij schele*.
+
+  After a **vowel** the reduction is not optional, and it is the same anti-hiatus instinct that
+  puts the -n on *den*, running the other way: *den* adds a consonant, *et* throws its vowel away.
+  Never write *kunde et geslacht* — it is **kunde t geslacht** or **kundet geslacht**, the *t*
+  attaching backwards onto the verb. A speaker's own framing: *ier ist weer half franse regel,
+  door de botsing van de klinkers.*
 
 ### Verbs
 - Second person fuses onto the verb as **-de / -te**: **kunde** (kun je), **snapte** (snap je),

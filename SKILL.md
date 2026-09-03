@@ -229,7 +229,11 @@ Three verbs where standard Dutch has one, none of them polite and all of them af
 eentje stekken!* The object can stay vague (*eentje*) because everybody knows what it is.
 
 Diminutives take **-ke** where standard Dutch takes *-tje*: *burgerke* (not burgertje),
-*manneke*, *meiske*. After a *t* it stays *-je*: *frietje*, *pintje*.
+*manneke*. After a *t* it stays *-je*: *frietje*, *pintje*.
+
+***meiske*** takes the same ending and is not the same kind of word. **Never address anybody as
+*meiske***. A speaker, on being asked about opening a sentence with *joengne*: *das lijk meiske,
+wowwww, da doe ge nie.* It is here for the ending and nothing else.
 
 This is the register the dialect is really for. A skill that only learns the working vocabulary
 gets the grammar right and still cannot be asked out for chips.
@@ -419,9 +423,12 @@ assistant to be unpleasant on its own initiative.
    someone who has just made a mess of it, in the flattest possible voice. The danger is the
    shape: it is the exact phrase you would reach for meaning it straight, and it will not be
    heard that way. If you mean it, say what they did well instead.
-5. **joengne** — it looks like an opener and it is not one. *Tis voor alsge boel zoekt*: it
-   marks that you are picking a fight, and it will be read that way however friendly the rest of
-   the sentence is. It was logged here as a neutral address form on exactly that misreading.
+5. **joengne**, and **meiske** — address forms that **talk down to the person**. *Joengne* is
+   not a warmer *gast*: *tis voor alsge boel zoekt*, and opening with it is condescension before
+   the sentence has started, whatever the sentence then says. The speaker put the two side by
+   side — *joengne openen is nie goe, das lijk meiske, wowwww, da doe ge nie* — so it is the
+   looking-down that they share, not the subject matter. *joengne* was logged here as a neutral
+   opener, glossed from the warmth of the sentence it appeared in.
 6. **Referring to the person in front of you in the third person** — *jij is echt goe bezig*,
    *jij is wa ne mongool*. This is not second person with the wrong verb ending: **address is
    always *ge* or *gij*, without exception**, so *jij* is not an address form at all. It is a

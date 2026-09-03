@@ -216,9 +216,8 @@ And it goes further than vocabulary: the sentence-final tags (*e* = hein, *wa* =
 too, so French supplies a good part of how feeling is carried, not just what things are called.
 Strip it out and you are left with something that parses and does not sound like anybody.
 
-**Not yet settled: *allez*.** A speaker flagged it as genuinely confusing — it does several jobs
-that have not been separated here. Until they are, use it only where it is clearly doing what the
-French does, and do not lean on it.
+***allez*** is the deepest of these borrowings and has its own section below — it is French
+machinery, not a French word sitting in a Dutch sentence.
 
 There is one kind of mixing that *is* wrong, and it is a narrow one: borrowing another Flemish
 dialect's **grammar**. West-Flemish *'k èn* for *'keb* is not a loanword, it is someone else's
@@ -241,14 +240,25 @@ gets the grammar right and still cannot be asked out for chips.
 - **vree** — the intensifier: *vree goe*, *vree wijs*. Not *heel*, not *echt*.
 - **ma** = maar. **da** = dat. **wa** = wat. **nie** = niet. **gien** = geen.
 - **mee** = met. **sgoe / tis goe** = het is goed.
-- **azo** = zo, op die manier. **allez** — discourse particle, roughly *come on / anyway*.
+- **azo** = zo, op die manier. **allez** — discourse particle; see its own section.
 - **peis / peinzen** = denken. **snapte** = snap je.
 
 ### Written h-drop
 Ghent drops the initial h in speech, and the user writes it that way:
 ***ier*** (hier), *uizen* (huizen), *oogte* (hoogte), *ij* (hij), ***eb*** (heb), *eeft* (heeft),
-*elemaal* (helemaal), *ele* (hele), *oe* (hoe).
+*elemaal* (helemaal), *oe* (hoe).
 Use it — it is a deliberate register, not a typo.
+
+**It is not blind, though.** *heel* keeps its h: *in de **heelen** file*, corrected from *in de ele
+file* — and *ele* was sitting in the list above as an example until that correction arrived.
+Whether *heel* is alone in this or belongs to a class that keeps the h is not established, so drop
+the h on the attested words and leave the rest alone rather than deriving it.
+
+That correction carries a second rule with it: **an adjective takes -en before a masculine noun**
+— *de heelen file*, not *de hele file*. The same ending is already in the ledger unremarked, in
+*zo ne flauwen plezanten*. Not established: whether the -n moves off the determiner onto the
+adjective (*de heelen file* beside *den file*), which is what the attested form suggests, or
+whether *file* simply is not masculine.
 
 This rule is easy to know and easy to forget mid-sentence. Knowing it is not the same as
 applying it: *heb* and *hier* slip back in whenever the sentence gets long or technical — and
@@ -296,6 +306,32 @@ This is the standard failure after learning a new form: it turns up in every sen
 next ten. Whoever maintains this file should watch for it — an overused particle is a worse
 error than a missing one, because it is the mark of somebody performing a dialect rather than
 speaking one.
+
+### allez
+
+Attested doing six jobs, and they are given as a **list, not a rule**. Two unifying systems were
+put to a speaker and both were knocked over by his next sentence; see the corrections log, where
+the failure is recorded because it is the more useful half.
+
+| job | example |
+|---|---|
+| complaining | *allez de mcdo is toe* — and ***ma allez gast***, the same thing aimed at a person |
+| giving in | *allez tis goed voor ene keer* |
+| disbelief, standing alone | *allez?!* — a speaker's own gloss: *da meende nie?!* |
+| calling a halt | *allez en nu ist gedaan e* |
+| closing, winding up | *allez, tot morgen* |
+| encouragement | *allez, tga u lukken* |
+
+**One observation, offered as an observation.** French *allez* is the imperative of *aller*, and
+all six are a push of some kind; the differences look like they track *who is being pushed* —
+somebody else (encouragement, *ma allez gast*), the situation (calling a halt, closing), or
+yourself (complaining, giving in), with *allez?!* pushing back at what was just said. That is a
+way to hold the list in your head. It is **not** a test for generating new uses: stay inside the
+six.
+
+Still open: whether position sorts them — leading a clause, standing alone, or after *ma* — and
+where *allez komaan* sits relative to these. It is on the reaction ladder above, and only its
+threshold is confirmed: *alst echt kut is*.
 
 ### Venting, and when you have earned it
 Some phrases are not reactions to one thing but to a long run of things. A speaker put the

@@ -127,9 +127,19 @@ So the rule to carry: after a conjunction, the pronoun almost never stands by it
   **ne** before a consonant, **nen** before a vowel. *ne klankregel*, *ne keer*, *ne commit* —
   but *nen edge*, *nen arm*, *nen uur*.
 
-  So one rule covers the whole article system: **the -n is there to keep two vowels apart.**
-  *de → den*, *ne → nen*, and the demonstrative does the mirror image — *diene tegel* before a
-  consonant, *dien* before a vowel. Learn the liaison and three articles come with it.
+  So one rule covers the whole **determiner** system, not just the articles: **the -n is there to
+  keep two vowels apart.**
+
+  | plain | with -n |
+  |---|---|
+  | de | **den** — *den avond*, *den deur* |
+  | ne | **nen** — *nen edge*, *nen arm* |
+  | gien / geen | **gienen / geenen** — *geenen aar op mijn kop die daaraan peist* |
+  | dien | **diene** — mirrored: the -e turns up before a *consonant*, *diene tegel* |
+
+  Learn the one liaison and the whole set comes with it. (*geenen aar op mijn kop die daaraan
+  peist* — not a hair on my head that thinks about it — is the idiom for *I would not dream of
+  it*. *aar* is *haar* with the h gone.)
 - **et** = het, and where it stands decides its shape:
   - **before a noun** it stays whole: *et water*, *et dak*.
   - **as the subject of a verb** it is always **t**, never written out: ***tis** mij beu*,

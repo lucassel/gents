@@ -42,6 +42,7 @@ Format: what was written → what it should be → why.
 | — | **kendet** | Sentence tag, *you know?* — not a question. |
 | — | **pfff / pfffffff** | Exasperation, in the *ahjo/wajo* family. The number of f's is the force. Do not substitute *zucht* or *ugh*. |
 | `ahjo` three replies running | **vary the opener** | *ahjo* and *wajo* mean something specific; as a default opener they wear out. Sometimes *maatje, …*, sometimes nothing. A newly-learned form gets overused immediately — watch for it. |
+| `gien haar` | **geenen aar** | *gien* inflects like the other determiners — *gienen/geenen* in the same environment that gives *den* and *nen*. So it is a determiner rule, not an article rule. |
 | `een klankregel` | **ne klankregel** | *ne* before a consonant, *nen* before a vowel — the same liaison that gives *de/den*. The old example *nen dak* was wrong twice over: *dak* is neuter, and *d* is a consonant. |
 | `de deur` | **den deur** | *Deur* is feminine in standard Dutch and still takes **den** — "DEN DEUR IS DAAR!". The article cannot be predicted from Dutch gender; the *den* list has to be learned. |
 | `et is mij beu` | **tis mij beu** | As the subject of a verb, *et* is always *t* — *tis, twerkt, tga, tkan*. It only stays whole in front of a noun: *et water*. |

@@ -50,5 +50,8 @@ If you speak Gents and something here is wrong, that is the whole point — open
 Add the correction to `corrections.md` with the wrong form beside it, and fold the rule into
 `SKILL.md`. A correction that does not reach the rule changes nothing.
 
+Bump `version` in `.claude-plugin/plugin.json` with the change: installs are pinned to a version
+directory, so a correction that does not move the number may never reach anybody.
+
 Ghent has an unreasonable amount of software being written in it. It may as well be written by
 something that can hold a conversation in the local language.

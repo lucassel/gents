@@ -238,6 +238,12 @@ gets the grammar right and still cannot be asked out for chips.
 - **keer**, never **ki**. "Niemand in deze stad zegt 'ki'." *ne keer*, *volgende keer*.
   **kier** exists but only in the loud, threatening register: *KGAAT U KIER UITLEGGE*.
 - **vree** — the intensifier: *vree goe*, *vree wijs*. Not *heel*, not *echt*.
+- **van ier tot in Tokio** — for something glaringly obvious, and it attaches to a verb of
+  perception rather than to the thing itself: *kziet van ier tot in Tokio*, *ik hoor em tsjiepen
+  van ier tot in Tokio*. Both attested examples are see/hear, so keep it there. The speaker on
+  its logic: *tmaakt echt geen steek ma tis zo* — so do not go looking for one, and do not build
+  a family of these by swapping Tokyo for somewhere else.
+  - ***tsjiepen*** — to squeak, to chirp.
 - **ma** = maar. **da** = dat. **wa** = wat. **nie** = niet. **gien** = geen.
 - **mee** = met. **sgoe / tis goe** = het is goed.
 - **azo** = zo, op die manier. **allez** — discourse particle; see its own section.

@@ -49,6 +49,10 @@ Every line is quoted exactly as it was written, typos and all. Do not tidy them.
 | *is al heel veranderd* | has changed a lot already | **heel** again with its h, this time uninflected in front of a participle |
 | *ma master besta nie meer e tis main nu* | master is gone, it's main now | **besta** for *bestaat*; the **e** tag; *ma* opening the sentence where it is not adversative |
 | *das goe* / *sgoe* | that's fine | written without the apostrophe |
+| *van ier tot in Tokio* | said when something is glaringly obvious | an intensifier of perception, not of distance. The speaker's own verdict: *tmaakt echt geen steek ma tis zo* |
+| *kziet van ier tot in Tokio* | you can see it a mile off | **kziet** = ik zie het, the *t* leaning back onto the verb, same as *kgaat*, *kzout* |
+| *ik hoor em tsjiepen van ier tot in Tokio* | I can hear it squeaking a mile off | **tsjiepen** = to squeak, to chirp. Note *ier* dropped its h and ***hoor* kept its own**, in one sentence |
+| *tmaakt echt geen steek* | it makes no sense at all | **geen steek**; *geen* here where the ledger elsewhere has *gien* |
 
 ### Not resolved, and left that way on purpose
 
@@ -63,6 +67,14 @@ needs picking:
 - **kpeis** / **peisk** — the pronoun on the front or on the back of the verb. Not a contradiction
   so much as two positions with no known rule for choosing; both are attested from the same
   speaker, days apart in the same conversation
+
+### The h that stayed
+
+*ik hoor em tsjiepen van ier tot in Tokio* has *ier* without its h and *hoor* with it, in the
+same breath, from the same speaker, unprompted. Together with *heel* that is twice in one day
+that a word-initial h survived, against a rule in `SKILL.md` that says almost none do and tells
+you to sweep for them mechanically. Two dents is not a counter-rule and nothing has been changed
+on the strength of it — recorded here and left alone until somebody says which words keep it.
 
 ### The one that was nearly missed
 

@@ -81,6 +81,7 @@ needs picking:
 | *manee!!! manneke en meiske en joengne zijn echt slechte woorden peet. OEF!!! nie doen* | all three are bad words, don't | **OEF** as an exclamation; **manee** twice; caps and the exclamation marks doing the urgency |
 | *das lijk 'meiske' wowwww da doe ge nie* | it's like *meiske* — you just don't | *lijk* here means "as unsayable as", not "for the same reason as" — read as a shared mechanism once, wrongly |
 | *boel is ruzie* | *boel* is a row, a fight | flat correction of a gloss that had turned *boel zoeken* into "looking down on somebody" |
+| *joengne is lijk nog waarschuwend. manneke of meiske is alsge voor oorlog kiest* | *joengne* still warns; *manneke* or *meiske* is declaring war | the scale, given rather than derived — and it puts the two that had been logged as innocent diminutives **above** the one logged as a provocation |
 | *joengne openen is lijk vragen voor een lap op uw wezen* | opening with *joengne* is asking for a smack in the face | **ne lap** — a smack; **wezen** — the face |
 | *moek u ne foto sturen* | shall I send you a photo | **moek** = moet ik — the pronoun on the back of the verb, the second one after *peisk* |
 | *gij tegenstander* | you contrarian | an insult used affectionately, and none the less an insult |

@@ -426,20 +426,22 @@ assistant to be unpleasant on its own initiative.
    emphatically and about all three at once: *manneke en meiske en joengne zijn echt slechte
    woorden. nie doen.*
 
-   They are three separate problems, not one class. Two attempts to give them a shared mechanism
-   have been made in this file and both were wrong, so there is no unifying line here on purpose:
+   They are all aggression and they are not equal. The speaker separates them by how far they
+   go, and this scale is his, in his words — *joengne is lijk nog waarschuwend, manneke of
+   meiske is alsge voor oorlog kiest*:
 
-   - **joengne**, opening a sentence, is a **provocation**. *Tis voor alsge boel zoekt* — *boel*
-     is a row — and *joengne openen is lijk vragen voor ne lap op uw wezen*. It is not
-     condescension and not a warmer *gast*; it reads as picking a fight however friendly the
-     rest of the sentence is. (***ne lap op uw wezen*** — a smack in the face; *wezen* is the
-     face.)
-   - **manneke** and **meiske** were sitting in this file as neutral examples of the *-ke*
-     ending, which is how a learner ends up saying them to somebody. Why they land badly has not
-     been explained and is not guessed at here.
+   | | how far it goes |
+   |---|---|
+   | **joengne** | a **warning**. *Tis voor alsge boel zoekt* — *boel* is a row — and *joengne openen is lijk vragen voor ne lap op uw wezen*. Trouble is being announced |
+   | **manneke**, **meiske** | **choosing war**, past the point of warning |
 
-   All three were originally read as warm from the shape of the word. **Address forms are
-   *maatje*, *pee/peet*, *gast*, *kerel*, and nothing else you have inferred.**
+   So the two that were sitting in this file as harmless diminutives are the *worse* pair, and
+   nothing about the shape of either word says so. (***ne lap op uw wezen*** — a smack in the
+   face; *wezen* is the face.)
+
+   Nothing is added to the scale above. Two earlier attempts to explain these three were
+   invented here and both were wrong; this one was given. **Address forms are *maatje*,
+   *pee/peet*, *gast*, *kerel*, and nothing else you have inferred.**
 6. **Referring to the person in front of you in the third person** — *jij is echt goe bezig*,
    *jij is wa ne mongool*. This is not second person with the wrong verb ending: **address is
    always *ge* or *gij*, without exception**, so *jij* is not an address form at all. It is a

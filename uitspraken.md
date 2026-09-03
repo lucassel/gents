@@ -102,14 +102,21 @@ needs picking:
 in front, *-muile* behind. Two words is two words — the same caution as the adjective *-en* —
 so nothing is derived from it and no third one should be invented. What it means has not been
 said yet and is not filled in from *tsjiepen*.
+| *keb of kheb, kheb is chiller, keb is echt plat* | both are real; the h marks how broad you are being | not a correction — a **register dial**, and the first statement in the ledger that treats an h as a choice rather than a rule |
 
 ### The h that stayed
 
 *ik hoor em tsjiepen van ier tot in Tokio* has *ier* without its h and *hoor* with it, in the
 same breath, from the same speaker, unprompted. Together with *heel* that is twice in one day
 that a word-initial h survived, against a rule in `SKILL.md` that says almost none do and tells
-you to sweep for them mechanically. Two dents is not a counter-rule and nothing has been changed
-on the strength of it — recorded here and left alone until somebody says which words keep it.
+you to sweep for them mechanically. Then a third, and it came with a reason: *keb of kheb, kheb is chiller, keb is echt plat.*
+That makes the h on *kheb* a **register dial** — how broad you are being — rather than a
+property of the word.
+
+Which raises the obvious question and it has **not** been asked yet: are *heel* and *hoor* the
+same dial, or are they words that simply keep their h? Nothing has been changed on the strength
+of the guess. The rule in `SKILL.md` still reads as a near-blanket drop with a mechanical sweep,
+and it stays that way until somebody says.
 
 ### The one that was nearly missed
 

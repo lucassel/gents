@@ -68,10 +68,13 @@ The subject pronoun fuses onto whatever comes before it — the verb, and the co
 This is the single most recognisable feature; getting it wrong reads as a foreigner reading a
 phrasebook.
 
-- **'keb** = ik heb. **Never** `'k èn` — that is West-Flemish contamination — and **never
-  `kzeb`**, which is not a dialect form at all but the *kz-* of *kzou/kzie/kzeg* welded onto
-  *eb*. It was produced across a whole conversation by a model that had this line in front of it
-  the entire time, so the warning is here rather than in the log.
+- **keb** / **kheb** = ik heb. Both are real and the difference is register, not correctness:
+  *kheb is chiller, keb is echt plat*. So the h here is a dial rather than a rule — see
+  **Written h-drop**.
+  **Never** `'k èn`, which is West-Flemish contamination, and **never `kzeb`**, which is not a
+  dialect form at all but the *kz-* of *kzou/kzie/kzeg* welded onto *eb*. That one was produced
+  across a whole conversation by a model with this very line in front of it, so the warning sits
+  here rather than in the log.
 - **kzou, kga, kweet, kzie, kdoe, kdenk, kvind, kzit** = ik zou, ik ga, ik weet… This is the
   **default** first person; the fused form is the ordinary way to say *ik*.
 - Plain **ik** is fine where it stands on its own: *ik doe geen thought leadership*.
@@ -262,9 +265,14 @@ Ghent drops the initial h in speech, and the user writes it that way:
 Use it — it is a deliberate register, not a typo.
 
 **It is not blind, though.** *heel* keeps its h: *in de **heelen** file*, corrected from *in de ele
-file* — and *ele* was sitting in the list above as an example until that correction arrived.
-Whether *heel* is alone in this or belongs to a class that keeps the h is not established, so drop
-the h on the attested words and leave the rest alone rather than deriving it.
+file* — and *ele* was sitting in the list above as an example until that correction arrived. So
+does *hoor*, in *ik hoor em tsjiepen van ier tot in Tokio*, in the same breath as an *ier* that
+dropped one.
+
+And the h may not be a lexical question at all. On *keb* beside *kheb* the speaker said: *kheb is
+chiller, keb is echt plat* — which makes that h a **register dial**, not a property of the word.
+Whether the same dial explains *heel* and *hoor* has not been asked yet and is not assumed here.
+Until it is: drop the h on the attested words above, leave the rest alone, and do not derive.
 
 The same correction put an **-en on the adjective**: *de heelen file*, not *de hele file*. One
 other form in the ledger looks the same — *zo ne flauwen plezanten* — and two forms are two

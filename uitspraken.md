@@ -67,6 +67,17 @@ needs picking:
 - **kpeis** / **peisk** — the pronoun on the front or on the back of the verb. Not a contradiction
   so much as two positions with no known rule for choosing; both are attested from the same
   speaker, days apart in the same conversation
+| *tsjiepmuile* | **not yet given** | offered beside *ziepmuile*, which is already in the ledger. The word is attested, the meaning is not — left blank on purpose rather than guessed from *tsjiepen* |
+| *das ook zoiets* | that's another one of those | |
+| *staat er al eh* | it's already in there, right | the tag written **eh**, where `SKILL.md` has it as **e** |
+
+### -muile
+
+**ziepmuile** was in the ledger as a single word. **tsjiepmuile** arrived beside it, offered as
+*das ook zoiets*, which makes **-muile** look like a live way to build an insult: a verb or noun
+in front, *-muile* behind. Two words is two words — the same caution as the adjective *-en* —
+so nothing is derived from it and no third one should be invented. What it means has not been
+said yet and is not filled in from *tsjiepen*.
 
 ### The h that stayed
 

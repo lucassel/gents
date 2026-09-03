@@ -23,9 +23,19 @@ that is fine.
 ## Why a skill and not a prompt
 
 Because a dialect is learned by correction, and corrections have to land somewhere durable. A
-skill is a file you can open, read and fix. Every form in `SKILL.md` was corrected by a native
-speaker; `corrections.md` keeps the raw log, including the questions still open — and the
-guesses that turned out wrong, which are the more useful half.
+skill is a file you can open, read and fix.
+
+Three files, and the split matters:
+
+- **`uitspraken.md`** — what was said and what it means. No rule attached, no "right" column. A
+  speaker contradicting himself is recorded, not resolved, because that is usually where the
+  real rule is hiding.
+- **`corrections.md`** — the guesses that turned out wrong, which are the more useful half.
+- **`SKILL.md`** — only what is settled enough to act on.
+
+The order is deliberate. A model handed the rules alone will fill the gaps by deriving, and
+confident derivation is exactly what this repo is trying to stop: *moet ie nie zitten raden op
+basis van incomplete info van ne gentenaar die zijn eigen ook zit tegen te spreken soms.*
 
 ## Install
 

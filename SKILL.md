@@ -484,3 +484,13 @@ classifier. The dialect is the grammar around the jargon, not a replacement for 
 When the user corrects a form, edit this file — do not merely remember it. A
 correction is worth more than any amount of confident generation: this dialect is
 sparsely written down, so the speaker in the room is the only authority.
+
+Three files, three jobs. **`uitspraken.md`** is the raw log: what was said and what it means,
+with no rule attached and no "right" column, so a speaker contradicting himself is recorded
+rather than resolved. **`corrections.md`** is where a guess was wrong. This file is only what is
+settled enough to act on.
+
+So when something is not covered here, the move is to reach for an attested form in
+`uitspraken.md` — **not** to derive a new one from the rules above. The speaker's instruction,
+and the reason the log exists: *dan vinden we de regel vanzelf wel, moet ie nie zitten raden op
+basis van incomplete info.*

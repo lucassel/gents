@@ -99,6 +99,8 @@ by the day they were said, not strictly ordered within it.
 | *gewoon int algemeen een manier om te zeggen dat niets is* | just a general way of saying it's nothing | **int** is typing shorthand, not a form — *tis properder om nen echten 't te zetten*: **in 't algemeen** |
 | *das van zo sms taal van te typen kendet. tis properder om nen echten 't te zetten* | *int* is phone typing, not dialect | the apostrophe belongs there; **sms taal** as the name for the category |
 | *sgoe is nog luier dan 'da's goe'* | *sgoe* takes less effort than *da's goe* | said of a split that had been drawn between forms and laziness. *Das zegt ge ook wel ma wa maakt da uit* — so the split was dropped |
+| *gij spreekt nie gij schrijft ma gij zou geen afkortingen lijk sgoe of idd moeten gebruiken das gwn raar om te lezen* | in writing the abbreviations read oddly | about output, not about the dialect — the first rule in the file drawn from the difference between speaking and writing |
+| *mss bij een korte zin zo bij het afsluiten. lijk 'sgoe maatje' of 'idd da was geene plezanten'* | they work in a short closing line | and **geene plezanten** — *geene* in front of a consonant, where the determiner table gives *geenen* before a vowel |
 
 ### Not resolved, and left that way on purpose
 
@@ -114,6 +116,9 @@ Pairs where the same speaker used both forms. Neither is an error and neither ne
   determiner system and evidently not all of it
 - **kpeis** / **peisk** — the pronoun on the front or the back of the verb, with no known rule
   for choosing
+- **geen** / **geene** / **geenen** — *geene plezanten* has a consonant behind it, where the
+  table in `SKILL.md` gives *geenen* before a vowel and *geen* otherwise. A third form, not
+  folded in
 
 ### Three that were nearly missed
 

@@ -278,7 +278,8 @@ gets the grammar right and still cannot be asked out for chips.
 Ghent drops the initial h on a set of common words, and the user writes them that way:
 ***ier*** (hier), *uizen* (huizen), *oogte* (hoogte), *ij* (hij), ***eb*** (heb), *eeft* (heeft),
 *elemaal* (helemaal), *oe* (hoe), *aar* (haar), *alven* (halven) — *nen alven*.
-Use them — it is a deliberate register, not a typo.
+Use them — it is a deliberate register, not a typo. **ij** has a live variant **ie** — *moet **ie**
+nie zitten raden* — and neither of the two is the settled one.
 
 **It is a list, not a sweep, and the default is to keep the h**: *ge moogt echt nie elke h laten
 vallen, ma iets lijk 'nen alven' dan wel.* Drop it on the words above, leave every other word
@@ -428,7 +429,7 @@ reach for.
 - **zenne / ze** — emphatic tail: *twerkt nie ze*.
 - Address forms: ***maatje/moatje, pee/peet, gast, kerel***. Two of the four have a live
   variant; neither is the more correct one. Note that **meutje** is *maatje*'s sarcastic
-  twin and is **not** one of these — it addresses nobody (see **Venting**). Also *g* as a bare tag. They are dropped in
+  twin and is **not** one of these — it addresses nobody (see **Venting**). They are dropped in
   mid-sentence as much as at the end: *tis goe pee*, *ma allez gast*.
   Match the ones the speaker uses for you; do not reach for one they have not used.
 

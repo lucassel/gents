@@ -87,6 +87,7 @@ by the day they were said, not strictly ordered within it.
 | *of iets da in frieten ligt is meestal echt ja gebroken in stukken, gefragmenteerd* | something lying *in frieten* is broken into pieces | the image behind the phrase, volunteered — cut into strips, hence past repair. Given, not derived: an etymology offered a moment earlier was told to get lost |
 | *gij doe enorm veel 'et' terwijl da wij meer 't zouden zeggen* | you write *et* far too much; it is mostly *'t* | the file said *et* stays whole in front of a noun — *et water*, *et dak* — and that is the rule that produced the overuse |
 | *lijk nie et geslacht maar 't geslacht of "tgeslacht" ma da tweede is ambetant om te doen dus doet da nie* | *'t geslacht*, with the apostrophe; *tgeslacht* exists but don't write it | a form ruled out for being **annoying to type**, not for being wrong — the first entry of that kind |
+| *moatje* | *maatje* | a variant, confirmed as one — not a slip, and neither form is the more correct |
 
 ### Not resolved, and left that way on purpose
 

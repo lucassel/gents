@@ -2,10 +2,9 @@
 
 What was actually said, and what it means. Nothing else.
 
-There is no "right" column here and no rule underneath. When the speaker says one thing on
-Tuesday and another on Thursday, both stay, both dated — the contradiction is data, and it is
-usually where the real rule turns out to be hiding. `den deur` and `heel` were both found that
-way.
+There is no "right" column here and no rule underneath. When the speaker says one thing and
+something else later, both stay — the contradiction is data, and it is usually where the real
+rule turns out to be hiding. *den deur* and *heel* were both found that way.
 
 The three files, and they are not the same job:
 
@@ -20,7 +19,8 @@ speaker's own instruction, which is why this file exists: *kzout nog nie teveel 
 proberen duwen* — and *dan vinden we de regel vanzelf wel, moet ie nie zitten raden op basis van
 incomplete info van ne gentenaar die zijn eigen ook zit tegen te spreken soms.*
 
-Every line is quoted exactly as it was written, typos and all. Do not tidy them.
+Every line is quoted exactly as it was written, typos and all. Do not tidy them. Rows are grouped
+by the day they were said, not strictly ordered within it.
 
 ## 2026-09-03
 
@@ -53,25 +53,7 @@ Every line is quoted exactly as it was written, typos and all. Do not tidy them.
 | *kziet van ier tot in Tokio* | you can see it a mile off | **kziet** = ik zie het, the *t* leaning back onto the verb, same as *kgaat*, *kzout* |
 | *ik hoor em tsjiepen van ier tot in Tokio* | I can hear it squeaking a mile off | **tsjiepen** = to squeak, to chirp. Note *ier* dropped its h and ***hoor* kept its own**, in one sentence |
 | *tmaakt echt geen steek* | it makes no sense at all | **geen steek**; *geen* here where the ledger elsewhere has *gien* |
-
-### Not resolved, and left that way on purpose
-
-Four pairs where the same speaker used both forms. None of these is an error and none of them
-needs picking:
-
-- **mee** / **me** — *met*
-- **ne keer** / **ene keer** — the second turned up in *voor ene keer*, which may be its own
-  fixed phrase rather than a variant
-- **ij** / **ie** — *hij*
-- **een** / **ne** / **en** — the indefinite article, where *en soort* may also just be a typo
-- **ne** / **nen** — *nen tsjiepmuile* and *nen tech hoofdstad*, both with a consonant behind
-  them where the stated rule gives *ne*. Twice within a few minutes, and the same shape as *den
-  deur*: the liaison explains a lot of the determiner system and evidently not all of it. Three
-  more like this and it is the rule that is wrong, not the examples
-- **kpeis** / **peisk** — the pronoun on the front or on the back of the verb. Not a contradiction
-  so much as two positions with no known rule for choosing; both are attested from the same
-  speaker, days apart in the same conversation
-| *tsjiepmuile* | **not yet given** | offered beside *ziepmuile*, which is already in the ledger. The word is attested, the meaning is not — left blank on purpose rather than guessed from *tsjiepen* |
+| *tsjiepmuile* | offered beside *ziepmuile* with no meaning attached | the meaning came later, in its own row below. It was left blank here rather than guessed from *tsjiepen*, and the guess would have been wrong |
 | *das ook zoiets* | that's another one of those | |
 | *staat er al eh* | it's already in there, right | the tag written **eh**, where `SKILL.md` has it as **e** |
 | *tsjiepmuile is idd een die altijd aant bleiten of zagen is ja en vooral ij doet er niets aan* | the meaning, given | **bleiten**, **zagen**; and the whole definition turns on the second half |
@@ -97,30 +79,49 @@ needs picking:
 | *maatje manee wa ne zever ook die corrections* | what a load of drivel those corrections are | **zever** — drivel, waffle |
 | *eens dage gecorrigeerd ebt moede niets meer bijhouden e* | once you've corrected it you don't need to keep a record | **eens dage** = eens dat ge; **moede** = moet ge |
 | *nu staat er iets over "mco" op main duts* | now there's a thing about *mco* on main, you numpty | **duts** — a hopeless case, said lightly |
+| *keb of kheb, kheb is chiller, keb is echt plat* | both are real; the h marks how broad you are being | not a correction — a **register dial**, and the first statement in the ledger that treats an h as a choice rather than a rule |
+| *ja ge moogt echt nie elke h laten vallen. ma iets lijk 'nen alven' dan wel* | you really must not drop every h — but one like *nen alven*, yes | the h-drop is a **list of words**, not a blanket rule. **alven** = halven; **nen** in front of a vowel, which the liaison rule does predict |
+
+### Not resolved, and left that way on purpose
+
+Pairs where the same speaker used both forms. None of these is an error and none of them needs
+picking:
+
+- **mee** / **me** — *met*
+- **ne keer** / **ene keer** — the second turned up in *voor ene keer*, which may be its own
+  fixed phrase rather than a variant
+- **ij** / **ie** — *hij*
+- **een** / **ne** / **en** — the indefinite article, where *en soort* may also just be a typo
+- **e** / **eh** — the sentence-final tag
+- **ne** / **nen** — *nen tsjiepmuile* and *nen tech hoofdstad*, both with a consonant behind
+  them where the stated rule gives *ne*. Twice within a few minutes, and the same shape as *den
+  deur*: the liaison explains a lot of the determiner system and evidently not all of it. A few
+  more like this and it is the rule that is wrong, not the examples
+- **kpeis** / **peisk** — the pronoun on the front or on the back of the verb. Not a
+  contradiction so much as two positions with no known rule for choosing; both are attested from
+  the same speaker within one conversation
 
 ### -muile
 
 **ziepmuile** was in the ledger as a single word. **tsjiepmuile** arrived beside it, offered as
-*das ook zoiets*, which makes **-muile** look like a live way to build an insult: a verb or noun
-in front, *-muile* behind. Two words is two words — the same caution as the adjective *-en* —
-so nothing is derived from it and no third one should be invented. What it means has not been
-said yet and is not filled in from *tsjiepen*.
-| *keb of kheb, kheb is chiller, keb is echt plat* | both are real; the h marks how broad you are being | not a correction — a **register dial**, and the first statement in the ledger that treats an h as a choice rather than a rule |
-| *ja ge moogt echt nie elke h laten vallen. ma iets lijk 'nen alven' dan wel* | you really must not drop every h — but one like *nen alven*, yes | the h-drop is a **list of words**, not a blanket rule. **alven** = halven; **nen** in front of a vowel, which the liaison rule does predict |
+*das ook zoiets*, which makes **-muile** look like a live way to build an insult: something in
+front, *-muile* behind. Two words is two words — the same caution as the adjective *-en* — so
+nothing is derived from it and no third one is to be invented.
 
 ### The h that stayed
 
 *ik hoor em tsjiepen van ier tot in Tokio* has *ier* without its h and *hoor* with it, in the
-same breath, from the same speaker, unprompted. Together with *heel* that is twice in one day
-that a word-initial h survived, against a rule in `SKILL.md` that says almost none do and tells
-you to sweep for them mechanically. Then a third, and it came with a reason: *keb of kheb, kheb is chiller, keb is echt plat.*
-That makes the h on *kheb* a **register dial** — how broad you are being — rather than a
-property of the word.
+same breath, from the same speaker, unprompted. With *heel*, that is twice against a rule in
+`SKILL.md` that said almost no word-initial h belonged and told you to sweep for them
+mechanically.
+
+Then a third, and it came with a reason: *keb of kheb, kheb is chiller, keb is echt plat.* That
+makes the h on *kheb* a **register dial** — how broad you are being — rather than a property of
+the word.
 
 Then it was asked, and answered: *ge moogt echt nie elke h laten vallen, ma iets lijk 'nen
 alven' dan wel.* So the drop is a **list of words**, the default is to keep the h, and the
-mechanical sweep in `SKILL.md` — scan the reply, almost none belong — has been taken out. It was
-that sweep that produced *ele*.
+mechanical sweep has been taken out of `SKILL.md`. It was that sweep that produced *ele*.
 
 Still open: whether *kheb*'s dial reaches any further than *kheb*, and whether *heel* and *hoor*
 keep their h for that reason or simply because they are not on the list.

@@ -558,8 +558,9 @@ one thing — the split is whether it can still be saved:
 | ***tis kapot***, ***tis katsjee*** | broken. *Alsget katsjee is kundet soms nog repareren* |
 | ***tis naar de frieten***, ***tis naar de vaantjes*** | gone. *Dan ist vijf na twaalf* — one past the last moment |
 
-The chips in *naar de frieten* make it read as the jokey one and it is the opposite: it is the
-end of the line.
+The chips are the picture, not the joke — the speaker's own: *iets da in frieten ligt is
+meestal echt gebroken in stukken, gefragmenteerd*. Cut into strips, so past putting back
+together. Read as a food word it looks like the light one, and it is the end of the line.
 If you were wrong, say *kzat fout* and move
 on — do not apologise at length, that reads as insincere in this register.
 

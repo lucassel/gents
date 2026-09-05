@@ -85,6 +85,7 @@ by the day they were said, not strictly ordered within it.
 | *gast tis katsjee stop mee uw frans* | it's *katsjee*, drop the French | said to an etymology nobody asked for. The word does not need a source attached to be usable, and hunting one is the same reflex that invented a derivation for *blo* |
 | *naar de frieten? ja dan ist vijf na twaalf* | *naar de frieten* means past saving, not just broken | **vijf na twaalf** — one past the last moment. It is the heaviest of the three, where the chips in it had been read as making it the lightest |
 | *als iets katsjee is kundet soms nog repareren, alst naar de frieten is dan ist naar de vaantjes* | *katsjee* can sometimes still be fixed; *naar de frieten* is gone | the split is repairability, not degree. **naar de vaantjes** as a fourth. And **kundet** in the wild, which is the exact form `SKILL.md` gives for *et* leaning back onto the verb |
+| *of iets da in frieten ligt is meestal echt ja gebroken in stukken, gefragmenteerd* | something lying *in frieten* is broken into pieces | the image behind the phrase, volunteered — cut into strips, hence past repair. Given, not derived: an etymology offered a moment earlier was told to get lost |
 
 ### Not resolved, and left that way on purpose
 

@@ -91,6 +91,8 @@ by the day they were said, not strictly ordered within it.
 | *meutseeee is de klagende vorm* | *meutse*, stretched, is the complaining one | the file had only *meutje* |
 | *gerekte klinker idd intensiteit* | a stretched vowel is intensity | not a sarcasm marker — it turns up whatever the word already does. `SKILL.md` had it as sarcasm only |
 | *kweni diene -se is een Gentse vorm van verkleinwoord lijk een stroatse* | *-se* may be a Gents diminutive — *stroatse* | prefixed with **kweni**, so the speaker is not sure either. A third ending beside *-ke* and *-je*, unconfirmed |
+| *'twee keer niets' voor iets da bvb geen werk is, of niets van nut heeft, weinig moeite is* | it amounts to nothing — no trouble, no use, no effort | one phrase covering *don't mention it* and *worth nothing* |
+| *gewoon int algemeen een manier om te zeggen dat niets is* | just a general way of saying it's nothing | **int** = in 't, the *t* leaning back onto *in*, same move as *kundet* |
 
 ### Not resolved, and left that way on purpose
 

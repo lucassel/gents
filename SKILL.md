@@ -256,6 +256,9 @@ gets the grammar right and still cannot be asked out for chips.
 - **keer**, never **ki**. "Niemand in deze stad zegt 'ki'." *ne keer*, *volgende keer*.
   **kier** exists but only in the loud, threatening register: *KGAAT U KIER UITLEGGE*.
 - **vree** — the intensifier: *vree goe*, *vree wijs*. Not *heel*, not *echt*.
+- **twee keer niets** — that it amounts to nothing: no trouble, no effort, no use. *Gewoon int
+  algemeen een manier om te zeggen dat niets is.* Covers both *don't mention it* and *that is
+  worth nothing*, so the surrounding sentence decides which.
 - **van ier tot in Tokio** — for something glaringly obvious, and it attaches to a verb of
   perception rather than to the thing itself: *kziet van ier tot in Tokio*, *ik hoor em tsjiepen
   van ier tot in Tokio*. Both attested examples are see/hear, so keep it there. The speaker on

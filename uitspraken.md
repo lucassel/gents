@@ -18,7 +18,12 @@ speaker's own instruction, which is why this file exists: *kzout nog nie teveel 
 proberen duwen* — and *dan vinden we de regel vanzelf wel, moet ie nie zitten raden op basis van
 incomplete info van ne gentenaar die zijn eigen ook zit tegen te spreken soms.*
 
-Every line is quoted exactly as it was written, typos and all. Do not tidy them. Rows are grouped
+Every line is quoted exactly as it was written, typos and all. Do not tidy them.
+
+**Typing shorthand is not a dialect form.** Phone-keyboard contractions get written the same way
+real forms do and they mean nothing: **idd** (inderdaad), **bvb** (bijvoorbeeld), **int** (in 't).
+On that last one the speaker was explicit — *tis properder om nen echten 't te zetten*. Never
+carry one of these into `SKILL.md`. Rows are grouped
 by the day they were said, not strictly ordered within it.
 
 ## 2026-09-03
@@ -92,7 +97,8 @@ by the day they were said, not strictly ordered within it.
 | *gerekte klinker idd intensiteit* | a stretched vowel is intensity | not a sarcasm marker — it turns up whatever the word already does. `SKILL.md` had it as sarcasm only |
 | *kweni diene -se is een Gentse vorm van verkleinwoord lijk een stroatse* | *-se* may be a Gents diminutive — *stroatse* | prefixed with **kweni**, so the speaker is not sure either. A third ending beside *-ke* and *-je*, unconfirmed |
 | *'twee keer niets' voor iets da bvb geen werk is, of niets van nut heeft, weinig moeite is* | it amounts to nothing — no trouble, no use, no effort | one phrase covering *don't mention it* and *worth nothing* |
-| *gewoon int algemeen een manier om te zeggen dat niets is* | just a general way of saying it's nothing | **int** = in 't, the *t* leaning back onto *in*, same move as *kundet* |
+| *gewoon int algemeen een manier om te zeggen dat niets is* | just a general way of saying it's nothing | **int** is typing shorthand, not a form — *tis properder om nen echten 't te zetten*: **in 't algemeen** |
+| *das van zo sms taal van te typen kendet. tis properder om nen echten 't te zetten* | *int* is phone typing, not dialect | the apostrophe belongs there; **sms taal** as the name for the category |
 
 ### Not resolved, and left that way on purpose
 

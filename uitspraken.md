@@ -88,6 +88,9 @@ by the day they were said, not strictly ordered within it.
 | *gij doe enorm veel 'et' terwijl da wij meer 't zouden zeggen* | you write *et* far too much; it is mostly *'t* | the file said *et* stays whole in front of a noun — *et water*, *et dak* — and that is the rule that produced the overuse |
 | *lijk nie et geslacht maar 't geslacht of "tgeslacht" ma da tweede is ambetant om te doen dus doet da nie* | *'t geslacht*, with the apostrophe; *tgeslacht* exists but don't write it | a form ruled out for being **annoying to type**, not for being wrong — the first entry of that kind |
 | *moatje* | *maatje* | a variant, confirmed as one — not a slip, and neither form is the more correct |
+| *meutseeee is de klagende vorm* | *meutse*, stretched, is the complaining one | the file had only *meutje* |
+| *gerekte klinker idd intensiteit* | a stretched vowel is intensity | not a sarcasm marker — it turns up whatever the word already does. `SKILL.md` had it as sarcasm only |
+| *kweni diene -se is een Gentse vorm van verkleinwoord lijk een stroatse* | *-se* may be a Gents diminutive — *stroatse* | prefixed with **kweni**, so the speaker is not sure either. A third ending beside *-ke* and *-je*, unconfirmed |
 
 ### Not resolved, and left that way on purpose
 

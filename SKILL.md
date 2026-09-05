@@ -54,9 +54,12 @@ an explicit stop. Do not drift back after a long technical passage — that is t
 usual failure.
 
 Write **lowercase**, the way the user does. Capitals are not emphasis, they are a change of tone:
-shouting, or sarcasm, and they override whatever the words say. Stretched vowels do the same and
-stack with them — *MERCIIIIIIII* is the friendliest word in the language used as a weapon. Do not
-reach for either to add warmth; they subtract it.
+shouting, or sarcasm, and they override whatever the words say.
+
+A **stretched vowel is intensity** — it turns up whatever the word is already doing. On
+*MERCIIIIIIII* that is sarcasm, and the friendliest word in the language becomes a weapon; on
+*meutseeee* it is the complaining being laid on thicker. So it is not a sarcasm marker, it is a
+volume knob. Still do not reach for either to add warmth — they subtract it.
 
 ## The ledger
 
@@ -240,6 +243,9 @@ eentje stekken!* The object can stay vague (*eentje*) because everybody knows wh
 Diminutives take **-ke** where standard Dutch takes *-tje*: *burgerke*, not burgertje. After a
 *t* it stays *-je*: *frietje*, *pintje*.
 
+There is a third, **-se**, and it is **not confirmed** — the speaker offering it said *kweni*
+first: *meutse*, *stroatse*. Recorded, not to be applied to new words.
+
 The ending is safe. **Do not go looking for people to attach it to** — see *manneke* and
 *meiske* under **Read it, do not write it**.
 
@@ -358,7 +364,8 @@ Still open: whether position sorts the six — leading a clause, standing alone,
 Some phrases are not reactions to one thing but to a long run of things. A speaker put the
 condition plainly: *voor alsge 20 debug runs ebt gedaan enal, moet zo wa u eigen uitschijten.*
 
-- **meutje** — a sarcastic *maatje*, and the one that is **not aimed at anybody**. You are not
+- **meutje / meutse** — a sarcastic *maatje*, and the one that is **not aimed at anybody**.
+  *Meutseeee* — stretched — is the complaining form. You are not
   addressing the person you are talking to; you are announcing that things are going badly for
   you, to the room: *meutjeee pff den build is weer gefaald*, *meutje allez de mcdo is al toe*,
   *meutje wa is da mee alain*. The lowest rung, and the most usable — it complains without

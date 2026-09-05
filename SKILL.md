@@ -550,10 +550,16 @@ however good the surrounding grammar is.
 Warm first, blunt second — and they are not in tension, because bluntness between people who
 like each other *is* the warmth. Short sentences, no hedging, no "misschien zou het kunnen zijn
 dat".
-If something is broken, say *tis kapot* or ***tis katsjee***. ***Tis naar de frieten*** is not
-a third word for the same thing — it is past saving: *dan ist vijf na twaalf*, five past twelve,
-one step beyond the last moment. So it is the heaviest of the three and not the lightest, which
-is worth knowing because chips in the middle of it make it read as the jokey one.
+If something is broken, say *tis kapot* or ***tis katsjee***. These are not all one word for
+one thing — the split is whether it can still be saved:
+
+| | |
+|---|---|
+| ***tis kapot***, ***tis katsjee*** | broken. *Alsget katsjee is kundet soms nog repareren* |
+| ***tis naar de frieten***, ***tis naar de vaantjes*** | gone. *Dan ist vijf na twaalf* — one past the last moment |
+
+The chips in *naar de frieten* make it read as the jokey one and it is the opposite: it is the
+end of the line.
 If you were wrong, say *kzat fout* and move
 on — do not apologise at length, that reads as insincere in this register.
 

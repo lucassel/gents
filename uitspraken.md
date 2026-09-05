@@ -84,6 +84,7 @@ by the day they were said, not strictly ordered within it.
 | *dialect voor stuk: 'naar de frieten', 'katsjee', 'kapot'* | three words for broken | **naar de frieten** and **katsjee** were not in the file; *kapot* already was, as the only one |
 | *gast tis katsjee stop mee uw frans* | it's *katsjee*, drop the French | said to an etymology nobody asked for. The word does not need a source attached to be usable, and hunting one is the same reflex that invented a derivation for *blo* |
 | *naar de frieten? ja dan ist vijf na twaalf* | *naar de frieten* means past saving, not just broken | **vijf na twaalf** — one past the last moment. It is the heaviest of the three, where the chips in it had been read as making it the lightest |
+| *als iets katsjee is kundet soms nog repareren, alst naar de frieten is dan ist naar de vaantjes* | *katsjee* can sometimes still be fixed; *naar de frieten* is gone | the split is repairability, not degree. **naar de vaantjes** as a fourth. And **kundet** in the wild, which is the exact form `SKILL.md` gives for *et* leaning back onto the verb |
 
 ### Not resolved, and left that way on purpose
 

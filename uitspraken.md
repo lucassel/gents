@@ -20,11 +20,14 @@ incomplete info van ne gentenaar die zijn eigen ook zit tegen te spreken soms.*
 
 Every line is quoted exactly as it was written, typos and all. Do not tidy them.
 
-**Typing shorthand is not a dialect form.** Phone-keyboard contractions get written the same way
-real forms do and they mean nothing: **idd** (inderdaad), **bvb** (bijvoorbeeld), **int** (in 't),
-**das** (da's). The speaker on the last two: *tis properder om nen echten 't te zetten*, and *ik
-schrijf das omdak lui ben*. Never carry one of these into `SKILL.md`. Note that *sgoe* is **not**
-one of them — that is a real form, and the two are indistinguishable on the page. Rows are grouped
+**Some of what is written here is only typing.** **idd** (inderdaad), **bvb** (bijvoorbeeld),
+**int** (in 't) and **das** (da's) are phone-keyboard contractions — *tis properder om nen echten
+'t te zetten*, and *ik schrijf das omdak lui ben*. Do not carry those into `SKILL.md`.
+
+**But effort is not the test.** *sgoe* is *nog luier dan da's goe* and it is a real form, in the
+rules since before this log existed. So laziness and dialect are not opposites and what separates
+*sgoe* from *das* is **not established here**. Until it is, treat the four above as typing and
+leave *sgoe* alone. Rows are grouped
 by the day they were said, not strictly ordered within it.
 
 ## 2026-09-03
@@ -100,6 +103,7 @@ by the day they were said, not strictly ordered within it.
 | *'twee keer niets' voor iets da bvb geen werk is, of niets van nut heeft, weinig moeite is* | it amounts to nothing — no trouble, no use, no effort | one phrase covering *don't mention it* and *worth nothing* |
 | *gewoon int algemeen een manier om te zeggen dat niets is* | just a general way of saying it's nothing | **int** is typing shorthand, not a form — *tis properder om nen echten 't te zetten*: **in 't algemeen** |
 | *das van zo sms taal van te typen kendet. tis properder om nen echten 't te zetten* | *int* is phone typing, not dialect | the apostrophe belongs there; **sms taal** as the name for the category |
+| *sgoe is nog luier dan 'da's goe'* | *sgoe* takes less effort than *da's goe* | undercuts a split that had been drawn between forms and laziness; *sgoe* is both |
 
 ### Not resolved, and left that way on purpose
 

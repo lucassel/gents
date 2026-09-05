@@ -86,6 +86,8 @@ by the day they were said, not strictly ordered within it.
 | *naar de frieten? ja dan ist vijf na twaalf* | *naar de frieten* means past saving, not just broken | **vijf na twaalf** — one past the last moment. It is the heaviest of the three, where the chips in it had been read as making it the lightest |
 | *als iets katsjee is kundet soms nog repareren, alst naar de frieten is dan ist naar de vaantjes* | *katsjee* can sometimes still be fixed; *naar de frieten* is gone | the split is repairability, not degree. **naar de vaantjes** as a fourth. And **kundet** in the wild, which is the exact form `SKILL.md` gives for *et* leaning back onto the verb |
 | *of iets da in frieten ligt is meestal echt ja gebroken in stukken, gefragmenteerd* | something lying *in frieten* is broken into pieces | the image behind the phrase, volunteered — cut into strips, hence past repair. Given, not derived: an etymology offered a moment earlier was told to get lost |
+| *gij doe enorm veel 'et' terwijl da wij meer 't zouden zeggen* | you write *et* far too much; it is mostly *'t* | the file said *et* stays whole in front of a noun — *et water*, *et dak* — and that is the rule that produced the overuse |
+| *lijk nie et geslacht maar 't geslacht of "tgeslacht" ma da tweede is ambetant om te doen dus doet da nie* | *'t geslacht*, with the apostrophe; *tgeslacht* exists but don't write it | a form ruled out for being **annoying to type**, not for being wrong — the first entry of that kind |
 
 ### Not resolved, and left that way on purpose
 

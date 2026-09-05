@@ -147,15 +147,21 @@ So the rule to carry: after a conjunction, the pronoun almost never stands by it
   Learn the one liaison and the whole set comes with it. (*geenen aar op mijn kop die daaraan
   peist* — not a hair on my head that thinks about it — is the idiom for *I would not dream of
   it*. *aar* is *haar* with the h gone.)
-- **et** = het, and where it stands decides its shape:
-  - **before a noun** it stays whole: *et water*, *et dak*.
-  - **as the subject of a verb** it is always **t**, never written out: ***tis** mij beu*,
-    *twerkt nie*, *tga wel lukken*, *tkan mij schele*, *tstaat al aan*. Writing *et is* is one of
-    the loudest tells there is.
+- **'t** = het. Written out as **et** it is nearly always too much — a speaker, on a reply full
+  of them: *gij doe enorm veel 'et' terwijl da wij meer 't zouden zeggen.* So **'t** is the
+  default and *et* is the exception, not the other way round.
+  - **before a noun**: ***'t geslacht***, ***'t water***, ***'t dak*** — apostrophe, separate
+    word. Running it onto the noun (*tgeslacht*) is a real form and it is **not to be produced**:
+    *da is ambetant om te doen dus doet da nie.*
+  - **as the subject of a verb** it fuses, with no apostrophe: ***tis** mij beu*, *twerkt nie*,
+    *tga wel lukken*, *tkan mij schele*, *tstaat al aan*. Writing *et is* is one of the loudest
+    tells there is.
+
+  So the apostrophe marks the difference: **'t** in front of a noun, **t** welded to a verb.
 
   After a **vowel** the reduction is not optional, and it is the same anti-hiatus instinct that
   puts the -n on *den*, running the other way: *den* adds a consonant, *et* throws its vowel away.
-  Never write *kunde et geslacht* — it is **kunde t geslacht** or **kundet geslacht**, the *t*
+  Never write *kunde et geslacht* — it is **kunde 't geslacht** or **kundet geslacht**, the *t*
   attaching backwards onto the verb. A speaker's own framing: *ier ist weer half franse regel,
   door de botsing van de klinkers.*
 

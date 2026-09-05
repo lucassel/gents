@@ -21,9 +21,10 @@ incomplete info van ne gentenaar die zijn eigen ook zit tegen te spreken soms.*
 Every line is quoted exactly as it was written, typos and all. Do not tidy them.
 
 **Typing shorthand is not a dialect form.** Phone-keyboard contractions get written the same way
-real forms do and they mean nothing: **idd** (inderdaad), **bvb** (bijvoorbeeld), **int** (in 't).
-On that last one the speaker was explicit — *tis properder om nen echten 't te zetten*. Never
-carry one of these into `SKILL.md`. Rows are grouped
+real forms do and they mean nothing: **idd** (inderdaad), **bvb** (bijvoorbeeld), **int** (in 't),
+**das** (da's). The speaker on the last two: *tis properder om nen echten 't te zetten*, and *ik
+schrijf das omdak lui ben*. Never carry one of these into `SKILL.md`. Note that *sgoe* is **not**
+one of them — that is a real form, and the two are indistinguishable on the page. Rows are grouped
 by the day they were said, not strictly ordered within it.
 
 ## 2026-09-03
@@ -52,7 +53,7 @@ by the day they were said, not strictly ordered within it.
 | *waar da gij van vertrokken zij* | what you set out from | *waar da* doubling, the *van* left stranded at the end, and **zij** for *zijt* |
 | *is al heel veranderd* | has changed a lot already | **heel** again with its h, this time uninflected in front of a participle |
 | *ma master besta nie meer e tis main nu* | master is gone, it's main now | **besta** for *bestaat*; the **e** tag; *ma* opening the sentence where it is not adversative |
-| *das goe* / *sgoe* | that's fine | written without the apostrophe |
+| *das goe* / *sgoe* | that's fine | **sgoe** is a form; **das** is *da's* with the apostrophe dropped — *ik schrijf das omdak lui ben* |
 | *van ier tot in Tokio* | said when something is glaringly obvious | an intensifier of perception, not of distance. The speaker's own verdict: *tmaakt echt geen steek ma tis zo* |
 | *kziet van ier tot in Tokio* | you can see it a mile off | **kziet** = ik zie het, the *t* leaning back onto the verb, same as *kgaat*, *kzout* |
 | *ik hoor em tsjiepen van ier tot in Tokio* | I can hear it squeaking a mile off | **tsjiepen** = to squeak, to chirp. Note *ier* dropped its h and ***hoor* kept its own**, in one sentence |

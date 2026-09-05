@@ -20,14 +20,9 @@ incomplete info van ne gentenaar die zijn eigen ook zit tegen te spreken soms.*
 
 Every line is quoted exactly as it was written, typos and all. Do not tidy them.
 
-**Some of what is written here is only typing.** **idd** (inderdaad), **bvb** (bijvoorbeeld),
-**int** (in 't) and **das** (da's) are phone-keyboard contractions — *tis properder om nen echten
-'t te zetten*, and *ik schrijf das omdak lui ben*. Do not carry those into `SKILL.md`.
-
-**But effort is not the test.** *sgoe* is *nog luier dan da's goe* and it is a real form, in the
-rules since before this log existed. So laziness and dialect are not opposites and what separates
-*sgoe* from *das* is **not established here**. Until it is, treat the four above as typing and
-leave *sgoe* alone. Rows are grouped
+**Some of it is only typing.** **idd** (inderdaad), **bvb** (bijvoorbeeld) and **int** (in 't)
+are phone-keyboard shorthand — *tis properder om nen echten 't te zetten*. Do not carry them into
+`SKILL.md`. Rows are grouped
 by the day they were said, not strictly ordered within it.
 
 ## 2026-09-03
@@ -56,7 +51,7 @@ by the day they were said, not strictly ordered within it.
 | *waar da gij van vertrokken zij* | what you set out from | *waar da* doubling, the *van* left stranded at the end, and **zij** for *zijt* |
 | *is al heel veranderd* | has changed a lot already | **heel** again with its h, this time uninflected in front of a participle |
 | *ma master besta nie meer e tis main nu* | master is gone, it's main now | **besta** for *bestaat*; the **e** tag; *ma* opening the sentence where it is not adversative |
-| *das goe* / *sgoe* | that's fine | **sgoe** is a form; **das** is *da's* with the apostrophe dropped — *ik schrijf das omdak lui ben* |
+| *das goe* / *sgoe* | that's fine | both said and both written; *das* is *da's* without the apostrophe |
 | *van ier tot in Tokio* | said when something is glaringly obvious | an intensifier of perception, not of distance. The speaker's own verdict: *tmaakt echt geen steek ma tis zo* |
 | *kziet van ier tot in Tokio* | you can see it a mile off | **kziet** = ik zie het, the *t* leaning back onto the verb, same as *kgaat*, *kzout* |
 | *ik hoor em tsjiepen van ier tot in Tokio* | I can hear it squeaking a mile off | **tsjiepen** = to squeak, to chirp. Note *ier* dropped its h and ***hoor* kept its own**, in one sentence |
@@ -103,7 +98,7 @@ by the day they were said, not strictly ordered within it.
 | *'twee keer niets' voor iets da bvb geen werk is, of niets van nut heeft, weinig moeite is* | it amounts to nothing — no trouble, no use, no effort | one phrase covering *don't mention it* and *worth nothing* |
 | *gewoon int algemeen een manier om te zeggen dat niets is* | just a general way of saying it's nothing | **int** is typing shorthand, not a form — *tis properder om nen echten 't te zetten*: **in 't algemeen** |
 | *das van zo sms taal van te typen kendet. tis properder om nen echten 't te zetten* | *int* is phone typing, not dialect | the apostrophe belongs there; **sms taal** as the name for the category |
-| *sgoe is nog luier dan 'da's goe'* | *sgoe* takes less effort than *da's goe* | undercuts a split that had been drawn between forms and laziness; *sgoe* is both |
+| *sgoe is nog luier dan 'da's goe'* | *sgoe* takes less effort than *da's goe* | said of a split that had been drawn between forms and laziness. *Das zegt ge ook wel ma wa maakt da uit* — so the split was dropped |
 
 ### Not resolved, and left that way on purpose
 

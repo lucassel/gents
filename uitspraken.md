@@ -3,8 +3,7 @@
 What was actually said, and what it means. Nothing else.
 
 There is no "right" column here and no rule underneath. When the speaker says one thing and
-something else later, both stay — the contradiction is data, and it is usually where the real
-rule turns out to be hiding. *den deur* and *heel* were both found that way.
+something else later, both stay — the contradiction is usually where the real rule is hiding.
 
 The three files, and they are not the same job:
 
@@ -91,51 +90,36 @@ by the day they were said, not strictly ordered within it.
 
 ### Not resolved, and left that way on purpose
 
-Pairs where the same speaker used both forms. None of these is an error and none of them needs
-picking:
+Pairs where the same speaker used both forms. Neither is an error and neither needs picking:
 
 - **mee** / **me** — *met*
-- **ne keer** / **ene keer** — the second turned up in *voor ene keer*, which may be its own
-  fixed phrase rather than a variant
+- **ne keer** / **ene keer** — the second in *voor ene keer*, possibly a fixed phrase
 - **ij** / **ie** — *hij*
-- **een** / **ne** / **en** — the indefinite article, where *en soort* may also just be a typo
+- **een** / **ne** / **en** — the indefinite article
 - **e** / **eh** — the sentence-final tag
-- **ne** / **nen** — *nen tsjiepmuile* and *nen tech hoofdstad*, both with a consonant behind
-  them where the stated rule gives *ne*. Twice within a few minutes, and the same shape as *den
-  deur*: the liaison explains a lot of the determiner system and evidently not all of it. A few
-  more like this and it is the rule that is wrong, not the examples
-- **kpeis** / **peisk** — the pronoun on the front or on the back of the verb. Not a
-  contradiction so much as two positions with no known rule for choosing; both are attested from
-  the same speaker within one conversation
+- **ne** / **nen** — *nen tsjiepmuile*, *nen tech hoofdstad*, both with a consonant behind them
+  where the rule gives *ne*. Same shape as *den deur*: the liaison explains much of the
+  determiner system and evidently not all of it
+- **kpeis** / **peisk** — the pronoun on the front or the back of the verb, with no known rule
+  for choosing
 
-### -muile
+### Three that were nearly missed
 
-**ziepmuile** was in the ledger as a single word. **tsjiepmuile** arrived beside it, offered as
-*das ook zoiets*, which makes **-muile** look like a live way to build an insult: something in
-front, *-muile* behind. Two words is two words — the same caution as the adjective *-en* — so
-nothing is derived from it and no third one is to be invented.
+Forms nobody thinks to mention, and that no rule in `SKILL.md` would have produced:
 
-### The h that stayed
+- **van** as a quotative — *van allez da meende nie*, *van allez tga u lukken*, *van wa ik zeg*.
+  Does the work English does with *like*.
+- **peisk**, **moek**, **kziet**, **kzout** — the pronoun on the *back* of the verb, where every
+  logged form puts it on the front.
+- **-muile** as a way to build an insult: *ziepmuile*, *tsjiepmuile*. Two words, so no third one
+  is to be invented.
 
-*ik hoor em tsjiepen van ier tot in Tokio* has *ier* without its h and *hoor* with it, in the
-same breath, from the same speaker, unprompted. With *heel*, that is twice against a rule in
-`SKILL.md` that said almost no word-initial h belonged and told you to sweep for them
-mechanically.
+### The h
 
-Then a third, and it came with a reason: *keb of kheb, kheb is chiller, keb is echt plat.* That
-makes the h on *kheb* a **register dial** — how broad you are being — rather than a property of
-the word.
+Three word-initial h's have survived: *heel*, *hoor*, and *kheb* — the last with a reason,
+*kheb is chiller, keb is echt plat*, which makes it a register dial rather than a property of
+the word. Then: *ge moogt echt nie elke h laten vallen, ma iets lijk 'nen alven' dan wel.* So the
+drop is a list of words and the default is to keep the h.
 
-Then it was asked, and answered: *ge moogt echt nie elke h laten vallen, ma iets lijk 'nen
-alven' dan wel.* So the drop is a **list of words**, the default is to keep the h, and the
-mechanical sweep has been taken out of `SKILL.md`. It was that sweep that produced *ele*.
-
-Still open: whether *kheb*'s dial reaches any further than *kheb*, and whether *heel* and *hoor*
-keep their h for that reason or simply because they are not on the list.
-
-### The one that was nearly missed
-
-**van** as a quotative — *van allez da meende nie*, *van allez tga u lukken*, *van wa ik zeg*.
-Three times in one conversation, doing the work English does with *like*. It is in none of the
-rules and it never would have been, because nobody thinks to mention it. That is the argument
-for this file in one row.
+Still open: whether *kheb*'s dial reaches further than *kheb*, and whether *heel* and *hoor* keep
+their h for that reason or simply because they are not on the list.

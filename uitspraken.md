@@ -82,6 +82,7 @@ by the day they were said, not strictly ordered within it.
 | *keb of kheb, kheb is chiller, keb is echt plat* | both are real; the h marks how broad you are being | not a correction — a **register dial**, and the first statement in the ledger that treats an h as a choice rather than a rule |
 | *ja ge moogt echt nie elke h laten vallen. ma iets lijk 'nen alven' dan wel* | you really must not drop every h — but one like *nen alven*, yes | the h-drop is a **list of words**, not a blanket rule. **alven** = halven; **nen** in front of a vowel, which the liaison rule does predict |
 | *dialect voor stuk: 'naar de frieten', 'katsjee', 'kapot'* | three words for broken | **naar de frieten** and **katsjee** were not in the file; *kapot* already was, as the only one |
+| *gast tis katsjee stop mee uw frans* | it's *katsjee*, drop the French | said to an etymology nobody asked for. The word does not need a source attached to be usable, and hunting one is the same reflex that invented a derivation for *blo* |
 
 ### Not resolved, and left that way on purpose
 

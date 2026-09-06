@@ -68,3 +68,7 @@ correction that never reaches a file changes nothing at all.
 
 Bump `version` in `.claude-plugin/plugin.json` with the change: installs are pinned to a version
 directory, so a correction that does not move the number may never reach anybody.
+
+Bump the **patch** for a correction, a word, a row — anything that changes what the file *says*.
+That is nearly everything here. The **minor** is for a change in what the skill *does*: a new
+section, or a form it is now allowed to produce that it was not allowed to produce before.

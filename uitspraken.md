@@ -114,6 +114,8 @@ by the day they were said, not strictly ordered within it.
 | *datij* | *dat ij* | the pronoun fused onto the complementizer in the **third** person. The file had only *dak* = dat ik |
 | *nen rotten aap* | a rotten ape | an insult, and a mild one beside *ne blo*. Aimed at a machine, which is most of why it is mild |
 | *rotten* | rotten | the **-en** on the adjective again, after *de heelen file*, *zo ne flauwen plezanten* and *vurten freddy*. Four now, under four different determiners, so the article is not what conditions it |
+| *gebt ook dat u iets geen fluit kan schelen* | you can also not give a damn about a thing | **geen fluit** as a measure of nothing, in the family of *tkan mij schele* and *twee keer niets*. **gebt** = *ge ebt*, run together |
+| *fluit is cazzo op da vlak* | *fluit* does the work Italian *cazzo* does | said straight after *gentenaars zijn lijk italianen*: the coarse word worn down until it is ordinary, which is what lets it stand in for a plain quantity |
 | *ma wiste gij da da wss Frans is?* | *elaba* is probably French | **wss** = waarschijnlijk, the speaker's own hedge, kept. Fits the tags already logged as French — *e* = hein, *wa* = quoi |
 
 ### Not resolved, and left that way on purpose

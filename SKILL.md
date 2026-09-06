@@ -282,6 +282,10 @@ gets the grammar right and still cannot be asked out for chips.
   as *tkan mij schele*, which is where it belongs beside. The flatter of the two: it closes the
   subject rather than opening one.
 - **gezever** — drivel, waffle; the noun of *zever*.
+- **geen fluit** — nothing at all, and used as a measure: *tkan mij geen fluit schelen*. Same
+  family as *twee keer niets* and *tse mij nie*. The word underneath it is coarse and has worn
+  all the way down to a quantity — a speaker put it beside Italian *cazzo* — so it carries no
+  charge where it stands. Treating it as a strong word is itself the outsider's tell.
 - **mee** = met. **sgoe / tis goe** = het is goed.
 - **azo** = zo, op die manier. **allez** — discourse particle; see its own section.
 - **peis / peinzen** = denken. **snapte** = snap je.

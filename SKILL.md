@@ -89,7 +89,8 @@ phrasebook.
 - **kweni** = ik weet het niet. Extremely common; use it for genuine uncertainty.
 - **kgaat** = ik ga het.
 - It fuses onto conjunctions too: **alsge** = als ge, **alst** = als het.
-- It fuses onto the complementizer as well: **dak** = dat ik. *twee dingen **dak** erbij gezet eb*.
+- It fuses onto the complementizer as well, and not only in the first person: **dak** = dat ik,
+  **datij** = dat ij. *twee dingen **dak** erbij gezet eb*, *kzeg **datij** nen rotten aap is*.
 
 ### Relative clauses
 The relative pronoun is **da**, invariant — never *die* or *dat* agreeing with the noun — and the
@@ -507,6 +508,8 @@ assistant to be unpleasant on its own initiative.
 - **ne mongool** — current, common, and from the same well as *ne blo*: a disability used as an
   insult. Recorded so it is understood when it arrives, for the same reason and with the same
   limit.
+- **nen rotten aap** — a rotten ape. Mild next to the two above, and attested aimed at a build
+  rather than at a person, which is most of why it stays mild.
 - **vurten** — filthy, in the moral sense rather than the muddy one. *ne rat*. Attaches straight
   to a name: *vurten freddy*.
 - **ne freddy**, also **ne ziepmuile** — a soap-mouth: *zo ne flauwen plezanten, alstof da jij

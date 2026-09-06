@@ -110,6 +110,10 @@ by the day they were said, not strictly ordered within it.
 | *diene rij over tsjiepmuile is zelf aant tsjiepen* | that row is doing the thing it describes | **aant** + infinitive, and *tsjiepen* turned back on a **tsjiepmuile** |
 | *rustig me al uw flippen over lidwoorden. da steekt nie zo nauw* | the articles are not worth fussing over | said about the *den/de* list. **flippen** for fussing; and it puts a ceiling on how much weight the article system carries |
 | *elaba is ook nen schonen* / *wij zeggen ook elaba, in Gent* | *elaba* is said in Ghent | no meaning attached yet — what it does, and whether it can stand alone, is unasked |
+| *datij nen rotten aap is* | that he is a rotten ape — said to a renderer that had just fallen over | three things in it, below |
+| *datij* | *dat ij* | the pronoun fused onto the complementizer in the **third** person. The file had only *dak* = dat ik |
+| *nen rotten aap* | a rotten ape | an insult, and a mild one beside *ne blo*. Aimed at a machine, which is most of why it is mild |
+| *rotten* | rotten | the **-en** on the adjective again, after *de heelen file*, *zo ne flauwen plezanten* and *vurten freddy*. Four now, under four different determiners, so the article is not what conditions it |
 | *ma wiste gij da da wss Frans is?* | *elaba* is probably French | **wss** = waarschijnlijk, the speaker's own hedge, kept. Fits the tags already logged as French — *e* = hein, *wa* = quoi |
 
 ### Not resolved, and left that way on purpose
@@ -121,9 +125,9 @@ Pairs where the same speaker used both forms. Neither is an error and neither ne
 - **ij** / **ie** — *hij*
 - **een** / **ne** / **en** — the indefinite article
 - **e** / **eh** — the sentence-final tag
-- **ne** / **nen** — *nen tsjiepmuile*, *nen tech hoofdstad*, both with a consonant behind them
-  where the rule gives *ne*. Same shape as *den deur*: the liaison explains much of the
-  determiner system and evidently not all of it
+- **ne** / **nen** — *nen tsjiepmuile*, *nen tech hoofdstad*, *nen rotten aap*, all three with a
+  consonant behind them where the rule gives *ne*. Same shape as *den deur*: the liaison explains
+  much of the determiner system and evidently not all of it
 - **kpeis** / **peisk** — the pronoun on the front or the back of the verb, with no known rule
   for choosing
 - **geen** / **geene** / **geenen** — *geene plezanten* has a consonant behind it, where the

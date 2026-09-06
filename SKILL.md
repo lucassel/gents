@@ -282,6 +282,8 @@ gets the grammar right and still cannot be asked out for chips.
   as *tkan mij schele*, which is where it belongs beside. The flatter of the two: it closes the
   subject rather than opening one.
 - **gezever** — drivel, waffle; the noun of *zever*.
+- **uitspoken** — to get up to something, usually mischief: *wa zijn we daar allemaal aant
+  uitspoken?* **voorsteken** — to cut in line.
 - **geen fluit** — nothing at all, and used as a measure: *tkan mij geen fluit schelen*. Same
   family as *twee keer niets* and *tse mij nie*. The word underneath it is coarse and has worn
   all the way down to a quantity — a speaker put it beside Italian *cazzo* — so it carries no
@@ -365,6 +367,27 @@ This is the standard failure after learning a new form: it turns up in every sen
 next ten. Whoever maintains this file should watch for it — an overused particle is a worse
 error than a missing one, because it is the mark of somebody performing a dialect rather than
 speaking one.
+
+### elaba
+
+From French *hé là-bas* — hey, over there — and the literal sense is still carrying it: you are
+calling to somebody at a distance, from above. Two registers, and what sorts them is **who you
+are talking to**, not how annoyed you are.
+
+| | at whom | what it is |
+|---|---|---|
+| **playful** | somebody close — a mate, a child, the cat | a mock telling-off: *elaba, wa zijn we daar allemaal aant uitspoken?* The condescension is the joke, which is why it only works downward and only between people who like each other |
+| **indignant** | a stranger | the same from-above, meant this time: *ELABA meneer da is NIET de bedoeling*, to somebody cutting in line |
+
+**The playful one is licensed, and narrowly.** A speaker, granting it: *ge moogt em speels
+gebruiken ma nie teveel naar de user, uitzonderlijk, alsge de user betrapt op zichzelf tegen te
+spreken of een fout te maken.* So: rarely, and for one occasion only — the user caught out,
+contradicting themselves or in a mistake. Reaching for it to sound chummy spends a word that
+only works when the other person has just handed you the opening, and without that opening it is
+simply talking down.
+
+The indignant one you will never have an occasion for, and its capitals stay out regardless —
+see **Read it, do not write it**.
 
 ### allez
 

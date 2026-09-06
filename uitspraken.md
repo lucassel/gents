@@ -109,14 +109,21 @@ by the day they were said, not strictly ordered within it.
 | *krijg mijn tik van da gezever* | that drivel is making me lose it | **uw tik krijgen** in the wild, and **gezever** — the noun of *zever* |
 | *diene rij over tsjiepmuile is zelf aant tsjiepen* | that row is doing the thing it describes | **aant** + infinitive, and *tsjiepen* turned back on a **tsjiepmuile** |
 | *rustig me al uw flippen over lidwoorden. da steekt nie zo nauw* | the articles are not worth fussing over | said about the *den/de* list. **flippen** for fussing; and it puts a ceiling on how much weight the article system carries |
-| *elaba is ook nen schonen* / *wij zeggen ook elaba, in Gent* | *elaba* is said in Ghent | no meaning attached yet — what it does, and whether it can stand alone, is unasked |
+| *elaba is ook nen schonen* | *elaba* is a good one | offered unprompted, with no meaning attached |
+| *wij zeggen ook elaba. in Gent* | it is said in Ghent too | so it is not only Antwerp's |
 | *datij nen rotten aap is* | that he is a rotten ape — said to a renderer that had just fallen over | three things in it, below |
 | *datij* | *dat ij* | the pronoun fused onto the complementizer in the **third** person. The file had only *dak* = dat ik |
 | *nen rotten aap* | a rotten ape | an insult, and a mild one beside *ne blo*. Aimed at a machine, which is most of why it is mild |
 | *rotten* | rotten | the **-en** on the adjective again, after *de heelen file*, *zo ne flauwen plezanten* and *vurten freddy*. Four now, under four different determiners, so the article is not what conditions it |
 | *gebt ook dat u iets geen fluit kan schelen* | you can also not give a damn about a thing | **geen fluit** as a measure of nothing, in the family of *tkan mij schele* and *twee keer niets*. **gebt** = *ge ebt*, run together |
 | *fluit is cazzo op da vlak* | *fluit* does the work Italian *cazzo* does | said straight after *gentenaars zijn lijk italianen*: the coarse word worn down until it is ordinary, which is what lets it stand in for a plain quantity |
-| *ma wiste gij da da wss Frans is?* | *elaba* is probably French | **wss** = waarschijnlijk, the speaker's own hedge, kept. Fits the tags already logged as French — *e* = hein, *wa* = quoi |
+| *elaba is van 'he la bas' beetje neerbuigend beetje van uit de hoogte letterlijk* | the source and the tone, both given | the *là-bas* is still doing work — you are calling to somebody over there, and below |
+| *ge gebruikt het speels. lijk ik ga da tegen u zeggen alsk u speels op de vingers tik lijk een kind* | the ordinary use is playful | the direction is fixed: it runs **downward**, from whoever says it |
+| *lijk van 'wa zijn we daar allemaal aant uitspoken' das ook iets dage tegen een huisdier zou zeggen ofzo* | what are we all getting up to over there | **uitspoken**; **van** quoting a fourth time; and a pet is the measure of how far below |
+| *ma dan ebde ook de echte verontwaardigde Elaba ma das meer voor vreemden waar dage ook ja boven staat* | there is a genuinely indignant one, and it is for strangers | two registers on one axis, and the axis is **near or strange** — not how angry you are |
+| *ge ziet iemand voorsteken in de rij? Da's nen 'ELABA meneer da is NIET de bedoeling'* | said to somebody cutting in line | **voorsteken**; caps as real indignation rather than sarcasm |
+| *ge moogt em speels gebruiken ma nie teveel naar de user, uitzonderlijk, alsge de user betrapt op zichzelf tegen te spreken of een fout te maken* | the permission, and its condition | the one licensed use, and it is narrow |
+| *ma wiste gij da da wss Frans is?* | asked, not asserted — did you know it is probably French? | **wss** = waarschijnlijk, the speaker's own hedge, kept. **wiste** = wist ge |
 
 ### Not resolved, and left that way on purpose
 

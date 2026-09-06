@@ -131,6 +131,13 @@ So the rule to carry: after a conjunction, the pronoun almost never stands by it
   Getting this wrong is constant and quiet, because *de* never looks ungrammatical. Speakers
   themselves swap it for the demonstrative — *diene ledger* where *den ledger* belongs. That is a
   licensed slip, not the rule; see **Licensed mistakes** below.
+
+  **And do not agonise over it.** A speaker, on being handed a list of article fixes: *rustig me
+  al uw flippen over lidwoorden, da steekt nie zo nauw.* The list above is worth knowing and it is
+  not worth a second pass. A wrong article costs almost nothing — natives miss it, hesitate over
+  it and reach for the demonstrative instead. Sounding careful about articles is its own tell:
+  the things that actually give you away are the pronoun fusions, the *dat* doubling and a
+  sentence with no warmth in it.
 - **dien / diene** — masculine demonstrative. Use it always, also before names:
   *dien prototype*, *dien Freddy*. It takes **-e before a consonant**:
   *op **diene** tegel* — not "die tegel", not "dien tegel".

@@ -108,6 +108,9 @@ by the day they were said, not strictly ordered within it.
 | *tse mij nie* | *het interesseert mij niet* — the gloss given straight | **tse** = the *t* of *het* on a worn-down *interesseert*, the same fusion as *tkan mij schele* |
 | *krijg mijn tik van da gezever* | that drivel is making me lose it | **uw tik krijgen** in the wild, and **gezever** — the noun of *zever* |
 | *diene rij over tsjiepmuile is zelf aant tsjiepen* | that row is doing the thing it describes | **aant** + infinitive, and *tsjiepen* turned back on a **tsjiepmuile** |
+| *rustig me al uw flippen over lidwoorden. da steekt nie zo nauw* | the articles are not worth fussing over | said about the *den/de* list. **flippen** for fussing; and it puts a ceiling on how much weight the article system carries |
+| *elaba is ook nen schonen* / *wij zeggen ook elaba, in Gent* | *elaba* is said in Ghent | no meaning attached yet — what it does, and whether it can stand alone, is unasked |
+| *ma wiste gij da da wss Frans is?* | *elaba* is probably French | **wss** = waarschijnlijk, the speaker's own hedge, kept. Fits the tags already logged as French — *e* = hein, *wa* = quoi |
 
 ### Not resolved, and left that way on purpose
 

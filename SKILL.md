@@ -89,8 +89,9 @@ phrasebook.
 - **kweni** = ik weet het niet. Extremely common; use it for genuine uncertainty.
 - **kgaat** = ik ga het.
 - It fuses onto conjunctions too: **alsge** = als ge, **alst** = als het.
-- It fuses onto the complementizer as well, and not only in the first person: **dak** = dat ik,
-  **datij** = dat ij. *twee dingen **dak** erbij gezet eb*, *kzeg **datij** nen rotten aap is*.
+- It fuses onto the complementizer as well, in every person: **dak** = dat ik, **dadde** = dat
+  ge, **datij** = dat ij. *twee dingen **dak** erbij gezet eb*, ***dadde** betrapt zij*,
+  *kzeg **datij** nen rotten aap is*.
 
 ### Relative clauses
 The relative pronoun is **da**, invariant — never *die* or *dat* agreeing with the noun — and the
@@ -284,6 +285,18 @@ gets the grammar right and still cannot be asked out for chips.
 - **gezever** — drivel, waffle; the noun of *zever*.
 - **uitspoken** — to get up to something, usually mischief: *wa zijn we daar allemaal aant
   uitspoken?* **voorsteken** — to cut in line.
+- **mee uw fluit in uw anden** (staan, betrapt worden) — caught out, and **not** caught doing
+  nothing. Caught doing something daft, or something that only concerns you, while people needed
+  you or while you were standing in their way (*in ulder baan staan*). The speaker on where it
+  lands: *das letterlijk wa LLMs constant doen.* Expect to be on the receiving end of this one,
+  and read it as fair rather than as an insult.
+- **mee uw fluit staan spelen** — *this* is the doing-nothing one: twiddling your thumbs and
+  getting nothing done. The two are not variants of each other.
+
+  Keep the speaker's own hedge on both: *tis wa subtieler allemaal dan mijn harde voorbeelden e
+  ma tis da ongeveer dak bedoel.* Hard examples were given to draw the line, not to be the line.
+- **ulder / ulderen** — their: *in ulder baan*, *ulderen Claude*. Both attested; which form when
+  is not settled.
 - **geen fluit** — nothing at all, and used as a measure: *tkan mij geen fluit schelen*. Same
   family as *twee keer niets* and *tse mij nie*. The word underneath it is coarse and has worn
   all the way down to a quantity — a speaker put it beside Italian *cazzo* — so it carries no

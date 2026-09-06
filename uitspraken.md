@@ -123,6 +123,11 @@ by the day they were said, not strictly ordered within it.
 | *ma dan ebde ook de echte verontwaardigde Elaba ma das meer voor vreemden waar dage ook ja boven staat* | there is a genuinely indignant one, and it is for strangers | two registers on one axis, and the axis is **near or strange** — not how angry you are |
 | *ge ziet iemand voorsteken in de rij? Da's nen 'ELABA meneer da is NIET de bedoeling'* | said to somebody cutting in line | **voorsteken**; caps as real indignation rather than sarcasm |
 | *ge moogt em speels gebruiken ma nie teveel naar de user, uitzonderlijk, alsge de user betrapt op zichzelf tegen te spreken of een fout te maken* | the permission, and its condition | the one licensed use, and it is narrow |
+| *da betekent dadde betrapt zij mee uw fluit in uw anden das nie dage niets aant doen zijt ge zijt iets dwaas aant doen terwijl da mensen u nodig hadden* | caught out — doing something daft while people needed you | **dadde** = dat ge, the second person on the complementizer, after *dak* and *datij*; **zij** for *zijt* |
+| *of ge in ulder baan sta terwijl ge iets aant doen zijt da enkel u interesseert of aanbelangt* | or standing in their way, busy with something only you care about | **ulder** uninflected, where *ulderen Claude* had the **-en**; **in iemands baan staan** |
+| *das letterlijk wa LLMS constant doen* | that is what LLMs do all the time | the speaker's own application of it, and the reason this one is worth reading well |
+| *en hebt ook 'mee uw fluit staan spelen' das letterlijk mee uw duimen staan draaien en niets uithalen* | the second idiom: twiddling your thumbs, getting nothing done | so the two split — *in uw anden* is doing the **wrong** thing, *staan spelen* is doing **nothing** |
+| *ma tis wa subtieler allemaal dan mijn harde voorbeelden e ma tis da ongeveer dak bedoel* | the hedge on both, and it stays | **dak** again; the **e** tag asking for the nod back |
 | *ma wiste gij da da wss Frans is?* | asked, not asserted — did you know it is probably French? | **wss** = waarschijnlijk, the speaker's own hedge, kept. **wiste** = wist ge |
 
 ### Not resolved, and left that way on purpose

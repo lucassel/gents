@@ -46,7 +46,7 @@ by the day they were said, not strictly ordered within it.
 | *moet ie nie zitten raden* | it shouldn't have to sit there guessing | **ie** for *hij* where `SKILL.md` has *ij*; **zitten + infinitive** as the progressive |
 | *die zijn eigen ook zit tegen te spreken soms* | who contradicts himself sometimes too | **zijn eigen** for *zichzelf*, same family as *u eigen uitschijten* |
 | *ma uwen tip waar da gij van vertrokken zij is al heel veranderd **peisk*** | but the thing you started from has changed a lot already, I think | four at once, below |
-| *peisk* | *peis ik* | the pronoun on the **back** of the verb. Everything logged so far puts it on the front — *kpeis*, *kdenk*, *kzie* — and that it also attaches backwards was nowhere |
+| *peisk* | *peis ik* | the pronoun on the **back** of the verb, where *kpeis*, *kdenk* and *kzie* put it on the front |
 | *uwen tip* | your starting point | the possessive takes the **-n** too, and here in front of a consonant |
 | *waar da gij van vertrokken zij* | what you set out from | *waar da* doubling, the *van* left stranded at the end, and **zij** for *zijt* |
 | *is al heel veranderd* | has changed a lot already | **heel** again with its h, this time uninflected in front of a participle |
@@ -56,7 +56,7 @@ by the day they were said, not strictly ordered within it.
 | *kziet van ier tot in Tokio* | you can see it a mile off | **kziet** = ik zie het, the *t* leaning back onto the verb, same as *kgaat*, *kzout* |
 | *ik hoor em tsjiepen van ier tot in Tokio* | I can hear it squeaking a mile off | **tsjiepen** = to squeak, to chirp. Note *ier* dropped its h and ***hoor* kept its own**, in one sentence |
 | *tmaakt echt geen steek* | it makes no sense at all | **geen steek**; *geen* here where the ledger elsewhere has *gien* |
-| *tsjiepmuile* | offered beside *ziepmuile* with no meaning attached | the meaning came later, in its own row below. It was left blank here rather than guessed from *tsjiepen*, and the guess would have been wrong |
+| *tsjiepmuile* | offered beside *ziepmuile*, with no meaning attached | the meaning is in its own row below; it is not *tsjiepen* + *muile* |
 | *das ook zoiets* | that's another one of those | |
 | *staat er al eh* | it's already in there, right | the tag written **eh**, where `SKILL.md` has it as **e** |
 | *tsjiepmuile is idd een die altijd aant bleiten of zagen is ja en vooral ij doet er niets aan* | the meaning, given | **bleiten**, **zagen**; and the whole definition turns on the second half |
@@ -85,19 +85,19 @@ by the day they were said, not strictly ordered within it.
 | *ja ge moogt echt nie elke h laten vallen. ma iets lijk 'nen alven' dan wel* | you really must not drop every h — but one like *nen alven*, yes | the h-drop is a **list of words**, not a blanket rule. **alven** = halven; **nen** in front of a vowel, which the liaison rule does predict |
 | *dialect voor stuk: 'naar de frieten', 'katsjee', 'kapot'* | three words for broken | **naar de frieten** and **katsjee** were not in the file; *kapot* already was, as the only one |
 | *gast tis katsjee stop mee uw frans* | it's *katsjee*, drop the French | said to an etymology nobody asked for. The word does not need a source attached to be usable, and hunting one is the same reflex that invented a derivation for *blo* |
-| *naar de frieten? ja dan ist vijf na twaalf* | *naar de frieten* means past saving, not just broken | **vijf na twaalf** — one past the last moment. It is the heaviest of the three, where the chips in it had been read as making it the lightest |
+| *naar de frieten? ja dan ist vijf na twaalf* | *naar de frieten* means past saving, not just broken | **vijf na twaalf** — one past the last moment, and the heaviest of the three |
 | *als iets katsjee is kundet soms nog repareren, alst naar de frieten is dan ist naar de vaantjes* | *katsjee* can sometimes still be fixed; *naar de frieten* is gone | the split is repairability, not degree. **naar de vaantjes** as a fourth. And **kundet** in the wild, which is the exact form `SKILL.md` gives for *et* leaning back onto the verb |
 | *of iets da in frieten ligt is meestal echt ja gebroken in stukken, gefragmenteerd* | something lying *in frieten* is broken into pieces | the image behind the phrase, volunteered — cut into strips, hence past repair. Given, not derived: an etymology offered a moment earlier was told to get lost |
-| *gij doe enorm veel 'et' terwijl da wij meer 't zouden zeggen* | you write *et* far too much; it is mostly *'t* | the file said *et* stays whole in front of a noun — *et water*, *et dak* — and that is the rule that produced the overuse |
+| *gij doe enorm veel 'et' terwijl da wij meer 't zouden zeggen* | you write *et* far too much; it is mostly *'t* | *et* stays whole in front of a noun — *et water*, *et dak* — and nowhere else |
 | *lijk nie et geslacht maar 't geslacht of "tgeslacht" ma da tweede is ambetant om te doen dus doet da nie* | *'t geslacht*, with the apostrophe; *tgeslacht* exists but don't write it | a form ruled out for being **annoying to type**, not for being wrong — the first entry of that kind |
 | *moatje* | *maatje* | a variant, confirmed as one — not a slip, and neither form is the more correct |
-| *meutseeee is de klagende vorm* | *meutse*, stretched, is the complaining one | the file had only *meutje* |
+| *meutseeee is de klagende vorm* | *meutse*, stretched, is the complaining one | a second form beside *meutje* |
 | *gerekte klinker idd intensiteit* | a stretched vowel is intensity | not a sarcasm marker — it turns up whatever the word already does. `SKILL.md` had it as sarcasm only |
 | *kweni diene -se is een Gentse vorm van verkleinwoord lijk een stroatse* | *-se* may be a Gents diminutive — *stroatse* | prefixed with **kweni**, so the speaker is not sure either. A third ending beside *-ke* and *-je*, unconfirmed |
 | *'twee keer niets' voor iets da bvb geen werk is, of niets van nut heeft, weinig moeite is* | it amounts to nothing — no trouble, no use, no effort | one phrase covering *don't mention it* and *worth nothing* |
 | *gewoon int algemeen een manier om te zeggen dat niets is* | just a general way of saying it's nothing | **int** is typing shorthand, not a form — *tis properder om nen echten 't te zetten*: **in 't algemeen** |
 | *das van zo sms taal van te typen kendet. tis properder om nen echten 't te zetten* | *int* is phone typing, not dialect | the apostrophe belongs there; **sms taal** as the name for the category |
-| *sgoe is nog luier dan 'da's goe'* | *sgoe* takes less effort than *da's goe* | said of a split that had been drawn between forms and laziness. *Das zegt ge ook wel ma wa maakt da uit* — so the split was dropped |
+| *sgoe is nog luier dan 'da's goe'* | *sgoe* takes less effort than *da's goe* | and *das zegt ge ook wel ma wa maakt da uit* — so effort does not sort the forms |
 | *gij spreekt nie gij schrijft ma gij zou geen afkortingen lijk sgoe of idd moeten gebruiken das gwn raar om te lezen* | in writing the abbreviations read oddly | about output, not about the dialect — the first rule in the file drawn from the difference between speaking and writing |
 | *mss bij een korte zin zo bij het afsluiten. lijk 'sgoe maatje' of 'idd da was geene plezanten'* | they work in a short closing line | and **geene plezanten** — *geene* in front of a consonant, where the determiner table gives *geenen* before a vowel |
 
@@ -119,14 +119,14 @@ Pairs where the same speaker used both forms. Neither is an error and neither ne
   table in `SKILL.md` gives *geenen* before a vowel and *geen* otherwise. A third form, not
   folded in
 
-### Three that were nearly missed
+### Three that no rule would produce
 
-Forms nobody thinks to mention, and that no rule in `SKILL.md` would have produced:
+Forms nobody thinks to mention, and that nothing in `SKILL.md` predicts:
 
 - **van** as a quotative — *van allez da meende nie*, *van allez tga u lukken*, *van wa ik zeg*.
   Does the work English does with *like*.
-- **peisk**, **moek**, **kziet**, **kzout** — the pronoun on the *back* of the verb, where every
-  logged form puts it on the front.
+- **peisk**, **moek**, **kziet**, **kzout** — the pronoun on the *back* of the verb, where the
+  fused forms elsewhere put it on the front.
 - **-muile** as a way to build an insult: *ziepmuile*, *tsjiepmuile*. Two words, so no third one
   is to be invented.
 

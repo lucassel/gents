@@ -65,7 +65,7 @@ Format: what was written → what it should be → why.
 | `in de ele file` | **in de heelen file** | *heel* keeps its h, and the adjective takes **-en**. |
 | *allez logged as "not yet settled"* | **six attested jobs** | Complaining, giving in, disbelief (*allez?!*), calling a halt, closing, encouragement. |
 | *two unifying theories for allez* | **it stays a list** | Both invented, both knocked over by the next sentence. *Kzout nog nie teveel in regels proberen duwen.* |
-| *"tse mij nie" unparsed* | **tse mij nie = interesseert mij niet** | Read as a typo and stepped over rather than asked about. The speaker glossed it unprompted a turn later, which is a turn too late. |
+| *"tse mij nie" unparsed* | **tse mij nie = interesseert mij niet** | Read as a typo and stepped over rather than asked about. Then parsed with the *t* swallowed into the verb; the speaker's fuller gloss — *het interesseert mij niet* — makes it the ordinary *et* → *t* fusion that was already in the file. |
 | `dat moet worden` | **da moe worde** | Infinitives drop the final -n. Attested in *worde*, *houde*, *uitlegge*. |
 
 ## Activations that arrive as complaints

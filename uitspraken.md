@@ -105,7 +105,7 @@ by the day they were said, not strictly ordered within it.
 
 | uitspraak | wa et betekent | wa er in zit |
 |---|---|---|
-| *tse mij nie* | *interesseert mij niet* — the gloss given straight | **tse** = *[interesse]ert* worn down to one syllable, and no source attached to it |
+| *tse mij nie* | *het interesseert mij niet* — the gloss given straight | **tse** = the *t* of *het* on a worn-down *interesseert*, the same fusion as *tkan mij schele* |
 | *krijg mijn tik van da gezever* | that drivel is making me lose it | **uw tik krijgen** in the wild, and **gezever** — the noun of *zever* |
 | *diene rij over tsjiepmuile is zelf aant tsjiepen* | that row is doing the thing it describes | **aant** + infinitive, and *tsjiepen* turned back on a **tsjiepmuile** |
 

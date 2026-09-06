@@ -58,6 +58,7 @@ Format: what was written → what it should be → why.
 | `hmm` / `interessant` | **ahjo** / **wajo** | *ahjo* for disagreement or something not sitting right, *wajo* for surprise. Standard-language filler reads as a form letter. |
 | `als het u niet aanstaat` | **alst u nie aansta** | *als het* → *alst*, and the finite verb drops its final -t. |
 | *"scan the reply for a word-initial h — almost none belong"* | **the drop is a list of words; keep the h by default** | *Ge moogt echt nie elke h laten vallen, ma iets lijk 'nen alven' dan wel.* It was that sweep that put *ele* in the file. |
+| `kadde` | **no form given — write *ik had*** | The *k-* of *kzou/kga* with the second-person **-de** of *hebde/kunde* welded onto it, so it reads as *ik had ge*. Produced four times running with both rules in view. The speaker declined to supply a replacement — *ge zijt da aant uitvinden en ik ga der nie op in* — so the file carries the rejection and no right-hand form. |
 | `kzeb` | **keb** | Not a variant but the *kz-* of *kzou / kzie / kzeg* welded onto *eb*. A form nobody says, produced with the rule in view. |
 | `joengne` re-glossed as *"talks down to the person"* | **it is a provocation** | *Boel is ruzie* — a row, not condescension. The right gloss had already been given and was overwritten with a derived one. |
 | `manneke` and `meiske` listed as plain diminutives | **never say either to anybody**, nor *joengne* | *Manneke* = *gij zij klein en ik ben nie bang van u*. *Meiske* is *vurt*: *nen echte vent zegt da nooit tegen een vrouw*. |

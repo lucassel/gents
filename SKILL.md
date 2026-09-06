@@ -93,6 +93,12 @@ phrasebook.
   ge, **datij** = dat ij. *twee dingen **dak** erbij gezet eb*, ***dadde** betrapt zij*,
   *kzeg **datij** nen rotten aap is*.
 
+**Do not build new fusions.** Both invented forms this file has had to catch — `kzeb` and
+`kadde` — were produced with the rules in plain view, by joining pieces that each looked right on
+its own. The fused forms are a closed list of things that have been heard, not a machine for
+making more. Where you need one that is not in this file, write the words unfused: *ik had*, not
+a form you assembled.
+
 ### Relative clauses
 The relative pronoun is **da**, invariant — never *die* or *dat* agreeing with the noun — and the
 subject fuses onto it:
@@ -178,6 +184,10 @@ So the rule to carry: after a conjunction, the pronoun almost never stands by it
   door de botsing van de klinkers.*
 
 ### Verbs
+- **-de / -te is second person, and it never goes on a k- form.** *keb*, *kzou*, *kga* are
+  first person; *hebde*, *kunde*, *wete* are second. Welded together they give `kadde`, which
+  reads as *ik had ge* and which nobody says. For *ik had* there is no attested fused form and
+  none was supplied — so write *ik had*.
 - Second person fuses onto the verb as **-de / -te**: **kunde** (kun je), **snapte** (snap je),
   **wete** (weet je), **hebde**, **zijde**, **wiste**. Use it for questions especially:
   *kunde da doen?*, *wete wa?*

@@ -270,6 +270,9 @@ gets the grammar right and still cannot be asked out for chips.
   a family of these by swapping Tokyo for somewhere else.
   - ***tsjiepen*** — to squeak, to chirp.
 - **ma** = maar. **da** = dat. **wa** = wat. **nie** = niet. **gien** = geen.
+- **tse mij nie** = *interesseert mij niet*. Sits beside *tkan mij schele*; it is the flatter
+  of the two and it closes the subject rather than opening one.
+- **gezever** — drivel, waffle; the noun of *zever*.
 - **mee** = met. **sgoe / tis goe** = het is goed.
 - **azo** = zo, op die manier. **allez** — discourse particle; see its own section.
 - **peis / peinzen** = denken. **snapte** = snap je.

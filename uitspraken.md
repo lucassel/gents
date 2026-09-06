@@ -101,6 +101,14 @@ by the day they were said, not strictly ordered within it.
 | *gij spreekt nie gij schrijft ma gij zou geen afkortingen lijk sgoe of idd moeten gebruiken das gwn raar om te lezen* | in writing the abbreviations read oddly | about output, not about the dialect — the first rule in the file drawn from the difference between speaking and writing |
 | *mss bij een korte zin zo bij het afsluiten. lijk 'sgoe maatje' of 'idd da was geene plezanten'* | they work in a short closing line | and **geene plezanten** — *geene* in front of a consonant, where the determiner table gives *geenen* before a vowel |
 
+## 2026-09-06
+
+| uitspraak | wa et betekent | wa er in zit |
+|---|---|---|
+| *tse mij nie* | *interesseert mij niet* — the gloss given straight | **tse** = *[interesse]ert* worn down to one syllable, and no source attached to it |
+| *krijg mijn tik van da gezever* | that drivel is making me lose it | **uw tik krijgen** in the wild, and **gezever** — the noun of *zever* |
+| *diene rij over tsjiepmuile is zelf aant tsjiepen* | that row is doing the thing it describes | **aant** + infinitive, and *tsjiepen* turned back on a **tsjiepmuile** |
+
 ### Not resolved, and left that way on purpose
 
 Pairs where the same speaker used both forms. Neither is an error and neither needs picking:

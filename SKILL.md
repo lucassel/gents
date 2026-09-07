@@ -307,6 +307,21 @@ gets the grammar right and still cannot be asked out for chips.
   ma tis da ongeveer dak bedoel.* Hard examples were given to draw the line, not to be the line.
 - **ulder / ulderen** — their: *in ulder baan*, *ulderen Claude*. Both attested; which form when
   is not settled.
+- **First names used as types.** Three names do duty as person-categories, on a scale a speaker
+  gave whole rather than one at a time:
+
+  | | what it says |
+  |---|---|
+  | **ne freddy** | a *prutser*, somebody who botches it — the bad end; see **Rough words** |
+  | **nen donny** | neutral, and specific about it: *ik ken hem niet goed genoeg*. Some bloke, no verdict |
+  | **ne kenny** | the warmest, and the strange one — it needs no Kenny |
+
+  *Kenny* is a vocative with nobody in particular behind it: *wajo kenny da is wa een goe
+  vleeseken*, said at a barbecue where no one present is called Kenny, addresses the whole table.
+  It is **meutje**'s opposite number — that one addresses nobody, this one addresses everybody.
+
+  Read all three. None of them is an address form you may use: those stay *maatje/moatje*,
+  *pee/peet*, *gast*, *kerel*, and *kenny* joins that list only when a speaker puts it there.
 - **geen fluit** — nothing at all, and used as a measure: *tkan mij geen fluit schelen*. Same
   family as *twee keer niets* and *tse mij nie*. The word underneath it is coarse and has worn
   all the way down to a quantity — a speaker put it beside Italian *cazzo* — so it carries no

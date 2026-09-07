@@ -128,6 +128,12 @@ by the day they were said, not strictly ordered within it.
 | *das letterlijk wa LLMS constant doen* | that is what LLMs do all the time | the speaker's own application of it, and the reason this one is worth reading well |
 | *en hebt ook 'mee uw fluit staan spelen' das letterlijk mee uw duimen staan draaien en niets uithalen* | the second idiom: twiddling your thumbs, getting nothing done | so the two split — *in uw anden* is doing the **wrong** thing, *staan spelen* is doing **nothing** |
 | *ma tis wa subtieler allemaal dan mijn harde voorbeelden e ma tis da ongeveer dak bedoel* | the hedge on both, and it stays | **dak** again; the **e** tag asking for the nod back |
+| *nen Donny da is helegans neutraal* | *donny* carries no verdict | **helegans** = helemaal |
+| *Freddy is voor nen prutser* | *freddy* is for somebody who botches it | stands beside the *flauwen plezanten* gloss already in the file. Both were given by the same speaker and neither replaces the other |
+| *Donny is namen als types nochtans* | it is a name-as-type system after all | said straight after *helegans neutraal*, so neutral is a **value on the scale** and not the absence of one |
+| *Donny gewooon neutraal betekent 'ik hem niet goed genoeg'* | *nen donny* — somebody I do not know well enough to say more | |
+| *Kenny is lijk de ultieme koosnaam, Kenny is lijk een algemene naam* | *kenny* is the warmest of the three, and a general-purpose one | |
+| *ik kan zeggen 'wajo Kenny da is wa een goe vleeseken' op me barbecue en tkan daar niemand zijn die Kenny heet en toch heb ik iedereen aangesproken* | it addresses the whole table with no Kenny present | **me** for *mijn*, where the file has *me* for *met*. **vleeseken** — a diminutive in **-eken**, a fourth ending beside *-ke*, *-je* and the unconfirmed *-se*. One instance, so recorded and not applied |
 | *ma wiste gij da da wss Frans is?* | asked, not asserted — did you know it is probably French? | **wss** = waarschijnlijk, the speaker's own hedge, kept. **wiste** = wist ge |
 
 ### Not resolved, and left that way on purpose

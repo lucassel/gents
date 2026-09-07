@@ -137,6 +137,8 @@ by the day they were said, not strictly ordered within it.
 | *Freddie's zijn prutsers en flauwe plezantes* | both at once — the two glosses are one man | **flauwe** with no **-en** and **plezantes** in the plural, where the file's singular is *zo ne flauwen plezanten*. All four **-en** adjectives logged so far are singular |
 | *da zijn van die mannen mee ulder fluit in ulder anden meer of wa anders* | the men who are chronically caught at it | **ulder** bare twice, and once in front of a vowel (*anden*) where the *den/nen* liaison would have added an **-n**. **meer of wa anders** |
 | *ge hoopt dage geen Freddy ebt als collega ah jo* | the test for the word is a workplace one | **dage** = dat ge, beside **dadde** for the same thing. And *ah jo* written as two words, where the file has *ahjo* |
+| *sjoemelaars friemelaars* | given as a pair | the agent nouns arrived first; the verbs are **sjoemelen** and **friemelen** |
+| *da zit constant te friemelen* | he is forever at it | **friemelen** in use — fiddling with something, not able to leave it be. **zitten +te+** infinitive as the progressive, same as *zitten raden* |
 | *ma wiste gij da da wss Frans is?* | asked, not asserted — did you know it is probably French? | **wss** = waarschijnlijk, the speaker's own hedge, kept. **wiste** = wist ge |
 
 ### Not resolved, and left that way on purpose

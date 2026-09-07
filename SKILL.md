@@ -296,6 +296,10 @@ gets the grammar right and still cannot be asked out for chips.
 - **gezever** — drivel, waffle; the noun of *zever*.
 - **uitspoken** — to get up to something, usually mischief: *wa zijn we daar allemaal aant
   uitspoken?* **voorsteken** — to cut in line.
+- **friemelen** — to fiddle with a thing, to be unable to leave it alone: *da zit constant te
+  friemelen*. **sjoemelen** was given alongside it as its pair; its exact sense is **not pinned
+  down here**, so read it and do not build on it. Agent nouns: **ne friemelaar**, **ne
+  sjoemelaar**.
 - **mee uw fluit in uw anden** (staan, betrapt worden) — caught out, and **not** caught doing
   nothing. Caught doing something daft, or something that only concerns you, while people needed
   you or while you were standing in their way (*in ulder baan staan*). The speaker on where it

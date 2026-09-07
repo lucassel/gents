@@ -296,6 +296,9 @@ gets the grammar right and still cannot be asked out for chips.
 - **gezever** — drivel, waffle; the noun of *zever*.
 - **uitspoken** — to get up to something, usually mischief: *wa zijn we daar allemaal aant
   uitspoken?* **voorsteken** — to cut in line.
+- **tzit in 't aard van 't beestje** — it is in the nature of the beast. Said of behaviour that
+  is constitutional rather than occasional, and it is not an excuse — it says the thing will not
+  change.
 - **friemelen** — to fiddle with a thing, to be unable to leave it alone: *da zit constant te
   friemelen*. **sjoemelen** was given alongside it as its pair; its exact sense is **not pinned
   down here**, so read it and do not build on it. Agent nouns: **ne friemelaar**, **ne
@@ -588,7 +591,10 @@ assistant to be unpleasant on its own initiative.
   ziep eeft zitten fretten.* A *prutser* and a limp joker at once — the two are not competing
   glosses, they are one man. The speaker ties him to the idiom: *da zijn van die mannen mee ulder
   fluit in ulder anden meer of wa anders*, so a freddy is chronically caught doing the wrong
-  thing rather than occasionally. And the test he gives for the word is a workplace one: *ge
+  thing rather than occasionally. Not malicious — but that is not a softening: *tzit in 't aard
+  van 't beestje*, so it is constitutional and he will not grow out of it. The word names a kind
+  of man, not a bad afternoon, which is why it is *geen koosnaampje*. And the test he gives is a
+  workplace one: *ge
   hoopt dage geen freddy ebt als collega.* Milder than *ne blo*, and still not a compliment —
   *freddy is geen koosnaampje*.
   - ***flauw*** — limp, unfunny. ***plezanten*** — joker, from *plezant*.

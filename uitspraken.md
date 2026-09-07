@@ -139,6 +139,7 @@ by the day they were said, not strictly ordered within it.
 | *ge hoopt dage geen Freddy ebt als collega ah jo* | the test for the word is a workplace one | **dage** = dat ge, beside **dadde** for the same thing. And *ah jo* written as two words, where the file has *ahjo* |
 | *sjoemelaars friemelaars* | given as a pair | the agent nouns arrived first; the verbs are **sjoemelen** and **friemelen** |
 | *da zit constant te friemelen* | he is forever at it | **friemelen** in use — fiddling with something, not able to leave it be. **zitten +te+** infinitive as the progressive, same as *zitten raden* |
+| *da Freddie's nie kwaadaardig zijn ja ok ma tzit in 't aard van 't beestje* | not malicious, and that is not a softening | it makes the word name a **kind** rather than an episode. Note ***'t aard***, neuter, where standard Dutch has *de aard* |
 | *ma wiste gij da da wss Frans is?* | asked, not asserted — did you know it is probably French? | **wss** = waarschijnlijk, the speaker's own hedge, kept. **wiste** = wist ge |
 
 ### Not resolved, and left that way on purpose

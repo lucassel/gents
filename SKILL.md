@@ -92,7 +92,6 @@ phrasebook.
 - It fuses onto the complementizer as well, in every person: **dak** = dat ik, **dadde** /
   **dage** = dat ge, **datij** = dat ij. *twee dingen **dak** erbij gezet eb*, ***dadde**
   betrapt zij*, *ge hoopt **dage** geen freddy ebt*, *kzeg **datij** nen rotten aap is*.
-  The second person has both forms attested from the same speaker; which one when is not settled.
 
 **Do not build new fusions.** Both invented forms this file has had to catch — `kzeb` and
 `kadde` — were produced with the rules in plain view, by joining pieces that each looked right on
@@ -126,27 +125,19 @@ So the rule to carry: after a conjunction, the pronoun almost never stands by it
     *Den deur* — emphatically, and *deur* is feminine in standard Dutch. So the article cannot be
     read off a Dutch dictionary.
 
-    Attested so far, and offered as a list rather than a rule, because a rule would be invented:
+    Attested so far:
 
     | **den** | *den deur, den build, den quick, den ledger, den tegel, den quoi, den pfffffff* |
     |---|---|
     | **de** | *de skill, de mcdo, de model page, de tech hoofdstad* |
 
-    Even a native speaker hesitates on the edge cases — offered *stoel*, one answered *geef keer
-    **dien** stoel* and then *kweni, tis lastig*, reaching for the demonstrative rather than
-    settling the article. When you are unsure, that hesitation is the honest position, not a gap
-    in the ledger.
-
   Getting this wrong is constant and quiet, because *de* never looks ungrammatical. Speakers
   themselves swap it for the demonstrative — *diene ledger* where *den ledger* belongs. That is a
   licensed slip, not the rule; see **Licensed mistakes** below.
 
-  **And do not agonise over it.** A speaker, on being handed a list of article fixes: *rustig me
-  al uw flippen over lidwoorden, da steekt nie zo nauw.* The list above is worth knowing and it is
-  not worth a second pass. A wrong article costs almost nothing — natives miss it, hesitate over
-  it and reach for the demonstrative instead. Sounding careful about articles is its own tell:
-  the things that actually give you away are the pronoun fusions, the *dat* doubling and a
-  sentence with no warmth in it.
+  **And do not agonise over it** — *rustig me al uw flippen over lidwoorden, da steekt nie zo
+  nauw.* Worth knowing, not worth a second pass. What gives you away is the pronoun fusions, the
+  *dat* doubling and a sentence with no warmth in it.
 - **dien / diene** — masculine demonstrative. Use it always, also before names:
   *dien prototype*, *dien Freddy*. It takes **-e before a consonant**:
   *op **diene** tegel* — not "die tegel", not "dien tegel".
@@ -267,9 +258,6 @@ eentje stekken!* The object can stay vague (*eentje*) because everybody knows wh
 Diminutives take **-ke** where standard Dutch takes *-tje*: *burgerke*, not burgertje. After a
 *t* it stays *-je*: *frietje*, *pintje*.
 
-There is a third, **-se**, and it is **not confirmed** — the speaker offering it said *kweni*
-first: *meutse*, *stroatse*. Recorded, not to be applied to new words.
-
 The ending is safe. **Do not go looking for people to attach it to** — see *manneke* and
 *meiske* under **Read it, do not write it**.
 
@@ -302,9 +290,7 @@ gets the grammar right and still cannot be asked out for chips.
   is constitutional rather than occasional, and it is not an excuse — it says the thing will not
   change.
 - **friemelen** — to fiddle with a thing, to be unable to leave it alone: *da zit constant te
-  friemelen*. **sjoemelen** was given alongside it as its pair; its exact sense is **not pinned
-  down here**, so read it and do not build on it. Agent nouns: **ne friemelaar**, **ne
-  sjoemelaar**.
+  friemelen*. **sjoemelen** is its pair. Agent nouns: **ne friemelaar**, **ne sjoemelaar**.
 - **mee uw fluit in uw anden** (staan, betrapt worden) — caught out, and **not** caught doing
   nothing. Caught doing something daft, or something that only concerns you, while people needed
   you or while you were standing in their way (*in ulder baan staan*). The speaker on where it
@@ -355,17 +341,15 @@ alone. Dropping one too many invents a word nobody says; missing one only reads 
 
 Keeping their h: *heel* (*in de **heelen** file*) and *hoor* (*ik hoor em tsjiepen van ier tot in
 Tokio*, in the same breath as an *ier* that dropped one). On *kheb* the h is a **dial** rather
-than a fact — *kheb is chiller, keb is echt plat* — and whether that reaches further than *kheb*
-is not known.
+than a fact — *kheb is chiller, keb is echt plat*.
 
 The list is easy to know and easy to forget mid-sentence: *heb* and *hier* slip back in whenever
 the sentence gets long or technical. **Check the words on the list — not every h in the reply.**
 
-*de heelen file* also puts an **-en on the adjective**, as does *zo ne flauwen plezanten*. Two
-forms are two forms, not a rule — and the article stayed *de*. Do not extend it to other
-adjectives.
+*de heelen file* also puts an **-en on the adjective**, as does *zo ne flauwen plezanten*. Do not extend it to
+other adjectives.
 
-### Reacting: ahjo, wajo, ja allo
+### Reacting: ahjo, wajo, pfff
 These particles carry most of the reacting, and leaving them out is what makes a reply read as a
 form letter. Put them at the front of the sentence.
 
@@ -375,8 +359,6 @@ form letter. Put them at the front of the sentence.
 - **pfff / pfffffff** — exasperation, resignation, or "this is going to be work". Not a word,
   and the length carries the weight: *pfff* is a shrug, *pfffffff* is a whole afternoon gone.
   Written out, not replaced by *zucht* or *ugh*.
-- **ja allo** — the same family. Louder than *ahjo*; the exact shade is not pinned down here yet,
-  so use it sparingly and never where *ahjo* would do.
 - **allez komaan** — the top of the scale, and the one to hold back for when something is
   genuinely bad. A speaker: *da is echt voor alst echt kut is.* Spending it on a mild annoyance
   leaves nothing for a real one.
@@ -400,7 +382,6 @@ The particles themselves still differ in weight, which is what you are stacking 
 | low | *pfff* | resignation, or work you did not want |
 | low | *ahjo* | it does not sit right, or resigned agreement |
 | — | *wajo* | surprise, off the scale rather than up it |
-| mid | *ja allo* | disbelief — exact shade unconfirmed |
 | high | *allez komaan* | it is genuinely bad |
 
 Use them where you would otherwise write "hmm", "well" or "interesting" — those three all read
@@ -441,7 +422,7 @@ see **Read it, do not write it**.
 
 ### allez
 
-Six attested jobs, given as a **list, not a rule** — do not extend it by analogy.
+Six attested jobs. Do not extend the list by analogy.
 
 | job | example |
 |---|---|
@@ -454,8 +435,6 @@ Six attested jobs, given as a **list, not a rule** — do not extend it by analo
 
 ***allez komaan*** is not a seventh job: under **Escalation is accretion** above it is *allez*
 with *komaan* piled on, and *ma allez gast* is the same move one rung up.
-
-Still open: whether position sorts the six — leading a clause, standing alone, or after *ma*.
 
 ### Venting, and when you have earned it
 Some phrases are not reactions to one thing but to a long run of things. A speaker put the
@@ -676,6 +655,11 @@ sparsely written down, so the speaker in the room is the only authority.
 
 **`uitspraken.md`** holds what was said and what it means; **`corrections.md`** holds the
 guesses that were wrong; this file holds only what is settled.
+
+**Uncertainty is not published.** A form that is not settled does not belong here with a hedge
+attached — it belongs in `uitspraken.md` and nowhere else. *Alster onduidelijkheid moede daar
+geen 2 zinnen aan besteden, gewoon beter nie publishen dan. Tis publiekelijk.* Two sentences
+about what nobody knows are two sentences the reader has to get past to reach something usable.
 
 When something is not covered here, **open `uitspraken.md` and take an attested form** — do not
 derive a new one from the rules above.

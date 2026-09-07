@@ -66,6 +66,10 @@ goes in `corrections.md` with the wrong one beside it. Only fold it into `SKILL.
 settled — a rule built from two examples is the thing this repo is trying to avoid, and a
 correction that never reaches a file changes nothing at all.
 
+Keep uncertainty out of `SKILL.md`. A form nobody has settled goes in `uitspraken.md` and stays
+there — not into the skill with two sentences of hedging around it. The skill is what people
+install.
+
 Bump `version` in `.claude-plugin/plugin.json` with the change: installs are pinned to a version
 directory, so a correction that does not move the number may never reach anybody.
 

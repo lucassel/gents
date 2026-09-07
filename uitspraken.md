@@ -161,6 +161,10 @@ Pairs where the same speaker used both forms. Neither is an error and neither ne
   sit in front of a consonant, so the liaison does not sort them
 - **ulder** / **ulderen** — *their*; the bare form even in front of a vowel, so the liaison that
   governs *den* and *nen* is not what picks it
+- **ja allo** — attested as a reaction particle in the *ahjo/wajo* family and louder than
+  *ahjo*; the shade it carries was never pinned down. Held out of `SKILL.md` for that reason
+- the article on **stoel** — offered it, the speaker answered *geef keer **dien** stoel* and
+  then *kweni, tis lastig*, reaching for the demonstrative rather than settling the article
 - **kpeis** / **peisk** — the pronoun on the front or the back of the verb, with no known rule
   for choosing
 - **geen** / **geene** / **geenen** — *geene plezanten* has a consonant behind it, where the

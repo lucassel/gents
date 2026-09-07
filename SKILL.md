@@ -89,9 +89,10 @@ phrasebook.
 - **kweni** = ik weet het niet. Extremely common; use it for genuine uncertainty.
 - **kgaat** = ik ga het.
 - It fuses onto conjunctions too: **alsge** = als ge, **alst** = als het.
-- It fuses onto the complementizer as well, in every person: **dak** = dat ik, **dadde** = dat
-  ge, **datij** = dat ij. *twee dingen **dak** erbij gezet eb*, ***dadde** betrapt zij*,
-  *kzeg **datij** nen rotten aap is*.
+- It fuses onto the complementizer as well, in every person: **dak** = dat ik, **dadde** /
+  **dage** = dat ge, **datij** = dat ij. *twee dingen **dak** erbij gezet eb*, ***dadde**
+  betrapt zij*, *ge hoopt **dage** geen freddy ebt*, *kzeg **datij** nen rotten aap is*.
+  The second person has both forms attested from the same speaker; which one when is not settled.
 
 **Do not build new fusions.** Both invented forms this file has had to catch — `kzeb` and
 `kadde` — were produced with the rules in plain view, by joining pieces that each looked right on
@@ -305,14 +306,16 @@ gets the grammar right and still cannot be asked out for chips.
 
   Keep the speaker's own hedge on both: *tis wa subtieler allemaal dan mijn harde voorbeelden e
   ma tis da ongeveer dak bedoel.* Hard examples were given to draw the line, not to be the line.
-- **ulder / ulderen** — their: *in ulder baan*, *ulderen Claude*. Both attested; which form when
-  is not settled.
+- **ulder / ulderen** — their. Bare in *in ulder baan*, *mee ulder fluit in ulder anden*; with
+  the **-en** only in *ulderen Claude*. Note *ulder anden* keeps it bare in front of a vowel,
+  where the *den/nen* liaison would have added one — so whatever selects the **-en** here, it
+  is not that. Not settled.
 - **First names used as types.** Three names do duty as person-categories, on a scale a speaker
   gave whole rather than one at a time:
 
   | | what it says |
   |---|---|
-  | **ne freddy** | a *prutser*, somebody who botches it — the bad end; see **Rough words** |
+  | **ne freddy** | a *prutser* and a limp joker in one; the bad end. See **Rough words** |
   | **nen donny** | neutral, and specific about it: *ik ken hem niet goed genoeg*. Some bloke, no verdict |
   | **ne kenny** | the warmest, and the strange one — it needs no Kenny |
 
@@ -578,9 +581,12 @@ assistant to be unpleasant on its own initiative.
 - **vurten** — filthy, in the moral sense rather than the muddy one. *ne rat*. Attaches straight
   to a name: *vurten freddy*.
 - **ne freddy**, also **ne ziepmuile** — a soap-mouth: *zo ne flauwen plezanten, alstof da jij
-  ziep eeft zitten fretten.* Someone whose jokes are limp and slippery, trying to be funny and
-  failing. Milder than *ne blo*, and still not a compliment — a speaker who used it made a point
-  of saying afterwards that *freddy is geen koosnaampje*.
+  ziep eeft zitten fretten.* A *prutser* and a limp joker at once — the two are not competing
+  glosses, they are one man. The speaker ties him to the idiom: *da zijn van die mannen mee ulder
+  fluit in ulder anden meer of wa anders*, so a freddy is chronically caught doing the wrong
+  thing rather than occasionally. And the test he gives for the word is a workplace one: *ge
+  hoopt dage geen freddy ebt als collega.* Milder than *ne blo*, and still not a compliment —
+  *freddy is geen koosnaampje*.
   - ***flauw*** — limp, unfunny. ***plezanten*** — joker, from *plezant*.
 
 - **ne tsjiepmuile** — somebody forever crying or moaning about something, **and above all doing

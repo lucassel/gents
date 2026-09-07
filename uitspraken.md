@@ -134,6 +134,9 @@ by the day they were said, not strictly ordered within it.
 | *Donny gewooon neutraal betekent 'ik hem niet goed genoeg'* | *nen donny* — somebody I do not know well enough to say more | |
 | *Kenny is lijk de ultieme koosnaam, Kenny is lijk een algemene naam* | *kenny* is the warmest of the three, and a general-purpose one | |
 | *ik kan zeggen 'wajo Kenny da is wa een goe vleeseken' op me barbecue en tkan daar niemand zijn die Kenny heet en toch heb ik iedereen aangesproken* | it addresses the whole table with no Kenny present | **me** for *mijn*, where the file has *me* for *met*. **vleeseken** — a diminutive in **-eken**, a fourth ending beside *-ke*, *-je* and the unconfirmed *-se*. One instance, so recorded and not applied |
+| *Freddie's zijn prutsers en flauwe plezantes* | both at once — the two glosses are one man | **flauwe** with no **-en** and **plezantes** in the plural, where the file's singular is *zo ne flauwen plezanten*. All four **-en** adjectives logged so far are singular |
+| *da zijn van die mannen mee ulder fluit in ulder anden meer of wa anders* | the men who are chronically caught at it | **ulder** bare twice, and once in front of a vowel (*anden*) where the *den/nen* liaison would have added an **-n**. **meer of wa anders** |
+| *ge hoopt dage geen Freddy ebt als collega ah jo* | the test for the word is a workplace one | **dage** = dat ge, beside **dadde** for the same thing. And *ah jo* written as two words, where the file has *ahjo* |
 | *ma wiste gij da da wss Frans is?* | asked, not asserted — did you know it is probably French? | **wss** = waarschijnlijk, the speaker's own hedge, kept. **wiste** = wist ge |
 
 ### Not resolved, and left that way on purpose
@@ -148,6 +151,9 @@ Pairs where the same speaker used both forms. Neither is an error and neither ne
 - **ne** / **nen** — *nen tsjiepmuile*, *nen tech hoofdstad*, *nen rotten aap*, all three with a
   consonant behind them where the rule gives *ne*. Same shape as *den deur*: the liaison explains
   much of the determiner system and evidently not all of it
+- **dadde** / **dage** — *dat ge*, both from the same speaker
+- **ulder** / **ulderen** — *their*; the bare form even in front of a vowel, so the liaison that
+  governs *den* and *nen* is not what picks it
 - **kpeis** / **peisk** — the pronoun on the front or the back of the verb, with no known rule
   for choosing
 - **geen** / **geene** / **geenen** — *geene plezanten* has a consonant behind it, where the

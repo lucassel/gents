@@ -1,26 +1,32 @@
 # gents
 
-A [Claude Code](https://claude.com/claude-code) skill that makes Claude speak **Gents** — the
-dialect of Ghent, Belgium — instead of standard Dutch.
+A [Claude Code](https://claude.com/claude-code) skill that makes Claude speak **Gents** - the
+dialect of Ghent, Belgium - instead of standard Dutch.
 
-Gents is not Dutch with an accent, and it is not West-Flemish. It has its own pronouns, its own
-articles and its own contractions, and a model left to guess will produce a confident blend of
-all three. This skill replaces the guessing with a ledger.
+Gents is not Dutch with an accent, it is not West-Flemish, nor Antwerps or Brabants. It has its own pronouns, its own articles and its own contractions, and a model left to guess will produce a confident blend of all three. 
+
+This skill replaces the guessing with a ledger.
 
 It is not a purity project. Ghent has spoken Dutch, French and English over each other for a
 century, and a reply that gets every article right and lands cold has failed at the only thing
-that matters. The ledger is there so the thing does not sound foreign — not so it sounds correct.
+that matters. 
+
+The ledger is there so the thing does not sound foreign — not so it sounds correct.
 
 ## Install
 
-In Claude Code, add the marketplace and install it:
+Launch Claude Code, add the marketplace:
 
 ```
 /plugin marketplace add lucassel/gents
+```
+
+
+```
 /plugin install gents@gents
 ```
 
-Then say **"spreekt keer gents"**, or `/gents`. It also answers to *wablief*.
+Then say **"spreekt keer gents"**, or `/gents`. It also answers to *wablief*. You can probably also activate it by saying **moatje**, who knows. That's the beautiful part.
 
 ## Why this exists
 
@@ -31,12 +37,9 @@ That is the whole of it. Not a reference work, not an authority — a way of wri
 person's dialect while there is still someone to correct it. It will stay work in progress and
 that is fine.
 
-There is a second reason, and this one is about you rather than about him. Ghent has an
-unreasonable amount of software being written in it, and a good part of that by people who did
-not grow up here. The dialect is what the city sounds like off the record — in the corridor, in
-the chip shop, after the standup — and it is the part a newcomer gets last, or never. If the
-thing sitting in your terminal all day can hold up that end of a conversation, that is a way in
-rather than one more thing to stand outside of.
+There is a second reason. Ghent has an unreasonable amount of software being written in it, and a good part of that by people who did not grow up here. 
+
+The dialect is what the city sounds like off the record — in the corridor, in the chip shop, after the standup — and it is the part a newcomer gets last, or never. If the thing sitting in your terminal all day can hold up that end of a conversation, that is a way in rather than one more thing to stand outside of.
 
 In the words of the man whose dialect this is: *da loopt ier vol me niet-gentenaars, en as wij
 ulderen Claude beetje chill laten spreken, isda toch geniaal.*
@@ -61,18 +64,10 @@ basis van incomplete info van ne gentenaar die zijn eigen ook zit tegen te sprek
 ## Contributing
 
 If you speak Gents and something here is wrong, that is the whole point — open an issue or a PR.
-Anything you have actually said goes in `uitspraken.md` as it was said. A form that was wrong
-goes in `corrections.md` with the wrong one beside it. Only fold it into `SKILL.md` once it is
-settled — a rule built from two examples is the thing this repo is trying to avoid, and a
-correction that never reaches a file changes nothing at all.
+Anything you have actually said goes in `uitspraken.md` as it was said. 
+
+A form that was wrong goes in `corrections.md` with the wrong one beside it. Only fold it into `SKILL.md` once it is settled — a rule built from two examples is the thing this repo is trying to avoid, and a correction that never reaches a file changes nothing at all.
 
 Keep uncertainty out of `SKILL.md`. A form nobody has settled goes in `uitspraken.md` and stays
 there — not into the skill with two sentences of hedging around it. The skill is what people
 install.
-
-Bump `version` in `.claude-plugin/plugin.json` with the change: installs are pinned to a version
-directory, so a correction that does not move the number may never reach anybody.
-
-Bump the **patch** for a correction, a word, a row — anything that changes what the file *says*.
-That is nearly everything here. The **minor** is for a change in what the skill *does*: a new
-section, or a form it is now allowed to produce that it was not allowed to produce before.

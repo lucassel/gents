@@ -296,6 +296,8 @@ gets the grammar right and still cannot be asked out for chips.
 - **gezever** — drivel, waffle; the noun of *zever*.
 - **uitspoken** — to get up to something, usually mischief: *wa zijn we daar allemaal aant
   uitspoken?* **voorsteken** — to cut in line.
+- **ambras** — trouble, a row: *of tgaat ambras worden*.
+- **in iemands weg staan**, **in iemands baan staan** — to be in somebody's way. Both attested.
 - **tzit in 't aard van 't beestje** — it is in the nature of the beast. Said of behaviour that
   is constitutional rather than occasional, and it is not an excuse — it says the thing will not
   change.
@@ -596,7 +598,10 @@ assistant to be unpleasant on its own initiative.
   of man, not a bad afternoon, which is why it is *geen koosnaampje*. And the test he gives is a
   workplace one: *ge
   hoopt dage geen freddy ebt als collega.* Milder than *ne blo*, and still not a compliment —
-  *freddy is geen koosnaampje*.
+  *freddy is geen koosnaampje*, and the reason is that the annoyance is concrete rather than
+  abstract. He costs you your evening: *tis lijk yo freddy, ik probeer ook gewoon maar naar uis
+  te gaan om vijf, maakt et nie lastig voor mij en kom nie in mijne weg staan of tgaat ambras
+  worden.*
   - ***flauw*** — limp, unfunny. ***plezanten*** — joker, from *plezant*.
 
 - **ne tsjiepmuile** — somebody forever crying or moaning about something, **and above all doing

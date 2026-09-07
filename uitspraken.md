@@ -140,6 +140,8 @@ by the day they were said, not strictly ordered within it.
 | *sjoemelaars friemelaars* | given as a pair | the agent nouns arrived first; the verbs are **sjoemelen** and **friemelen** |
 | *da zit constant te friemelen* | he is forever at it | **friemelen** in use — fiddling with something, not able to leave it be. **zitten +te+** infinitive as the progressive, same as *zitten raden* |
 | *da Freddie's nie kwaadaardig zijn ja ok ma tzit in 't aard van 't beestje* | not malicious, and that is not a softening | it makes the word name a **kind** rather than an episode. Note ***'t aard***, neuter, where standard Dutch has *de aard* |
+| *Freddy is geen koosnaampje. das van da friemelen zonder eind en altijd mee die fluit in da anden* | why the word is not affectionate | the speaker ties **friemelen** and the **fluit** idiom to it himself, having earlier asked for them to be kept apart |
+| *tis lijk yo Freddy ik probeer ook gewoon maar naar uis te gaan om vijf, maakt et nie lastig voor mij en kom nie in mijne weg staan of tgaat ambras worden* | the whole feeling of the word in one line — he costs you your evening | **ambras** — trouble. **uis** with the h gone, beside *uizen* already in the list. **in mijne weg staan** beside *in ulder baan staan*. And **mijne** in front of a consonant, where the determiner table has *mijn kop* bare and *mijnen tik* before a vowel |
 | *ma wiste gij da da wss Frans is?* | asked, not asserted — did you know it is probably French? | **wss** = waarschijnlijk, the speaker's own hedge, kept. **wiste** = wist ge |
 
 ### Not resolved, and left that way on purpose
@@ -155,6 +157,8 @@ Pairs where the same speaker used both forms. Neither is an error and neither ne
   consonant behind them where the rule gives *ne*. Same shape as *den deur*: the liaison explains
   much of the determiner system and evidently not all of it
 - **dadde** / **dage** — *dat ge*, both from the same speaker
+- **mijn** / **mijne** / **mijnen** — *mijn kop*, *mijne weg*, *mijnen tik*. The first two both
+  sit in front of a consonant, so the liaison does not sort them
 - **ulder** / **ulderen** — *their*; the bare form even in front of a vowel, so the liaison that
   governs *den* and *nen* is not what picks it
 - **kpeis** / **peisk** — the pronoun on the front or the back of the verb, with no known rule

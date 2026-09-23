@@ -201,3 +201,4 @@ their h for that reason or simply because they are not on the list.
 | *assumpties*, where the original had *aannames* | the borrowed word, kept | and *assumpties **make*** where the original had *aannames **doen*** |
 | *welken as dewelken is* | which axis is which | **dewelken** |
 | *neem kik* | left untouched in the rewrite | *kik* after the verb, where the file calls it the rare emphatic |
+| *covers LUUPT meteen over elken driehoek van t vlak, en da voor elk vlak van da gebouw, voor elk kandidaatpunt, ja allo, da vlak eeft zijnen box al e* | a second rewrite of a Claude line | **ja allo** mid-sentence and with a use behind it at last — disbelief at something plainly wasteful. **da vlak**, **da gebouw** where the original had *et* and *'t*. **luupt** for *loopt*. **zijnen box** and **elken driehoek**, both **-n** in front of a consonant. One word in caps inside a lowercase sentence |

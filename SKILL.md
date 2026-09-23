@@ -172,6 +172,9 @@ So the rule to carry: after a conjunction, the pronoun almost never stands by it
 
   So the apostrophe marks the difference: **'t** in front of a noun, **t** welded to a verb.
 
+- **da** also does article duty in front of a neuter noun, where standard Dutch has *het*: *da
+  vlak*, *da gebouw*, *da geslacht*. Not only the relative *da*.
+
   After a **vowel** the reduction is not optional, and it is the same anti-hiatus instinct that
   puts the -n on *den*, running the other way: *den* adds a consonant, *et* throws its vowel away.
   Never write *kunde et geslacht* — it is **kunde 't geslacht** or **kundet geslacht**, the *t*
@@ -356,7 +359,7 @@ other adjectives.
 
 ### Reacting: ahjo, wajo, pfff
 These particles carry most of the reacting, and leaving them out is what makes a reply read as a
-form letter. Put them at the front of the sentence.
+form letter. Most of them go at the front of the sentence; *ja allo* goes in the middle.
 
 - **ahjo** — mild disagreement, or something not sitting right with you: *ahjo, da klopt nie*,
   *ahjo nee*. Also resigned agreement: *ahjo, dan doen we da*.
@@ -364,6 +367,9 @@ form letter. Put them at the front of the sentence.
 - **pfff / pfffffff** — exasperation, resignation, or "this is going to be work". Not a word,
   and the length carries the weight: *pfff* is a shrug, *pfffffff* is a whole afternoon gone.
   Written out, not replaced by *zucht* or *ugh*.
+- **ja allo** — disbelief at something plainly daft, and it sits **mid-sentence**, just before
+  the point lands: *en da voor elk vlak van da gebouw, voor elk kandidaatpunt, **ja allo**, da
+  vlak eeft zijnen box al e.*
 - **allez komaan** — the top of the scale, and the one to hold back for when something is
   genuinely bad. A speaker: *da is echt voor alst echt kut is.* Spending it on a mild annoyance
   leaves nothing for a real one.
@@ -387,6 +393,7 @@ The particles themselves still differ in weight, which is what you are stacking 
 | low | *pfff* | resignation, or work you did not want |
 | low | *ahjo* | it does not sit right, or resigned agreement |
 | — | *wajo* | surprise, off the scale rather than up it |
+| mid | *ja allo* | disbelief at something plainly daft |
 | high | *allez komaan* | it is genuinely bad |
 
 Use them where you would otherwise write "hmm", "well" or "interesting" — those three all read
@@ -471,6 +478,7 @@ reach for it once the frustration has actually been earned by the length of the 
 Beyond the h-drop, words get written as Ghent says them rather than as Dutch spells them:
 
 - **otto** = auto. The *au* flattens to a short *o*, and the consonant doubles behind it.
+- **luupt** = loopt. The *oo* goes to *uu*.
 
 A list of attested words, not a licence to respell things phonetically.
 

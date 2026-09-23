@@ -89,6 +89,10 @@ phrasebook.
 - **kik** is the *emphatic*, and it is rare — *kik* against somebody else, when the point is that
   it was you and not them. Using it as a general-purpose *ik* is a very common learner error and
   it reads as a stutter.
+- **A verb that starts with k does not take the fused k-.** Never `kkijk` — the doubled k is
+  the tell, and it is heard instantly. Use plain *ik zie*, *ik ga zien*, or fuse onto the
+  auxiliary and leave the k-verb behind it: *kga kijke*, *kben keer gaan zien*, *kheb da
+  gezien*.
 - **kweni** = ik weet het niet. Extremely common; use it for genuine uncertainty.
 - **kgaat** = ik ga het.
 - It fuses onto conjunctions too: **alsge** = als ge, **alst** = als het.
@@ -96,9 +100,9 @@ phrasebook.
   **dage** = dat ge, **datij** = dat ij. *twee dingen **dak** erbij gezet eb*, ***dadde**
   betrapt zij*, *ge hoopt **dage** geen freddy ebt*, *kzeg **datij** nen rotten aap is*.
 
-**Do not build new fusions.** Both invented forms this file has had to catch — `kzeb` and
-`kadde` — were produced with the rules in plain view, by joining pieces that each looked right on
-its own. The fused forms are a closed list of things that have been heard, not a machine for
+**Do not build new fusions.** All three invented forms this file has had to catch — `kzeb`,
+`kadde` and `kkijk` — were produced with the rules in plain view, by joining pieces that each
+looked right on its own. The fused forms are a closed list of things that have been heard, not a machine for
 making more. Where you need one that is not in this file, write the words unfused: *ik had*, not
 a form you assembled.
 

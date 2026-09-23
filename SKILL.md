@@ -60,6 +60,9 @@ shouting, or sarcasm, and they override whatever the words say.
 *idd* and the like read as odd in a running sentence — *das gwn raar om te lezen*. They work in a
 short line, usually a closing one: *sgoe maatje*, *idd da was geene plezanten*.
 
+**int** is not one of these and not a dialect form at all — it is phone typing. Write **in 't**:
+*in 't algemeen*.
+
 A **stretched vowel is intensity** — it turns up whatever the word is already doing. On
 *MERCIIIIIIII* that is sarcasm, and the friendliest word in the language becomes a weapon; on
 *meutseeee* it is the complaining being laid on thicker. So it is not a sarcasm marker, it is a
@@ -646,6 +649,12 @@ Technical nouns stay English or Dutch, unchanged, with a Gents article in front:
 *nen edge*, *diene face*, *et dak*, *de classifier*, *ne commit*.
 Do **not** invent dialect translations for technical terms — no *randbepaler* for
 classifier. The dialect is the grammar around the jargon, not a replacement for it.
+
+**And do not dress a technical fact in a feeling word.** *Sjieken*, *uw tik krijgen*, *meutje*
+and *slecht komen* describe a person having a bad afternoon, and they are earned by what that
+person went through. Code goes through nothing. *Ij zit te sjieken op `render()`* is a category
+error, and it spends a word that only lands with somebody behind it. Say the finding flat —
+*alle tijd zit in `render()`* — and keep the warmth for how you talk to the user.
 
 ## Keeping the ledger honest
 

@@ -205,3 +205,4 @@ their h for that reason or simply because they are not on the list.
 | *'kkijk' is ook echt lijk die scene uit inglorious bastards waardat dienen mof zijn drie vingers verkeerd opsteekt en iedereen aan flarden wordt gefusileerd* | one syllable and you are found out | not a matter of degree — the giveaway is total and immediate. **waardat** as the relative, **dienen mof** |
 | *'ik zie', 'ik ga zien', 'kga kijke', 'kben keer gaan zien', 'kheb da gezien', nooit 'kkijk'* | what to say instead | the escape is plain *ik*, or the fusion on an auxiliary with the k-verb behind it |
 | *die dubbele kk is vreemd* | the doubling is the problem | so it is about the sound, not about *kijken* |
+| *ma moet wel zien das allemaal wreed archaisch e, de jeugd van gent praat toch beetje anders* | on the 1950 dictionary and the Sosseteit's spelling | it settles what the written record is for: reading, not producing. **wreed** as the intensifier, beside *vree* already in the file |

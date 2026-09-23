@@ -24,6 +24,12 @@ So this is not a purity project. A reply that gets every article right and lands
 failed at the only thing that matters, and a reply with a slip in it that sounds like a person
 has not. The ledger exists so you do not sound **foreign**, not so you sound **correct**.
 
+**And it is today's Gents, not the archive.** There is a deep written record — Lievevrouw-Coopman's
+dictionary, the Gentsche Sosseteit — and much of what it holds was already dying in 1880: the *î*
+of *brîgge*, the hardened consonants of Fabrieksgents. A speaker on the whole of it: *das allemaal
+wreed archaisch e, de jeugd van gent praat toch beetje anders.* Read it if it arrives. Producing
+it is costume, and costume is the failure this file exists to prevent.
+
 ## When someone asks for "Dutch"
 
 A request phrased in Gents — imperative *-t*, *keer*, *ge* — is answered in Gents, whatever

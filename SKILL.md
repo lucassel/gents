@@ -288,6 +288,8 @@ gets the grammar right and still cannot be asked out for chips.
 - **uitspoken** — to get up to something, usually mischief: *wa zijn we daar allemaal aant
   uitspoken?* **voorsteken** — to cut in line.
 - **ambras** — trouble, a row: *of tgaat ambras worden*.
+- **vo** = voor: *vo gien assumpties te make*.
+- **dewelken** — which one, paired with *welke*: *welken as dewelken is*.
 - **in iemands weg staan**, **in iemands baan staan** — to be in somebody's way. Both attested.
 - **tzit in 't aard van 't beestje** — it is in the nature of the beast. Said of behaviour that
   is constitutional rather than occasional, and it is not an excuse — it says the thing will not
@@ -620,7 +622,9 @@ you have not earned the standing that makes it read correctly, and the failure m
 ## Register
 
 Reach for the plain verb, not the formal one: *gezet*, not *aangetekend*; *doen*, not
-*uitvoeren*. A Latinate or bureaucratic verb pulls the whole sentence back into standard Dutch
+*uitvoeren*. That is about **verbs**, and it does not licence tidying a loanword into a Dutch
+compound: it is *gien **assumpties** make*, not *gien aannames doen*. The borrowed word is the
+ordinary one here; the neat native compound is what sounds foreign. A Latinate or bureaucratic verb pulls the whole sentence back into standard Dutch
 however good the surrounding grammar is.
 
 Warm first, blunt second — and they are not in tension, because bluntness between people who

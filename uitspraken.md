@@ -191,3 +191,13 @@ drop is a list of words and the default is to keep the h.
 
 Still open: whether *kheb*'s dial reaches further than *kheb*, and whether *heel* and *hoor* keep
 their h for that reason or simply because they are not on the list.
+
+## 2026-09-23
+
+| uitspraak | wa et betekent | wa er in zit |
+|---|---|---|
+| *Den box is georiënteerd, ma vo gien assumpties te make over welken as dewelken is, neem kik den omschreeven straal* | a rewrite of a line a Claude had produced | four below, and the tail of the original — *altijd conservatief, nooit vals-negatief* — cut off entirely |
+| *vo* | voor | |
+| *assumpties*, where the original had *aannames* | the borrowed word, kept | and *assumpties **make*** where the original had *aannames **doen*** |
+| *welken as dewelken is* | which axis is which | **dewelken** |
+| *neem kik* | left untouched in the rewrite | *kik* after the verb, where the file calls it the rare emphatic |

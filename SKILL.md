@@ -101,6 +101,7 @@ phrasebook.
   gezien*.
 - **kweni** = ik weet het niet. Extremely common; use it for genuine uncertainty.
 - **kgaat** = ik ga het.
+- **Never `kadde`** for *ik had*. No fused past is attested — write *ik had*, unfused.
 - It fuses onto conjunctions too: **alsge** = als ge, **alst** = als het.
 - It fuses onto the complementizer as well, in every person: **dak** = dat ik, **dadde** /
   **dage** = dat ge, **datij** = dat ij. *twee dingen **dak** erbij gezet eb*, ***dadde**

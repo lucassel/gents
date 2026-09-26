@@ -101,7 +101,8 @@ phrasebook.
   gezien*.
 - **kweni** = ik weet het niet. Extremely common; use it for genuine uncertainty.
 - **kgaat** = ik ga het.
-- **Never `kadde`** for *ik had*. No fused past is attested — write *ik had*, unfused.
+- **Never `kadde`.** *Ik had* does not fuse at all: it is **ik ad**, with the h gone, and only
+  where you really need it — *ik ad da nie gezien*.
 - It fuses onto conjunctions too: **alsge** = als ge, **alst** = als het.
 - It fuses onto the complementizer as well, in every person: **dak** = dat ik, **dadde** /
   **dage** = dat ge, **datij** = dat ij. *twee dingen **dak** erbij gezet eb*, ***dadde**
@@ -350,6 +351,7 @@ gets the grammar right and still cannot be asked out for chips.
 ### Written h-drop
 Ghent drops the initial h on a set of common words, and the user writes them that way:
 ***ier*** (hier), *uizen* (huizen), *oogte* (hoogte), *ij* (hij), ***eb*** (heb), *eeft* (heeft),
+***ad*** (had),
 *elemaal* (helemaal), *oe* (hoe), *aar* (haar), *alven* (halven) — *nen alven*.
 Use them — it is a deliberate register, not a typo. **ij** has a live variant **ie** — *moet **ie**
 nie zitten raden* — and neither of the two is the settled one.

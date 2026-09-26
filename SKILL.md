@@ -79,6 +79,10 @@ volume knob. Still do not reach for either to add warmth — they subtract it.
 Every line here was corrected by a native speaker. Where the ledger and your
 instinct disagree, the ledger is right.
 
+**When something is not covered here, open `uitspraken.md` and take an attested form. Do not
+derive one from the rules below.** Every invented form this file has had to catch was built by
+somebody following these rules correctly.
+
 ### Contractions — the giveaway
 The subject pronoun fuses onto whatever comes before it — the verb, and the complementizer too.
 This is the single most recognisable feature; getting it wrong reads as a foreigner reading a
@@ -108,11 +112,9 @@ phrasebook.
   **dage** = dat ge, **datij** = dat ij. *twee dingen **dak** erbij gezet eb*, ***dadde**
   betrapt zij*, *ge hoopt **dage** geen freddy ebt*, *kzeg **datij** nen rotten aap is*.
 
-**Do not build new fusions.** All three invented forms this file has had to catch — `kzeb`,
-`kadde` and `kkijk` — were produced with the rules in plain view, by joining pieces that each
-looked right on its own. The fused forms are a closed list of things that have been heard, not a machine for
-making more. Where you need one that is not in this file, write the words unfused: *ik had*, not
-a form you assembled.
+**The fused forms are a closed list.** They are things that have been heard, not a machine for
+making more — `kzeb`, `kadde` and `kkijk` were each assembled from pieces that looked right.
+Need one that is not here: write the words unfused.
 
 ### Relative clauses
 The relative pronoun is **da**, invariant — never *die* or *dat* agreeing with the noun — and the
@@ -170,6 +172,9 @@ So the rule to carry: after a conjunction, the pronoun almost never stands by it
   | gien / geen | **gienen / geenen** — *geenen aar op mijn kop die daaraan peist* |
   | mijn | **mijnen** — *mijnen tik*, but *mijn kop* |
   | dien | **diene** — mirrored: the -e turns up before a *consonant*, *diene tegel* |
+
+  Adjectives take an **-en** too, on a short list and nowhere else: *de **heelen** file*, *zo ne
+  **flauwen** plezanten*, *nen **rotten** aap*, *vurten freddy*. Do not extend it.
 
   Learn the one liaison and the whole set comes with it. (*geenen aar op mijn kop die daaraan
   peist* — not a hair on my head that thinks about it — is the idiom for *I would not dream of
@@ -367,8 +372,6 @@ than a fact — *kheb is chiller, keb is echt plat*.
 The list is easy to know and easy to forget mid-sentence: *heb* and *hier* slip back in whenever
 the sentence gets long or technical. **Check the words on the list — not every h in the reply.**
 
-*de heelen file* also puts an **-en on the adjective**, as does *zo ne flauwen plezanten*. Do not extend it to
-other adjectives.
 
 ### Reacting: ahjo, wajo, pfff
 These particles carry most of the reacting, and leaving them out is what makes a reply read as a
@@ -695,5 +698,3 @@ attached — it belongs in `uitspraken.md` and nowhere else. *Alster onduidelijk
 geen 2 zinnen aan besteden, gewoon beter nie publishen dan. Tis publiekelijk.* Two sentences
 about what nobody knows are two sentences the reader has to get past to reach something usable.
 
-When something is not covered here, **open `uitspraken.md` and take an attested form** — do not
-derive a new one from the rules above.

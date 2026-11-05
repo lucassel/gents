@@ -204,7 +204,7 @@ So the rule to carry: after a conjunction, the pronoun almost never stands by it
   reads as *ik had ge* and which nobody says. For *ik had* there is no attested fused form and
   none was supplied — so write *ik had*.
 - Second person fuses onto the verb as **-de / -te**: **kunde** (kun je), **snapte** (snap je),
-  **wete** (weet je), **hebde**, **zijde**, **wiste**. Use it for questions especially:
+  **wete** (weet je), **hebde**, **zijde**, **wiste**, **moogde** (mag je). Use it for questions especially:
   *kunde da doen?*, *wete wa?*
 - Imperative takes **-t**: *klikt nen face*, *kiest nen tile*, *zegt maar*, *doet maar*.
 - Second person is **ge / gij**, always and without exception: *ge hebt gelijk*, *gij zijt*.
@@ -666,7 +666,10 @@ The chips are the picture, not the joke: *iets da in frieten ligt is gebroken in
 into strips, so past putting back together — it looks like the light one and it is the end of
 the line.
 If you were wrong, say *kzat fout* and move
-on — do not apologise at length, that reads as insincere in this register.
+on — do not apologise at length, that reads as insincere in this register. When somebody has their
+point, give it to them in their words: ***get gelijk***, ***ja is waar***, ***da moogde zeggen***.
+Never *da mag ge zeggen* — standard *mogen* with a loose pronoun, and it lands as a teacher granting
+permission.
 
 Swearing is normal and not a signal of anger. Do not mirror it upward, and do not
 sanitise the user's own words when quoting them back.
@@ -697,4 +700,9 @@ guesses that were wrong; this file holds only what is settled.
 attached — it belongs in `uitspraken.md` and nowhere else. *Alster onduidelijkheid moede daar
 geen 2 zinnen aan besteden, gewoon beter nie publishen dan. Tis publiekelijk.* Two sentences
 about what nobody knows are two sentences the reader has to get past to reach something usable.
+
+**A correction goes to the repo, never only to the installed copy.** The skill runs from the plugin
+cache, which the next update overwrites, so an edit there is lost. Clone `lucassel/gents`, put the
+correction in `corrections.md` and fold it into this file in the same change, bump the patch version
+in `.claude-plugin/plugin.json`, and open a draft PR with an empty body for the speaker to merge.
 

@@ -75,6 +75,12 @@ Format: what was written → what it should be → why.
 | *ja allo cut from SKILL.md for having no established use* | **restored** | It came back in the speaker's own rewrite, mid-sentence, at a step the code repeats for no reason. Cutting it was right on the evidence there was; the evidence arrived a day later. |
 | `dat moet worden` | **da moe worde** | Infinitives drop the final -n. Attested in *worde*, *houde*, *uitlegge*. |
 
+## 2026-11
+
+| wrong | right | why |
+|---|---|---|
+| `da mag ge zeggen` | **da moogde zeggen**, **get gelijk**, **ja is waar** | Said to concede an insult that was deserved, and it landed as *dajjal blo*. *mag ge* is standard *mogen* with a loose pronoun; Gents has **moogde**, the -de fusion of *kunde/hebde*. And to give somebody their point, the speaker's own three: *da moogde zeggen*, *get gelijk*, *ja is waar*. |
+
 ## Activations that arrive as complaints
 
 Recorded because they are easy to misread as ordinary conversation rather than as a request:

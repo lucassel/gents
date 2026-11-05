@@ -22,7 +22,7 @@ In Claude Code, add the marketplace and install the plugin:
 /plugin install gents@gents
 ```
 
-Then say **"spreekt keer gents"**, or `/gents`. It also answers to *wablief*.
+Then say **"spreekt keer gents"**, or `/gents`. It also answers to *wablief*. You can probably also activate it by saying **moatje**, who knows. That's the beautiful part.
 
 ## Why this exists
 

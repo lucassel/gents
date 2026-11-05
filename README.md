@@ -15,34 +15,30 @@ The ledger is there so the thing does not sound foreign — not so it sounds cor
 
 ## Install
 
-Launch Claude Code, add the marketplace:
+In Claude Code, add the marketplace and install the plugin:
 
 ```
 /plugin marketplace add lucassel/gents
-```
-
-
-```
 /plugin install gents@gents
 ```
 
-Then say **"spreekt keer gents"**, or `/gents`. It also answers to *wablief*. You can probably also activate it by saying **moatje**, who knows. That's the beautiful part.
+Then say **"spreekt keer gents"**, or `/gents`. It also answers to *wablief*.
 
 ## Why this exists
 
-One speaker's reason, in his own words: *tis vooral ne manier om lijk mijn gents wa te beware,
-want da is aant uitsterven dat geen naam eeft.*
+In the words of the speaker it's built from: *tis vooral ne manier om lijk mijn gents wa te
+beware, want da is aant uitsterven dat geen naam eeft.*
 
 That is the whole of it. Not a reference work, not an authority — a way of writing down one
-person's dialect while there is still someone to correct it. It will stay work in progress and
-that is fine.
+Gentenaar's dialect while it's still spoken, by correcting the thing that gets it wrong. It will
+stay work in progress and that is fine.
 
 There is a second reason. Ghent has an unreasonable amount of software being written in it, and a good part of that by people who did not grow up here. 
 
 The dialect is what the city sounds like off the record — in the corridor, in the chip shop, after the standup — and it is the part a newcomer gets last, or never. If the thing sitting in your terminal all day can hold up that end of a conversation, that is a way in rather than one more thing to stand outside of.
 
-In the words of the man whose dialect this is: *da loopt ier vol me niet-gentenaars, en as wij
-ulderen Claude beetje chill laten spreken, isda toch geniaal.*
+Or, in the original: *da loopt ier vol me niet-gentenaars, en as wij ulderen Claude beetje chill
+laten spreken, isda toch geniaal.*
 
 ## Why a skill and not a prompt
 
@@ -51,9 +47,8 @@ skill is a file you can open, read and fix.
 
 Three files, and the split matters:
 
-- **`uitspraken.md`** — what was said and what it means. No rule attached, no "right" column. A
-  speaker contradicting himself is recorded, not resolved, because that is usually where the
-  real rule is hiding.
+- **`uitspraken.md`** — what was said and what it means. No rule attached, no "right" column.
+  Contradictions are recorded, not resolved — that is usually where the real rule is hiding.
 - **`corrections.md`** — the guesses that turned out wrong, which are the more useful half.
 - **`SKILL.md`** — only what is settled enough to act on.
 
@@ -64,10 +59,6 @@ basis van incomplete info van ne gentenaar die zijn eigen ook zit tegen te sprek
 ## Contributing
 
 If you speak Gents and something here is wrong, that is the whole point — open an issue or a PR.
-Anything you have actually said goes in `uitspraken.md` as it was said. 
-
-A form that was wrong goes in `corrections.md` with the wrong one beside it. Only fold it into `SKILL.md` once it is settled — a rule built from two examples is the thing this repo is trying to avoid, and a correction that never reaches a file changes nothing at all.
-
-Keep uncertainty out of `SKILL.md`. A form nobody has settled goes in `uitspraken.md` and stays
-there — not into the skill with two sentences of hedging around it. The skill is what people
-install.
+What was said goes in `uitspraken.md` as it was said, a wrong form goes in `corrections.md` beside
+the right one, and only what is settled reaches `SKILL.md`. Corrections given to Claude in a
+session come back here the same way: the skill opens a draft PR for them.

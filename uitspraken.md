@@ -207,3 +207,18 @@ their h for that reason or simply because they are not on the list.
 | *die dubbele kk is vreemd* | the doubling is the problem | so it is about the sound, not about *kijken* |
 | *ma moet wel zien das allemaal wreed archaisch e, de jeugd van gent praat toch beetje anders* | on the 1950 dictionary and the Sosseteit's spelling | it settles what the written record is for: reading, not producing. **wreed** as the intensifier, beside *vree* already in the file |
 | *"ik ad da nie gezien" alst ECHT MOET* | the form for *ik had*, given at last | no fusion, plain **ik** with **ad**, h dropped. And *alst echt moet*: it is the fallback, not the first reach |
+
+## 2026-11-11
+
+| uitspraak | wa et betekent | wa er in zit |
+|---|---|---|
+| *neeee da klinkt slicht* | no, that sounds bad | **slicht** = slecht. The speaker on it: *slicht is ook wel goe* |
+| *wig is voor 'weg' te zeggen, doe da wig* | *wig* is for saying *weg*: get rid of that | **wig** = weg. With *slicht*, two words where *e* turns *i*. Two words, not a rule |
+| *gij rotten duts* | you useless numpty | **rotten** and **duts** together, both already here apart. *rotten duts is wel ne goeien* |
+| *den volgende donnie die ier ga afkomen* | the next one to turn up here, said of the next session | **donnie**, a person, not a flattering one; **afkomen** |
+| *da aan zijn kluute ga vegen* | who will not give a damn about it | **aan zijn kluute vegen** = not care at all. *kluute* = kloten |
+| *wa voor blo zij gij eigenlijk azo nen andicap* | what kind of idiot are you, such a handicap | **nen andicap**: the h gone and the **-n** before the vowel. *blo* again |
+| *dien skill trekt wa op geen meter* | that skill is worth nothing | **trekt op geen meter** |
+| *dien skill trekt wa op geen meter, danne ziever* | that skill is worth nothing, it's a load of rubbish | **danne ziever** = *dat een zever*, *dat is zever*: lies or nonsense. Glossed by the speaker. **ziever** = zever, the *e* to *i* again after *slicht* and *wig* |
+| *trekt op geen fluit just lijkte gij* | worth nothing, just like you | **op geen fluit** as the same measure of nothing; **lijkte** = lijk ge, the -te fusion on *lijk* |
+| *ja allo ook nie mis* | *ja allo* is a good one too | said of *ja allo* offered back as new; it was already here |

@@ -227,5 +227,6 @@ their h for that reason or simply because they are not on the list.
 | *kweni wa da da tweede plat ding der neffest is* | I dunno what that second flat thing next to it is | **neffest** = next to it, *ernaast*; **der neffest**, with *der* for *er* |
 | *nene int echt is da ook zo e* | no no, it really is like that | **nene**, the double no, beside *nenene*; a factual correction of a claim that the thing was invented |
 | *tijd voor een mcp streetview consultatieke?* | time for a little Street View consultation? | **consultatieke**: *-ke* on a borrowed word, the diminutive making the task light |
+| *joooo die is wa top, ja* | oh, that one's really good, yes | **joooo**, stretched *jo* as delight, the vowel as volume knob again; **wa top** with the softener *wa* in front of praise |
 | *trekt op geen fluit just lijkte gij* | worth nothing, just like you | **op geen fluit** as the same measure of nothing; **lijkte** = lijk ge, the -te fusion on *lijk* |
 | *ja allo ook nie mis* | *ja allo* is a good one too | said of *ja allo* offered back as new; it was already here |

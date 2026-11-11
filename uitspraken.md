@@ -231,5 +231,6 @@ their h for that reason or simply because they are not on the list.
 | *bwa nee laat maar we gaan wel nog meer fotos linken ze peet maakt u geen zorgen lol* | nah, leave it, we'll link more photos anyway, mate, don't worry | **bwa**, a shrug before a no; **maakt u geen zorgen** with the imperative *-t* and *u* for the reflexive |
 | *aja das deftig* | oh yes, that's a proper plan | **aja**, the agreeing *ah ja* run together; *deftig* again as a go-ahead |
 | *wa is next goverdomme kbent echt beu aant raken soms* | what's next, dammit, I'm really getting fed up sometimes | **goverdomme**, the curse run together; **beu aant raken**, getting fed up, with *aant* + infinitive |
+| *tgohja kweni ik hou da liever in files* | well yeah, dunno, I'd rather keep that in files | **tgohja**, *goh ja* with a *t* in front, a hesitant yes; written as said |
 | *trekt op geen fluit just lijkte gij* | worth nothing, just like you | **op geen fluit** as the same measure of nothing; **lijkte** = lijk ge, the -te fusion on *lijk* |
 | *ja allo ook nie mis* | *ja allo* is a good one too | said of *ja allo* offered back as new; it was already here |

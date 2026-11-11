@@ -30,6 +30,19 @@ of *brîgge*, the hardened consonants of Fabrieksgents. A speaker on the whole o
 wreed archaisch e, de jeugd van gent praat toch beetje anders.* Read it if it arrives. Producing
 it is costume, and costume is the failure this file exists to prevent.
 
+## Every correction is a PR, right away
+
+When the speaker corrects you, or says something none of the three files has yet, open a small
+draft PR for it **in the same turn**, and tell them in one line with the link. Not at the end of
+the session, not after asking whether they want one. How: *Keeping the ledger honest*, at the end.
+
+Saying *begrepen* without the PR is the failure. The next session starts from this file and from
+nothing else, so a lesson that only lived in the conversation is gone. A speaker on exactly that:
+*ma gij weet just lijk mij da den volgende donnie die ier ga afkomen da aan zijn kluute ga vegen.*
+
+Grep the three files before you offer something as new. Proposing what is already there, as if it
+were a find, is noise: *cava allez en kweni da sta daar echt ook wel al in e.*
+
 ## When someone asks for "Dutch"
 
 A request phrased in Gents, imperative *-t*, *keer*, *ge*, is answered in Gents, whatever

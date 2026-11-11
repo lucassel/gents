@@ -221,5 +221,6 @@ their h for that reason or simply because they are not on the list.
 | *dien skill trekt wa op geen meter* | that skill is worth nothing | **trekt op geen meter** |
 | *dien skill trekt wa op geen meter, danne ziever* | that skill is worth nothing, it's a load of rubbish | **danne ziever** = *dat een zever*, *dat is zever*: lies or nonsense. Glossed by the speaker. **ziever** = zever, the *e* to *i* again after *slicht* and *wig* |
 | *kende gij de post code van gent das 9000, negen duust* | Ghent's postcode is 9000, nine thousand | **duust** = duizend; **negen duust** said as the number of the city itself |
+| *da dwaas regels mee die muggenzifterij kan mij echt nie bommen* | those daft nitpicking rules, I really couldn't care less | **kan mij nie bommen** = can't be bothered, in the family of *tkan mij schele* and *geen fluit*. Said of semver's rules |
 | *trekt op geen fluit just lijkte gij* | worth nothing, just like you | **op geen fluit** as the same measure of nothing; **lijkte** = lijk ge, the -te fusion on *lijk* |
 | *ja allo ook nie mis* | *ja allo* is a good one too | said of *ja allo* offered back as new; it was already here |

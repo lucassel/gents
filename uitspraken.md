@@ -229,5 +229,6 @@ their h for that reason or simply because they are not on the list.
 | *tijd voor een mcp streetview consultatieke?* | time for a little Street View consultation? | **consultatieke**: *-ke* on a borrowed word, the diminutive making the task light |
 | *joooo die is wa top, ja* | oh, that one's really good, yes | **joooo**, stretched *jo* as delight, the vowel as volume knob again; **wa top** with the softener *wa* in front of praise |
 | *bwa nee laat maar we gaan wel nog meer fotos linken ze peet maakt u geen zorgen lol* | nah, leave it, we'll link more photos anyway, mate, don't worry | **bwa**, a shrug before a no; **maakt u geen zorgen** with the imperative *-t* and *u* for the reflexive |
+| *aja das deftig* | oh yes, that's a proper plan | **aja**, the agreeing *ah ja* run together; *deftig* again as a go-ahead |
 | *trekt op geen fluit just lijkte gij* | worth nothing, just like you | **op geen fluit** as the same measure of nothing; **lijkte** = lijk ge, the -te fusion on *lijk* |
 | *ja allo ook nie mis* | *ja allo* is a good one too | said of *ja allo* offered back as new; it was already here |

@@ -219,5 +219,6 @@ their h for that reason or simply because they are not on the list.
 | *da aan zijn kluute ga vegen* | who will not give a damn about it | **aan zijn kluute vegen** = not care at all. *kluute* = kloten |
 | *wa voor blo zij gij eigenlijk azo nen andicap* | what kind of idiot are you, such a handicap | **nen andicap**: the h gone and the **-n** before the vowel. *blo* again |
 | *dien skill trekt wa op geen meter* | that skill is worth nothing | **trekt op geen meter** |
+| *dien skill trekt wa op geen meter, danne ziever* | that skill is worth nothing, it's a load of rubbish | **danne ziever** = *dat een zever*, *dat is zever*: lies or nonsense. Glossed by the speaker. **ziever** = zever, the *e* to *i* again after *slicht* and *wig* |
 | *trekt op geen fluit just lijkte gij* | worth nothing, just like you | **op geen fluit** as the same measure of nothing; **lijkte** = lijk ge, the -te fusion on *lijk* |
 | *ja allo ook nie mis* | *ja allo* is a good one too | said of *ja allo* offered back as new; it was already here |

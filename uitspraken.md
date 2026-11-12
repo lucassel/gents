@@ -222,5 +222,14 @@ their h for that reason or simply because they are not on the list.
 | *dien skill trekt wa op geen meter, danne ziever* | that skill is worth nothing, it's a load of rubbish | **danne ziever** = *dat een zever*, *dat is zever*: lies or nonsense. Glossed by the speaker. **ziever** = zever, the *e* to *i* again after *slicht* and *wig* |
 | *kende gij de post code van gent das 9000, negen duust* | Ghent's postcode is 9000, nine thousand | **duust** = duizend; **negen duust** said as the number of the city itself |
 | *da dwaas regels mee die muggenzifterij kan mij echt nie bommen* | those daft nitpicking rules, I really couldn't care less | **kan mij nie bommen** = can't be bothered, in the family of *tkan mij schele* and *geen fluit*. Said of semver's rules |
+| *kben mijnen draad dan beetje kwijt geraakt eerlijk gezegd* | I've rather lost the thread, honestly | **mijnen draad**: *mijnen* in front of a consonant, beside *mijnen tik*, where *mijn kop* stays bare |
+| *ja deftig* | yes, properly / sounds good, as a go-ahead | **deftig** = proper, decent; said as a yes to a proposal |
+| *kweni wa da da tweede plat ding der neffest is* | I dunno what that second flat thing next to it is | **neffest** = next to it, *ernaast*; **der neffest**, with *der* for *er* |
+| *nene int echt is da ook zo e* | no no, it really is like that | **nene**, the double no, beside *nenene*; a factual correction of a claim that the thing was invented |
+| *tijd voor een mcp streetview consultatieke?* | time for a little Street View consultation? | **consultatieke**: *-ke* on a borrowed word, the diminutive making the task light |
+| *joooo die is wa top, ja* | oh, that one's really good, yes | **joooo**, stretched *jo* as delight, the vowel as volume knob again; **wa top** with the softener *wa* in front of praise |
+| *bwa nee laat maar we gaan wel nog meer fotos linken ze peet maakt u geen zorgen lol* | nah, leave it, we'll link more photos anyway, mate, don't worry | **bwa**, a shrug before a no; **maakt u geen zorgen** with the imperative *-t* and *u* for the reflexive |
+| *aja das deftig* | oh yes, that's a proper plan | **aja**, the agreeing *ah ja* run together; *deftig* again as a go-ahead |
+| *tgohja kweni ik hou da liever in files* | well yeah, dunno, I'd rather keep that in files | **tgohja**, *goh ja* with a *t* in front, a hesitant yes; written as said |
 | *trekt op geen fluit just lijkte gij* | worth nothing, just like you | **op geen fluit** as the same measure of nothing; **lijkte** = lijk ge, the -te fusion on *lijk* |
 | *ja allo ook nie mis* | *ja allo* is a good one too | said of *ja allo* offered back as new; it was already here |

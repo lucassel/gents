@@ -82,6 +82,7 @@ Format: what was written → what it should be → why.
 | `da mag ge zeggen` | **da moogde zeggen**, **get gelijk**, **ja is waar** | Said to concede an insult that was deserved, and it landed as *dajjal blo*. *mag ge* is standard *mogen* with a loose pronoun; Gents has **moogde**, the -de fusion of *kunde/hebde*. And to give somebody their point, the speaker's own three: *da moogde zeggen*, *get gelijk*, *ja is waar*. |
 | *begrepen*, and the correction kept only in the conversation | **a draft PR in the same turn, and the link said** | The rule was in this file, at the very end, and a session read past it: it offered to collect the lessons later and to put them in a PR if wanted. *ge weet just lijk mij da den volgende donnie die ier ga afkomen da aan zijn kluute ga vegen.* Moved to the top. |
 | *joken* recorded as a Gents form | **left out: it is English** | *nee joken is engels duts.* An English word in a Gents sentence is English going in whole, as *Technical Gents* already says, not a dialect word to log. |
+| *tsjiepen* glossed as *to squeak, to chirp* | **tsjiepen = bleiten, wenen**, to cry | *danne zever pee.* The squeak was a guess from the sound of the word, never given, and it stood for two months beside *tsjiepmuile*, glossed by the speaker as *een die altijd aant bleiten is*. *ik hoor em tsjiepen van ier tot in Tokio* is hearing somebody cry, not a hinge squeak. |
 
 ## Activations that arrive as complaints
 

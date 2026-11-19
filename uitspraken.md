@@ -54,9 +54,9 @@ by the day they were said, not strictly ordered within it.
 | *das goe* / *sgoe* | that's fine | both said and both written; *das* is *da's* without the apostrophe |
 | *van ier tot in Tokio* | said when something is glaringly obvious | an intensifier of perception, not of distance. The speaker's own verdict: *tmaakt echt geen steek ma tis zo* |
 | *kziet van ier tot in Tokio* | you can see it a mile off | **kziet** = ik zie het, the *t* leaning back onto the verb, same as *kgaat*, *kzout* |
-| *ik hoor em tsjiepen van ier tot in Tokio* | I can hear it squeaking a mile off | **tsjiepen** = to squeak, to chirp. Note *ier* dropped its h and ***hoor* kept its own**, in one sentence |
+| *ik hoor em tsjiepen van ier tot in Tokio* | I can hear him crying a mile off | **tsjiepen** = *bleiten*, *wenen*, to cry. First glossed as *to squeak*, see 2026-11-19. Note *ier* dropped its h and ***hoor* kept its own**, in one sentence |
 | *tmaakt echt geen steek* | it makes no sense at all | **geen steek**; *geen* here where the ledger elsewhere has *gien* |
-| *tsjiepmuile* | offered beside *ziepmuile*, with no meaning attached | the meaning is in its own row below; it is not *tsjiepen* + *muile* |
+| *tsjiepmuile* | offered beside *ziepmuile*, with no meaning attached | the meaning is in its own row below |
 | *das ook zoiets* | that's another one of those | |
 | *staat er al eh* | it's already in there, right | the tag written **eh**, where `SKILL.md` has it as **e** |
 | *tsjiepmuile is idd een die altijd aant bleiten of zagen is ja en vooral ij doet er niets aan* | the meaning, given | **bleiten**, **zagen**; and the whole definition turns on the second half |
@@ -233,3 +233,9 @@ their h for that reason or simply because they are not on the list.
 | *tgohja kweni ik hou da liever in files* | well yeah, dunno, I'd rather keep that in files | **tgohja**, *goh ja* with a *t* in front, a hesitant yes; written as said |
 | *trekt op geen fluit just lijkte gij* | worth nothing, just like you | **op geen fluit** as the same measure of nothing; **lijkte** = lijk ge, the -te fusion on *lijk* |
 | *ja allo ook nie mis* | *ja allo* is a good one too | said of *ja allo* offered back as new; it was already here |
+
+## 2026-11-19
+
+| uitspraak | wa et betekent | wa er in zit |
+|---|---|---|
+| *danne zever pee, tsjiepen is bleiten, wenen* | that's nonsense, mate: *tsjiepen* is to cry | said to *tsjiepen* glossed as *to squeak*. **danne zever**, here with *zever* where 2026-11-11 had *ziever* |

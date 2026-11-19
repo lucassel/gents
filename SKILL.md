@@ -312,7 +312,7 @@ gets the grammar right and still cannot be asked out for chips.
   van ier tot in Tokio*. Both attested examples are see/hear, so keep it there. The speaker on
   its logic: *tmaakt echt geen steek ma tis zo*, so do not go looking for one, and do not build
   a family of these by swapping Tokyo for somewhere else.
-  - ***tsjiepen***: to squeak, to chirp.
+  - ***tsjiepen***: to cry, *bleiten*, *wenen*.
 - **ma** = maar. **da** = dat. **wa** = wat. **nie** = niet. **gien** = geen.
 - **tse mij nie** = *het interesseert mij niet*, and the *t* is the ordinary *et* fusion, same
   as *tkan mij schele*, which is where it belongs beside. The flatter of the two: it closes the

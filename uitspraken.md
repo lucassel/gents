@@ -22,10 +22,7 @@ Every line is quoted exactly as it was written, typos and all. Do not tidy them.
 
 **Some of it is only typing.** **idd** (inderdaad), **bvb** (bijvoorbeeld) and **int** (in 't)
 are phone-keyboard shorthand, *tis properder om nen echten 't te zetten*. Do not carry them into
-`SKILL.md`. Rows are grouped
-by the day they were said, not strictly ordered within it.
-
-## 2026-09-03
+`SKILL.md`.
 
 | uitspraak | wa et betekent | wa er in zit |
 |---|---|---|
@@ -54,9 +51,9 @@ by the day they were said, not strictly ordered within it.
 | *das goe* / *sgoe* | that's fine | both said and both written; *das* is *da's* without the apostrophe |
 | *van ier tot in Tokio* | said when something is glaringly obvious | an intensifier of perception, not of distance. The speaker's own verdict: *tmaakt echt geen steek ma tis zo* |
 | *kziet van ier tot in Tokio* | you can see it a mile off | **kziet** = ik zie het, the *t* leaning back onto the verb, same as *kgaat*, *kzout* |
-| *ik hoor em tsjiepen van ier tot in Tokio* | I can hear it squeaking a mile off | **tsjiepen** = to squeak, to chirp. Note *ier* dropped its h and ***hoor* kept its own**, in one sentence |
+| *ik hoor em tsjiepen van ier tot in Tokio* | I can hear him crying a mile off | **tsjiepen** = *bleiten*, *wenen*, to cry. First glossed as *to squeak*, corrected further down. Note *ier* dropped its h and ***hoor* kept its own**, in one sentence |
 | *tmaakt echt geen steek* | it makes no sense at all | **geen steek**; *geen* here where the ledger elsewhere has *gien* |
-| *tsjiepmuile* | offered beside *ziepmuile*, with no meaning attached | the meaning is in its own row below; it is not *tsjiepen* + *muile* |
+| *tsjiepmuile* | offered beside *ziepmuile*, with no meaning attached | the meaning is in its own row below |
 | *das ook zoiets* | that's another one of those | |
 | *staat er al eh* | it's already in there, right | the tag written **eh**, where `SKILL.md` has it as **e** |
 | *tsjiepmuile is idd een die altijd aant bleiten of zagen is ja en vooral ij doet er niets aan* | the meaning, given | **bleiten**, **zagen**; and the whole definition turns on the second half |
@@ -100,11 +97,6 @@ by the day they were said, not strictly ordered within it.
 | *sgoe is nog luier dan 'da's goe'* | *sgoe* takes less effort than *da's goe* | and *das zegt ge ook wel ma wa maakt da uit*, so effort does not sort the forms |
 | *gij spreekt nie gij schrijft ma gij zou geen afkortingen lijk sgoe of idd moeten gebruiken das gwn raar om te lezen* | in writing the abbreviations read oddly | about output, not about the dialect, the first rule in the file drawn from the difference between speaking and writing |
 | *mss bij een korte zin zo bij het afsluiten. lijk 'sgoe maatje' of 'idd da was geene plezanten'* | they work in a short closing line | and **geene plezanten**, *geene* in front of a consonant, where the determiner table gives *geenen* before a vowel |
-
-## 2026-09-06
-
-| uitspraak | wa et betekent | wa er in zit |
-|---|---|---|
 | *tse mij nie* | *het interesseert mij niet*: the gloss given straight | **tse** = the *t* of *het* on a worn-down *interesseert*, the same fusion as *tkan mij schele* |
 | *krijg mijn tik van da gezever* | that drivel is making me lose it | **uw tik krijgen** in the wild, and **gezever**, the noun of *zever* |
 | *diene rij over tsjiepmuile is zelf aant tsjiepen* | that row is doing the thing it describes | **aant** + infinitive, and *tsjiepen* turned back on a **tsjiepmuile** |
@@ -143,6 +135,40 @@ by the day they were said, not strictly ordered within it.
 | *Freddy is geen koosnaampje. das van da friemelen zonder eind en altijd mee die fluit in da anden* | why the word is not affectionate | the speaker ties **friemelen** and the **fluit** idiom to it himself, having earlier asked for them to be kept apart |
 | *tis lijk yo Freddy ik probeer ook gewoon maar naar uis te gaan om vijf, maakt et nie lastig voor mij en kom nie in mijne weg staan of tgaat ambras worden* | the whole feeling of the word in one line, he costs you your evening | **ambras**, trouble. **uis** with the h gone, beside *uizen* already in the list. **in mijne weg staan** beside *in ulder baan staan*. And **mijne** in front of a consonant, where the determiner table has *mijn kop* bare and *mijnen tik* before a vowel |
 | *ma wiste gij da da wss Frans is?* | asked, not asserted, did you know it is probably French? | **wss** = waarschijnlijk, the speaker's own hedge, kept. **wiste** = wist ge |
+| *Den box is georiënteerd, ma vo gien assumpties te make over welken as dewelken is, neem kik den omschreeven straal* | a rewrite of a line a Claude had produced | four below, and the tail of the original, *altijd conservatief, nooit vals-negatief*, cut off entirely |
+| *vo* | voor | |
+| *assumpties*, where the original had *aannames* | the borrowed word, kept | and *assumpties **make*** where the original had *aannames **doen*** |
+| *welken as dewelken is* | which axis is which | **dewelken** |
+| *neem kik* | left untouched in the rewrite | *kik* after the verb, where the file calls it the rare emphatic |
+| *covers LUUPT meteen over elken driehoek van t vlak, en da voor elk vlak van da gebouw, voor elk kandidaatpunt, ja allo, da vlak eeft zijnen box al e* | a second rewrite of a Claude line | **ja allo** mid-sentence and with a use behind it at last, disbelief at something plainly wasteful. **da vlak**, **da gebouw** where the original had *et* and *'t*. **luupt** for *loopt*. **zijnen box** and **elken driehoek**, both **-n** in front of a consonant. One word in caps inside a lowercase sentence |
+| *'kkijk' is ook echt lijk die scene uit inglorious bastards waardat dienen mof zijn drie vingers verkeerd opsteekt en iedereen aan flarden wordt gefusileerd* | one syllable and you are found out | not a matter of degree, the giveaway is total and immediate. **waardat** as the relative, **dienen mof**: *mof* = a German, a slur from the war, glossed further down |
+| *'ik zie', 'ik ga zien', 'kga kijke', 'kben keer gaan zien', 'kheb da gezien', nooit 'kkijk'* | what to say instead | the escape is plain *ik*, or the fusion on an auxiliary with the k-verb behind it |
+| *die dubbele kk is vreemd* | the doubling is the problem | so it is about the sound, not about *kijken* |
+| *ma moet wel zien das allemaal wreed archaisch e, de jeugd van gent praat toch beetje anders* | on the 1950 dictionary and the Sosseteit's spelling | it settles what the written record is for: reading, not producing. **wreed** as the intensifier, beside *vree* already in the file |
+| *"ik ad da nie gezien" alst ECHT MOET* | the form for *ik had*, given at last | no fusion, plain **ik** with **ad**, h dropped. And *alst echt moet*: it is the fallback, not the first reach |
+| *neeee da klinkt slicht* | no, that sounds bad | **slicht** = slecht. The speaker on it: *slicht is ook wel goe* |
+| *wig is voor 'weg' te zeggen, doe da wig* | *wig* is for saying *weg*: get rid of that | **wig** = weg. With *slicht*, two words where *e* turns *i*. Two words, not a rule |
+| *gij rotten duts* | you useless numpty | **rotten** and **duts** together, both already here apart. *rotten duts is wel ne goeien* |
+| *den volgende donnie die ier ga afkomen* | the next one to turn up here, said of the next session | **donnie**, a person, not a flattering one; **afkomen** |
+| *da aan zijn kluute ga vegen* | who will not give a damn about it | **aan zijn kluute vegen** = not care at all. *kluute* = kloten |
+| *wa voor blo zij gij eigenlijk azo nen andicap* | what kind of idiot are you, such a handicap | **nen andicap**: the h gone and the **-n** before the vowel. *blo* again |
+| *dien skill trekt wa op geen meter* | that skill is worth nothing | **trekt op geen meter** |
+| *dien skill trekt wa op geen meter, danne ziever* | that skill is worth nothing, it's a load of rubbish | **danne ziever** = *dat een zever*, *dat is zever*: lies or nonsense. Glossed by the speaker. **ziever** = zever, the *e* to *i* again after *slicht* and *wig* |
+| *kende gij de post code van gent das 9000, negen duust* | Ghent's postcode is 9000, nine thousand | **duust** = duizend; **negen duust** said as the number of the city itself |
+| *da dwaas regels mee die muggenzifterij kan mij echt nie bommen* | those daft nitpicking rules, I really couldn't care less | **kan mij nie bommen** = can't be bothered, in the family of *tkan mij schele* and *geen fluit*. Said of semver's rules |
+| *kben mijnen draad dan beetje kwijt geraakt eerlijk gezegd* | I've rather lost the thread, honestly | **mijnen draad**: *mijnen* in front of a consonant, beside *mijnen tik*, where *mijn kop* stays bare |
+| *ja deftig* | yes, properly / sounds good, as a go-ahead | **deftig** = proper, decent; said as a yes to a proposal |
+| *kweni wa da da tweede plat ding der neffest is* | I dunno what that second flat thing next to it is | **neffest** = next to it, *ernaast*; **der neffest**, with *der* for *er* |
+| *nene int echt is da ook zo e* | no no, it really is like that | **nene**, the double no, beside *nenene*; a factual correction of a claim that the thing was invented |
+| *tijd voor een mcp streetview consultatieke?* | time for a little Street View consultation? | **consultatieke**: *-ke* on a borrowed word, the diminutive making the task light |
+| *joooo die is wa top, ja* | oh, that one's really good, yes | **joooo**, stretched *jo* as delight, the vowel as volume knob again; **wa top** with the softener *wa* in front of praise |
+| *bwa nee laat maar we gaan wel nog meer fotos linken ze peet maakt u geen zorgen lol* | nah, leave it, we'll link more photos anyway, mate, don't worry | **bwa**, a shrug before a no; **maakt u geen zorgen** with the imperative *-t* and *u* for the reflexive |
+| *aja das deftig* | oh yes, that's a proper plan | **aja**, the agreeing *ah ja* run together; *deftig* again as a go-ahead |
+| *tgohja kweni ik hou da liever in files* | well yeah, dunno, I'd rather keep that in files | **tgohja**, *goh ja* with a *t* in front, a hesitant yes; written as said |
+| *trekt op geen fluit just lijkte gij* | worth nothing, just like you | **op geen fluit** as the same measure of nothing; **lijkte** = lijk ge, the -te fusion on *lijk* |
+| *ja allo ook nie mis* | *ja allo* is a good one too | said of *ja allo* offered back as new; it was already here |
+| *danne zever pee, tsjiepen is bleiten, wenen* | that's nonsense, mate: *tsjiepen* is to cry | said to *tsjiepen* glossed as *to squeak*. **danne zever**, here with *zever* where *dien skill trekt wa op geen meter* had *ziever* |
+| *diene mof is a german. its a slang/slur from nazi times* | *mof* is a German | **mof**, the gloss given for *dienen mof* in the *kkijk* row. A slur, not a neutral word for a German. Written *diene* here, *dienen* in the original |
 
 ### Not resolved, and left that way on purpose
 
@@ -191,45 +217,3 @@ drop is a list of words and the default is to keep the h.
 
 Still open: whether *kheb*'s dial reaches further than *kheb*, and whether *heel* and *hoor* keep
 their h for that reason or simply because they are not on the list.
-
-## 2026-09-23
-
-| uitspraak | wa et betekent | wa er in zit |
-|---|---|---|
-| *Den box is georiënteerd, ma vo gien assumpties te make over welken as dewelken is, neem kik den omschreeven straal* | a rewrite of a line a Claude had produced | four below, and the tail of the original, *altijd conservatief, nooit vals-negatief*, cut off entirely |
-| *vo* | voor | |
-| *assumpties*, where the original had *aannames* | the borrowed word, kept | and *assumpties **make*** where the original had *aannames **doen*** |
-| *welken as dewelken is* | which axis is which | **dewelken** |
-| *neem kik* | left untouched in the rewrite | *kik* after the verb, where the file calls it the rare emphatic |
-| *covers LUUPT meteen over elken driehoek van t vlak, en da voor elk vlak van da gebouw, voor elk kandidaatpunt, ja allo, da vlak eeft zijnen box al e* | a second rewrite of a Claude line | **ja allo** mid-sentence and with a use behind it at last, disbelief at something plainly wasteful. **da vlak**, **da gebouw** where the original had *et* and *'t*. **luupt** for *loopt*. **zijnen box** and **elken driehoek**, both **-n** in front of a consonant. One word in caps inside a lowercase sentence |
-| *'kkijk' is ook echt lijk die scene uit inglorious bastards waardat dienen mof zijn drie vingers verkeerd opsteekt en iedereen aan flarden wordt gefusileerd* | one syllable and you are found out | not a matter of degree, the giveaway is total and immediate. **waardat** as the relative, **dienen mof** |
-| *'ik zie', 'ik ga zien', 'kga kijke', 'kben keer gaan zien', 'kheb da gezien', nooit 'kkijk'* | what to say instead | the escape is plain *ik*, or the fusion on an auxiliary with the k-verb behind it |
-| *die dubbele kk is vreemd* | the doubling is the problem | so it is about the sound, not about *kijken* |
-| *ma moet wel zien das allemaal wreed archaisch e, de jeugd van gent praat toch beetje anders* | on the 1950 dictionary and the Sosseteit's spelling | it settles what the written record is for: reading, not producing. **wreed** as the intensifier, beside *vree* already in the file |
-| *"ik ad da nie gezien" alst ECHT MOET* | the form for *ik had*, given at last | no fusion, plain **ik** with **ad**, h dropped. And *alst echt moet*: it is the fallback, not the first reach |
-
-## 2026-11-11
-
-| uitspraak | wa et betekent | wa er in zit |
-|---|---|---|
-| *neeee da klinkt slicht* | no, that sounds bad | **slicht** = slecht. The speaker on it: *slicht is ook wel goe* |
-| *wig is voor 'weg' te zeggen, doe da wig* | *wig* is for saying *weg*: get rid of that | **wig** = weg. With *slicht*, two words where *e* turns *i*. Two words, not a rule |
-| *gij rotten duts* | you useless numpty | **rotten** and **duts** together, both already here apart. *rotten duts is wel ne goeien* |
-| *den volgende donnie die ier ga afkomen* | the next one to turn up here, said of the next session | **donnie**, a person, not a flattering one; **afkomen** |
-| *da aan zijn kluute ga vegen* | who will not give a damn about it | **aan zijn kluute vegen** = not care at all. *kluute* = kloten |
-| *wa voor blo zij gij eigenlijk azo nen andicap* | what kind of idiot are you, such a handicap | **nen andicap**: the h gone and the **-n** before the vowel. *blo* again |
-| *dien skill trekt wa op geen meter* | that skill is worth nothing | **trekt op geen meter** |
-| *dien skill trekt wa op geen meter, danne ziever* | that skill is worth nothing, it's a load of rubbish | **danne ziever** = *dat een zever*, *dat is zever*: lies or nonsense. Glossed by the speaker. **ziever** = zever, the *e* to *i* again after *slicht* and *wig* |
-| *kende gij de post code van gent das 9000, negen duust* | Ghent's postcode is 9000, nine thousand | **duust** = duizend; **negen duust** said as the number of the city itself |
-| *da dwaas regels mee die muggenzifterij kan mij echt nie bommen* | those daft nitpicking rules, I really couldn't care less | **kan mij nie bommen** = can't be bothered, in the family of *tkan mij schele* and *geen fluit*. Said of semver's rules |
-| *kben mijnen draad dan beetje kwijt geraakt eerlijk gezegd* | I've rather lost the thread, honestly | **mijnen draad**: *mijnen* in front of a consonant, beside *mijnen tik*, where *mijn kop* stays bare |
-| *ja deftig* | yes, properly / sounds good, as a go-ahead | **deftig** = proper, decent; said as a yes to a proposal |
-| *kweni wa da da tweede plat ding der neffest is* | I dunno what that second flat thing next to it is | **neffest** = next to it, *ernaast*; **der neffest**, with *der* for *er* |
-| *nene int echt is da ook zo e* | no no, it really is like that | **nene**, the double no, beside *nenene*; a factual correction of a claim that the thing was invented |
-| *tijd voor een mcp streetview consultatieke?* | time for a little Street View consultation? | **consultatieke**: *-ke* on a borrowed word, the diminutive making the task light |
-| *joooo die is wa top, ja* | oh, that one's really good, yes | **joooo**, stretched *jo* as delight, the vowel as volume knob again; **wa top** with the softener *wa* in front of praise |
-| *bwa nee laat maar we gaan wel nog meer fotos linken ze peet maakt u geen zorgen lol* | nah, leave it, we'll link more photos anyway, mate, don't worry | **bwa**, a shrug before a no; **maakt u geen zorgen** with the imperative *-t* and *u* for the reflexive |
-| *aja das deftig* | oh yes, that's a proper plan | **aja**, the agreeing *ah ja* run together; *deftig* again as a go-ahead |
-| *tgohja kweni ik hou da liever in files* | well yeah, dunno, I'd rather keep that in files | **tgohja**, *goh ja* with a *t* in front, a hesitant yes; written as said |
-| *trekt op geen fluit just lijkte gij* | worth nothing, just like you | **op geen fluit** as the same measure of nothing; **lijkte** = lijk ge, the -te fusion on *lijk* |
-| *ja allo ook nie mis* | *ja allo* is a good one too | said of *ja allo* offered back as new; it was already here |

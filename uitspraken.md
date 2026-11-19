@@ -54,7 +54,7 @@ by the day they were said, not strictly ordered within it.
 | *das goe* / *sgoe* | that's fine | both said and both written; *das* is *da's* without the apostrophe |
 | *van ier tot in Tokio* | said when something is glaringly obvious | an intensifier of perception, not of distance. The speaker's own verdict: *tmaakt echt geen steek ma tis zo* |
 | *kziet van ier tot in Tokio* | you can see it a mile off | **kziet** = ik zie het, the *t* leaning back onto the verb, same as *kgaat*, *kzout* |
-| *ik hoor em tsjiepen van ier tot in Tokio* | I can hear him crying a mile off | **tsjiepen** = *bleiten*, *wenen*, to cry. First glossed as *to squeak*, see 2026-11-19. Note *ier* dropped its h and ***hoor* kept its own**, in one sentence |
+| *ik hoor em tsjiepen van ier tot in Tokio* | I can hear him crying a mile off | **tsjiepen** = *bleiten*, *wenen*, to cry. First glossed as *to squeak*, corrected further down. Note *ier* dropped its h and ***hoor* kept its own**, in one sentence |
 | *tmaakt echt geen steek* | it makes no sense at all | **geen steek**; *geen* here where the ledger elsewhere has *gien* |
 | *tsjiepmuile* | offered beside *ziepmuile*, with no meaning attached | the meaning is in its own row below |
 | *das ook zoiets* | that's another one of those | |
@@ -202,7 +202,7 @@ their h for that reason or simply because they are not on the list.
 | *welken as dewelken is* | which axis is which | **dewelken** |
 | *neem kik* | left untouched in the rewrite | *kik* after the verb, where the file calls it the rare emphatic |
 | *covers LUUPT meteen over elken driehoek van t vlak, en da voor elk vlak van da gebouw, voor elk kandidaatpunt, ja allo, da vlak eeft zijnen box al e* | a second rewrite of a Claude line | **ja allo** mid-sentence and with a use behind it at last, disbelief at something plainly wasteful. **da vlak**, **da gebouw** where the original had *et* and *'t*. **luupt** for *loopt*. **zijnen box** and **elken driehoek**, both **-n** in front of a consonant. One word in caps inside a lowercase sentence |
-| *'kkijk' is ook echt lijk die scene uit inglorious bastards waardat dienen mof zijn drie vingers verkeerd opsteekt en iedereen aan flarden wordt gefusileerd* | one syllable and you are found out | not a matter of degree, the giveaway is total and immediate. **waardat** as the relative, **dienen mof**: *mof* = a German, a slur from the war, see 2026-11-19 |
+| *'kkijk' is ook echt lijk die scene uit inglorious bastards waardat dienen mof zijn drie vingers verkeerd opsteekt en iedereen aan flarden wordt gefusileerd* | one syllable and you are found out | not a matter of degree, the giveaway is total and immediate. **waardat** as the relative, **dienen mof**: *mof* = a German, a slur from the war, glossed further down |
 | *'ik zie', 'ik ga zien', 'kga kijke', 'kben keer gaan zien', 'kheb da gezien', nooit 'kkijk'* | what to say instead | the escape is plain *ik*, or the fusion on an auxiliary with the k-verb behind it |
 | *die dubbele kk is vreemd* | the doubling is the problem | so it is about the sound, not about *kijken* |
 | *ma moet wel zien das allemaal wreed archaisch e, de jeugd van gent praat toch beetje anders* | on the 1950 dictionary and the Sosseteit's spelling | it settles what the written record is for: reading, not producing. **wreed** as the intensifier, beside *vree* already in the file |
@@ -234,9 +234,9 @@ their h for that reason or simply because they are not on the list.
 | *trekt op geen fluit just lijkte gij* | worth nothing, just like you | **op geen fluit** as the same measure of nothing; **lijkte** = lijk ge, the -te fusion on *lijk* |
 | *ja allo ook nie mis* | *ja allo* is a good one too | said of *ja allo* offered back as new; it was already here |
 
-## 2026-11-19
+## Undated
 
 | uitspraak | wa et betekent | wa er in zit |
 |---|---|---|
-| *danne zever pee, tsjiepen is bleiten, wenen* | that's nonsense, mate: *tsjiepen* is to cry | said to *tsjiepen* glossed as *to squeak*. **danne zever**, here with *zever* where 2026-11-11 had *ziever* |
+| *danne zever pee, tsjiepen is bleiten, wenen* | that's nonsense, mate: *tsjiepen* is to cry | said to *tsjiepen* glossed as *to squeak*. **danne zever**, here with *zever* where *dien skill trekt wa op geen meter* had *ziever* |
 | *diene mof is a german. its a slang/slur from nazi times* | *mof* is a German | **mof**, the gloss given for *dienen mof* in the *kkijk* row. A slur, not a neutral word for a German. Written *diene* here, *dienen* in the original |

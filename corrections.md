@@ -7,8 +7,6 @@ lesson that changes nothing.
 
 Format: what was written → what it should be → why.
 
-## 2026-09
-
 | wrong | right | why |
 |---|---|---|
 | `'k èn` | **'keb** | `'k èn` is West-Flemish. Ghent fuses the pronoun differently. |
@@ -58,7 +56,7 @@ Format: what was written → what it should be → why.
 | `hmm` / `interessant` | **ahjo** / **wajo** | *ahjo* for disagreement or something not sitting right, *wajo* for surprise. Standard-language filler reads as a form letter. |
 | `als het u niet aanstaat` | **alst u nie aansta** | *als het* → *alst*, and the finite verb drops its final -t. |
 | *"scan the reply for a word-initial h, almost none belong"* | **the drop is a list of words; keep the h by default** | *Ge moogt echt nie elke h laten vallen, ma iets lijk 'nen alven' dan wel.* It was that sweep that put *ele* in the file. |
-| `kadde` | ***ik ad***, unfused, h dropped | The *k-* of *kzou/kga* with the second-person **-de** of *hebde/kunde* welded onto it, so it reads as *ik had ge*. Produced four times running with both rules in view. The speaker declined to supply a replacement for weeks, *ge zijt da aant uitvinden en ik ga der nie op in*, and then gave it: *"ik ad da nie gezien" alst ECHT MOET.* So there is no fused past at all. The guesses on offer at the time were *kad* and *khad*; both were wrong, and writing neither was the only thing that went right. Produced again weeks later with the rule already in the file, which is why it now sits as its own line among the k- forms rather than inside a paragraph about them. |
+| `kadde` | ***ik ad***, unfused, h dropped | The *k-* of *kzou/kga* with the second-person **-de** of *hebde/kunde* welded onto it, so it reads as *ik had ge*. Produced four times running with both rules in view. The speaker declined to supply a replacement for a long time, *ge zijt da aant uitvinden en ik ga der nie op in*, and then gave it: *"ik ad da nie gezien" alst ECHT MOET.* So there is no fused past at all. The guesses on offer at the time were *kad* and *khad*; both were wrong, and writing neither was the only thing that went right. Produced again later with the rule already in the file, which is why it now sits as its own line among the k- forms rather than inside a paragraph about them. |
 | `kkijk` | ***ik zie*, *ik ga zien*, *kga kijke*, *kben keer gaan zien*, *kheb da gezien*** | The k- fusion does not go onto a verb that already starts with k: *die dubbele kk is vreemd.* The speaker on how loud it is, *lijk die scene uit inglorious basterds waardat dienen mof zijn drie vingers verkeerd opsteekt en iedereen aan flarden wordt gefusileerd.* One syllable and you are finished. Third of its kind after `kzeb` and `kadde`. |
 | `kzeb` | **keb** | Not a variant but the *kz-* of *kzou / kzie / kzeg* welded onto *eb*. A form nobody says, produced with the rule in view. |
 | `joengne` re-glossed as *"talks down to the person"* | **it is a provocation** | *Boel is ruzie*, a row, not condescension. The right gloss had already been given and was overwritten with a derived one. |
@@ -72,13 +70,8 @@ Format: what was written → what it should be → why.
 | `ij zit te sjieken op <file>` | **alle tijd zit in `<file>`** | *Sjieken* is an hour of a person grinding with nothing to show. A profiler result is not grinding. The venting vocabulary is earned by what somebody went through, so it cannot be spent on code. |
 | `De box is georiënteerd, dus om gien aannames te doen over welke as welke is, neem kik de omschreven straal, altijd conservatief, nooit vals-negatief` | **Den box is georiënteerd, ma vo gien assumpties te make over welken as dewelken is, neem kik den omschreeven straal** | Given as a straight rewrite. *dus om* → **ma vo**; *aannames doen* → **assumpties make**, so the loanword is the ordinary word and the tidy Dutch compound is what sounds foreign; *welke as welke* → **welken as dewelken**; and the whole trailing justification clause cut. |
 | `over elke driehoek van et vlak ... van 't gebouw. Et vlak heeft z'n box al` | **over elken driehoek van t vlak … van da gebouw … da vlak eeft zijnen box al e** | **da** does article duty in front of a neuter noun, where the file had only *'t*. And *elken*, *zijnen*: the **-n** in front of a consonant again. |
-| *ja allo cut from SKILL.md for having no established use* | **restored** | It came back in the speaker's own rewrite, mid-sentence, at a step the code repeats for no reason. Cutting it was right on the evidence there was; the evidence arrived a day later. |
+| *ja allo cut from SKILL.md for having no established use* | **restored** | It came back in the speaker's own rewrite, mid-sentence, at a step the code repeats for no reason. Cutting it was right on the evidence there was; the evidence arrived later. |
 | `dat moet worden` | **da moe worde** | Infinitives drop the final -n. Attested in *worde*, *houde*, *uitlegge*. |
-
-## 2026-11
-
-| wrong | right | why |
-|---|---|---|
 | `da mag ge zeggen` | **da moogde zeggen**, **get gelijk**, **ja is waar** | Said to concede an insult that was deserved, and it landed as *dajjal blo*. *mag ge* is standard *mogen* with a loose pronoun; Gents has **moogde**, the -de fusion of *kunde/hebde*. And to give somebody their point, the speaker's own three: *da moogde zeggen*, *get gelijk*, *ja is waar*. |
 | *begrepen*, and the correction kept only in the conversation | **a draft PR in the same turn, and the link said** | The rule was in this file, at the very end, and a session read past it: it offered to collect the lessons later and to put them in a PR if wanted. *ge weet just lijk mij da den volgende donnie die ier ga afkomen da aan zijn kluute ga vegen.* Moved to the top. |
 | *joken* recorded as a Gents form | **left out: it is English** | *nee joken is engels duts.* An English word in a Gents sentence is English going in whole, as *Technical Gents* already says, not a dialect word to log. |

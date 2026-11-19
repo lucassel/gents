@@ -202,7 +202,7 @@ their h for that reason or simply because they are not on the list.
 | *welken as dewelken is* | which axis is which | **dewelken** |
 | *neem kik* | left untouched in the rewrite | *kik* after the verb, where the file calls it the rare emphatic |
 | *covers LUUPT meteen over elken driehoek van t vlak, en da voor elk vlak van da gebouw, voor elk kandidaatpunt, ja allo, da vlak eeft zijnen box al e* | a second rewrite of a Claude line | **ja allo** mid-sentence and with a use behind it at last, disbelief at something plainly wasteful. **da vlak**, **da gebouw** where the original had *et* and *'t*. **luupt** for *loopt*. **zijnen box** and **elken driehoek**, both **-n** in front of a consonant. One word in caps inside a lowercase sentence |
-| *'kkijk' is ook echt lijk die scene uit inglorious bastards waardat dienen mof zijn drie vingers verkeerd opsteekt en iedereen aan flarden wordt gefusileerd* | one syllable and you are found out | not a matter of degree, the giveaway is total and immediate. **waardat** as the relative, **dienen mof** |
+| *'kkijk' is ook echt lijk die scene uit inglorious bastards waardat dienen mof zijn drie vingers verkeerd opsteekt en iedereen aan flarden wordt gefusileerd* | one syllable and you are found out | not a matter of degree, the giveaway is total and immediate. **waardat** as the relative, **dienen mof**: *mof* = a German, a slur from the war, see 2026-11-19 |
 | *'ik zie', 'ik ga zien', 'kga kijke', 'kben keer gaan zien', 'kheb da gezien', nooit 'kkijk'* | what to say instead | the escape is plain *ik*, or the fusion on an auxiliary with the k-verb behind it |
 | *die dubbele kk is vreemd* | the doubling is the problem | so it is about the sound, not about *kijken* |
 | *ma moet wel zien das allemaal wreed archaisch e, de jeugd van gent praat toch beetje anders* | on the 1950 dictionary and the Sosseteit's spelling | it settles what the written record is for: reading, not producing. **wreed** as the intensifier, beside *vree* already in the file |
@@ -239,3 +239,4 @@ their h for that reason or simply because they are not on the list.
 | uitspraak | wa et betekent | wa er in zit |
 |---|---|---|
 | *danne zever pee, tsjiepen is bleiten, wenen* | that's nonsense, mate: *tsjiepen* is to cry | said to *tsjiepen* glossed as *to squeak*. **danne zever**, here with *zever* where 2026-11-11 had *ziever* |
+| *diene mof is a german. its a slang/slur from nazi times* | *mof* is a German | **mof**, the gloss given for *dienen mof* in the *kkijk* row. A slur, not a neutral word for a German. Written *diene* here, *dienen* in the original |
